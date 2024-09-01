@@ -99,7 +99,6 @@ class SpotifySearch:
             return False
 
     def search(self):
-        """Effectue les recherches par album et par titre sur Spotify."""
         logging.info(
             "Spotify - Début de la recherche pour l'artiste: %s, album: %s",
             self.artist_name,
