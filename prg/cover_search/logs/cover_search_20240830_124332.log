@@ -1,0 +1,80 @@
+2024-08-30 12:43:32 INFO     Started
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved: BQDdTcPaJorzu9iG7ngUMHf4ddwXxsO_5fmADVmyXoX__69iDXa0Dx1abaWDNytBK6a2ZrUh4yaCCzcsBs9x14HPe5OLImrEHTgeDnPIGND5fJhI5OU
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:33 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:33 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:33 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:33 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:43:33 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:43:33 WARNING  Lame tag CRC check failed
+2024-08-30 12:43:33 INFO     1266/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Tempus Fugit (alternate Take).mp3 - artist : Miles Davis title : Tempus Fugit (alternate take) album : Miles Davis, Volume 2
+2024-08-30 12:43:33 WARNING  Lame tag CRC check failed
+2024-08-30 12:43:33 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Tempus Fugit (alternate Take).mp3 vers /home/web/bonnezic.com/album/Miles Davis - Tempus Fugit (alternate Take).jpg
+2024-08-30 12:43:33 INFO     Image /home/web/bonnezic.com/album/Miles Davis - Tempus Fugit (alternate Take).jpg trop petite (200x195)
+2024-08-30 12:43:33 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 12:43:33 INFO     Spotify - Début de la recherche pour l'artiste: Miles Davis, album: Miles Davis, Volume 2
+2024-08-30 12:43:33 INFO     Spotify - Requête envoyée : artist:Miles Davis album:Miles Davis, Volume 2
+2024-08-30 12:43:34 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273e2e871611c36d490252a2e9f
+2024-08-30 12:43:34 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273e2e871611c36d490252a2e9f
+2024-08-30 12:43:34 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273e2e871611c36d490252a2e9f
+2024-08-30 12:43:34 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273e2e871611c36d490252a2e9f
+2024-08-30 12:43:34 INFO     L'image /home/web/bonnezic.com/spotify/Miles Davis - Tempus Fugit (alternate Take).jpg n'existe pas
+2024-08-30 12:43:37 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Miles Davis - Tempus Fugit (alternate Take).jpg
+2024-08-30 12:43:37 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:43:37 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Miles Davis - Tempus Fugit (alternate Take).jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Tempus Fugit (alternate Take).mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 INFO     1267/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messenge - Yama.mp3 - artist : Art Blakey & The Jazz Messengers title : Yama album : The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And The Jazz Messenge - Yama.mp3 vers /home/web/bonnezic.com/album/Art Blakey And The Jazz Messenge - Yama.jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And The Jazz Messenge - Yama.jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And The Jazz Messenge - Yama.mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 INFO     1268/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Rehearsal.mp3 - artist : Miles Davis title : In a Silent Way (rehearsal) album : The Complete In a Silent Way Sessions
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Rehearsal.mp3 vers /home/web/bonnezic.com/album/Miles Davis - Rehearsal.jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Rehearsal.jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Rehearsal.mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 WARNING  Invalid date: 705
+2024-08-30 12:43:37 INFO     1269/9270 Traitement de /home/zic/JazzWorld/Kenny Garrett - Hargrove....mp3 - artist : Kenny Garrett title : Hargrove album : Sounds from the Ancestors
+2024-08-30 12:43:37 WARNING  Invalid date: 705
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/Kenny Garrett - Hargrove....mp3 vers /home/web/bonnezic.com/album/Kenny Garrett - Hargrove....jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Kenny Garrett - Hargrove....jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Kenny Garrett - Hargrove....mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 WARNING  Invalid date: 805
+2024-08-30 12:43:37 INFO     1270/9270 Traitement de /home/zic/JazzWorld/Chip Wickham - Tubby Chaser.mp3 - artist : Chip Wickham title : Tubby Chaser album : Cloud 10
+2024-08-30 12:43:37 WARNING  Invalid date: 805
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/Chip Wickham - Tubby Chaser.mp3 vers /home/web/bonnezic.com/album/Chip Wickham - Tubby Chaser.jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Chip Wickham - Tubby Chaser.jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Chip Wickham - Tubby Chaser.mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 INFO     1271/9270 Traitement de /home/zic/JazzWorld/Pucho And His Latin Soul Brother - Groovin High.mp3 - artist : Dizzy Gillespie and His Orchestra title : Groovin' High album : Dizzy Gillespie and His Original Orchestra
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/Pucho And His Latin Soul Brother - Groovin High.mp3 vers /home/web/bonnezic.com/album/Pucho And His Latin Soul Brother - Groovin High.jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Pucho And His Latin Soul Brother - Groovin High.jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/Pucho And His Latin Soul Brother - Groovin High.mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 INFO     1272/9270 Traitement de /home/zic/JazzWorld/John Coltrane - While My Lady Sleeps.mp3 - artist : John Coltrane title : While My Lady Sleeps album : Coltrane
+2024-08-30 12:43:37 INFO     Image extraite depuis /home/zic/JazzWorld/John Coltrane - While My Lady Sleeps.mp3 vers /home/web/bonnezic.com/album/John Coltrane - While My Lady Sleeps.jpg
+2024-08-30 12:43:37 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/John Coltrane - While My Lady Sleeps.jpg
+2024-08-30 12:43:37 INFO     Cover found for /home/zic/JazzWorld/John Coltrane - While My Lady Sleeps.mp3, not adding to no_cover.txt
+2024-08-30 12:43:37 INFO     1273/9270 Traitement de /home/zic/JazzWorld/John Coltrane - MR PC.mp3 - artist : John Coltrane title : MR. P.C. album : Giant Steps
+2024-08-30 12:43:37 INFO     Spotify - Début de la recherche pour l'artiste: John Coltrane, album: Giant Steps
+2024-08-30 12:43:37 INFO     Spotify - Requête envoyée : artist:John Coltrane album:Giant Steps
+2024-08-30 12:43:38 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273073aecd10185e5a5fd88eb90
+2024-08-30 12:43:38 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273073aecd10185e5a5fd88eb90
+2024-08-30 12:43:38 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273073aecd10185e5a5fd88eb90
+2024-08-30 12:43:38 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273073aecd10185e5a5fd88eb90
+2024-08-30 12:43:38 INFO     L'image /home/web/bonnezic.com/spotify/John Coltrane - MR PC.jpg n'existe pas

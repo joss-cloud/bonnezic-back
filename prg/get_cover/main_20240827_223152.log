@@ -1,0 +1,124 @@
+2024-08-27 22:31:52 INFO     Started
+2024-08-27 22:31:52 INFO     923/9270 Traitement de /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 22:31:52 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album"A Tribute to Miles"
+2024-08-27 22:31:52 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:52 INFO     Statut de la réponse : 200
+2024-08-27 22:31:52 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:52 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album:"A Tribute to Miles"
+2024-08-27 22:31:52 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%253A%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:52 INFO     Statut de la réponse : 200
+2024-08-27 22:31:52 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:52 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" track:"Elegy"
+2024-08-27 22:31:53 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:31:53 INFO     Statut de la réponse : 200
+2024-08-27 22:31:53 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:53 INFO     Deezer - query artist:"A Tribute To Miles" track:"Elegy"
+2024-08-27 22:31:53 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520Tribute%2520To%2520Miles%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:31:53 INFO     Statut de la réponse : 200
+2024-08-27 22:31:53 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:53 INFO     Tentative avec le premier artiste seulement: Herbie Hancock
+2024-08-27 22:31:53 INFO     Deezer query artist:"Herbie Hancock" album"A Tribute to Miles"
+2024-08-27 22:31:53 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:53 INFO     Statut de la réponse : 200
+2024-08-27 22:31:53 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:53 INFO     Image trouvée sur Deezer avec le premier artiste : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:56 INFO     927/9270 Traitement de /home/zic/JazzWorld/Atomic Jazz Band - Salamu Zako Nimezipata.mp3
+2024-08-27 22:31:56 INFO     Deezer query artist:"Various Artists" album"Zanzibara 3"
+2024-08-27 22:31:56 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Various%2520Artists%2522%2520album%2522Zanzibara%25203%2522
+2024-08-27 22:31:56 INFO     Statut de la réponse : 200
+2024-08-27 22:31:56 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ce05a1588e6aef47e6c8440ce94d12c7/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:56 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ce05a1588e6aef47e6c8440ce94d12c7/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:59 INFO     940/9270 Traitement de /home/zic/JazzWorld/The Jazz Quintet.mp3
+2024-08-27 22:31:59 INFO     Deezer query artist:"Richard Eldwyn" album"Jazz pour l'action"
+2024-08-27 22:32:00 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Richard%2520Eldwyn%2522%2520album%2522Jazz%2520pour%2520l%27action%2522
+2024-08-27 22:32:00 INFO     Statut de la réponse : 200
+2024-08-27 22:32:00 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2789db24930c739dca25c739956dc9b9/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:00 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/2789db24930c739dca25c739956dc9b9/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:03 INFO     949/9270 Traitement de /home/zic/JazzWorld/Francis Bebey - Mon Amour Pour Toi.mp3
+2024-08-27 22:32:03 INFO     Deezer query artist:"Francis Bebey" album"La Condition masculine"
+2024-08-27 22:32:03 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Francis%2520Bebey%2522%2520album%2522La%2520Condition%2520masculine%2522
+2024-08-27 22:32:03 INFO     Statut de la réponse : 200
+2024-08-27 22:32:03 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/1bc5c0563dd7d818e15bee7811dc64f7/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:03 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/1bc5c0563dd7d818e15bee7811dc64f7/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:06 INFO     974/9270 Traitement de /home/zic/JazzWorld/Snowboy - The Bell That Makes You Dance.mp3
+2024-08-27 22:32:06 INFO     Deezer query artist:"Snowboy & The Latin Section" album"Ritmo Snowbo"
+2024-08-27 22:32:07 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Snowboy%2520%26%2520The%2520Latin%2520Section%2522%2520album%2522Ritmo%2520Snowbo%2522
+2024-08-27 22:32:07 INFO     Statut de la réponse : 200
+2024-08-27 22:32:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0916fa6b90e653b7cb08800644cc0d7c/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:07 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/0916fa6b90e653b7cb08800644cc0d7c/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:10 INFO     977/9270 Traitement de /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3
+2024-08-27 22:32:10 INFO     Deezer query artist:"Mendzang Me" album"Xylophones Fang"
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%2522Xylophones%2520Fang%2522
+2024-08-27 22:32:10 INFO     Statut de la réponse : 200
+2024-08-27 22:32:10 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:10 INFO     Deezer query artist:"Mendzang Me" album:"Xylophones Fang"
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%253A%2522Xylophones%2520Fang%2522
+2024-08-27 22:32:10 INFO     Statut de la réponse : 200
+2024-08-27 22:32:10 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:10 INFO     Deezer query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 22:32:10 INFO     Statut de la réponse : 200
+2024-08-27 22:32:10 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:10 INFO     Deezer - query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 22:32:10 INFO     Statut de la réponse : 200
+2024-08-27 22:32:10 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:10 INFO     Spotify query artist:Mendzang Me album:Xylophones Fang
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AMendzang+Me+album%3AXylophones+Fang&type=album
+2024-08-27 22:32:10 INFO     Statut de la réponse : 401
+2024-08-27 22:32:10 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:32:10 INFO     Spotify query artist:Mendzang Me track:Yekaba
+2024-08-27 22:32:10 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AMendzang+Me+track%3AYekaba&type=track
+2024-08-27 22:32:10 INFO     Statut de la réponse : 401
+2024-08-27 22:32:10 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:32:10 INFO     Image non trouvée pour /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3
+2024-08-27 22:32:10 ERROR    /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3 No Cover
+2024-08-27 22:32:10 INFO     1005/9270 Traitement de /home/zic/JazzWorld/Erik Truffaz - Mr Wyatt.mp3
+2024-08-27 22:32:10 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" album"Rendez-Vous"
+2024-08-27 22:32:11 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520album%2522Rendez-Vous%2522
+2024-08-27 22:32:11 INFO     Statut de la réponse : 200
+2024-08-27 22:32:11 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:11 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" album:"Rendez-Vous"
+2024-08-27 22:32:11 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520album%253A%2522Rendez-Vous%2522
+2024-08-27 22:32:11 INFO     Statut de la réponse : 200
+2024-08-27 22:32:11 INFO     Aucun résultat trouvé.
+2024-08-27 22:32:11 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" track:"Mr Wyatt"
+2024-08-27 22:32:11 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520track%253A%2522Mr%2520Wyatt%2522
+2024-08-27 22:32:11 INFO     Statut de la réponse : 200
+2024-08-27 22:32:11 ERROR    Erreur lors de la récupération du nom de l'album avec Deezer. 'cover_big'
+2024-08-27 22:32:11 INFO     Deezer - query artist:"Erik Truffaz" track:"Mr Wyatt"
+2024-08-27 22:32:11 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Erik%2520Truffaz%2522%2520track%253A%2522Mr%2520Wyatt%2522
+2024-08-27 22:32:11 INFO     Statut de la réponse : 200
+2024-08-27 22:32:11 ERROR    Erreur lors de la récupération du nom de l'album avec Deezer. 'cover_big'
+2024-08-27 22:32:11 INFO     Tentative avec le premier artiste seulement: Erik Truffaz
+2024-08-27 22:32:11 INFO     Deezer query artist:"Erik Truffaz" album"Rendez-Vous"
+2024-08-27 22:32:11 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Erik%2520Truffaz%2522%2520album%2522Rendez-Vous%2522
+2024-08-27 22:32:11 INFO     Statut de la réponse : 200
+2024-08-27 22:32:11 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/53f614fea42f1bf733bf85951f795071/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:11 INFO     Image trouvée sur Deezer avec le premier artiste : https://e-cdns-images.dzcdn.net/images/cover/53f614fea42f1bf733bf85951f795071/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:14 INFO     1008/9270 Traitement de /home/zic/JazzWorld/Laurent De Wilde - Back On The Beat.mp3
+2024-08-27 22:32:14 INFO     Deezer query artist:"Laurent de Wilde" album"Life Is a Movie"
+2024-08-27 22:32:15 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Laurent%2520de%2520Wilde%2522%2520album%2522Life%2520Is%2520a%2520Movie%2522
+2024-08-27 22:32:15 INFO     Statut de la réponse : 200
+2024-08-27 22:32:15 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ab1d2b96793aa7858f7bfb7ed7f31ce2/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:15 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ab1d2b96793aa7858f7bfb7ed7f31ce2/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:18 WARNING  Lame tag CRC check failed
+2024-08-27 22:32:18 INFO     1009/9270 Traitement de /home/zic/JazzWorld/Roy Budd - Alternate 3 (Sourcet) (Bonus).mp3
+2024-08-27 22:32:18 INFO     Deezer query artist:"Fred Karlin" album"Coma / Westworld / The Carey Treatment"
+2024-08-27 22:32:18 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Fred%2520Karlin%2522%2520album%2522Coma%2520/%2520Westworld%2520/%2520The%2520Carey%2520Treatment%2522
+2024-08-27 22:32:18 INFO     Statut de la réponse : 200
+2024-08-27 22:32:18 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/87c6174e5371ed2d7c2b86c4257896c2/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:18 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/87c6174e5371ed2d7c2b86c4257896c2/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:21 WARNING  Lame tag CRC check failed
+2024-08-27 22:32:21 INFO     1010/9270 Traitement de /home/zic/JazzWorld/Guem - Afrique Orient.mp3
+2024-08-27 22:32:21 INFO     Deezer query artist:"Guem" album"Percussions - Le Serpent"
+2024-08-27 22:32:21 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Guem%2522%2520album%2522Percussions%2520-%2520Le%2520Serpent%2522
+2024-08-27 22:32:21 INFO     Statut de la réponse : 200
+2024-08-27 22:32:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/67e0ccef0e9b5d7e22708ba059887611/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:21 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/67e0ccef0e9b5d7e22708ba059887611/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:25 INFO     1011/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - Your Gold Teeth II.mp3
+2024-08-27 22:32:25 INFO     Deezer query artist:"Herbie Hancock" album"Herbie Hancock: Hits & Rarities"
+2024-08-27 22:32:25 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2522%2520album%2522Herbie%2520Hancock%253A%2520Hits%2520%26%2520Rarities%2522
+2024-08-27 22:32:25 INFO     Statut de la réponse : 200
+2024-08-27 22:32:25 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:32:25 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg

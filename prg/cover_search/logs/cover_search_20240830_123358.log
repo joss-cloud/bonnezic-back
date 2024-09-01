@@ -1,0 +1,211 @@
+2024-08-30 12:33:58 INFO     Started
+2024-08-30 12:33:58 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:58 INFO     Spotify access token retrieved: BQC_jVlba3eUYvGuW34SmMigbnTLK5aDGrKh5SSlncP9uUft_DgyCcsQms932C9aoquQv-bD737UtJUUnWKvsETpZntsyUN5dBWVnUW6gfXWD-o-Byw
+2024-08-30 12:33:58 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:58 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:58 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:33:59 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:33:59 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:00 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:00 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:00 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:00 INFO     1224/9270 Traitement de /home/zic/JazzWorld/Mingus Charles - Zoo-Baba-Da-Oo-Ea.mp3 - artist : Charles Mingus title : Zoo-Baba-Da-Oo-Ea album : Charles Mingus's Finest Hour
+2024-08-30 12:34:00 INFO     Spotify - Début de la recherche pour l'artiste: Charles Mingus, album: Charles Mingus's Finest Hour
+2024-08-30 12:34:00 INFO     Spotify - Requête envoyée : artist:Charles Mingus album:Charles Mingus's Finest Hour
+2024-08-30 12:34:00 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:34:00 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:34:00 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:34:00 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:34:00 INFO     L'image /home/web/bonnezic.com/spotify/Mingus Charles - Zoo-Baba-Da-Oo-Ea.jpg n'existe pas
+2024-08-30 12:34:03 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Mingus Charles - Zoo-Baba-Da-Oo-Ea.jpg
+2024-08-30 12:34:03 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:03 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Mingus Charles - Zoo-Baba-Da-Oo-Ea.jpg
+2024-08-30 12:34:03 INFO     Cover found for /home/zic/JazzWorld/Mingus Charles - Zoo-Baba-Da-Oo-Ea.mp3, not adding to no_cover.txt
+2024-08-30 12:34:03 INFO     1225/9270 Traitement de /home/zic/JazzWorld/Hilight Tribe - Dow Frequency.mp3 - artist : Hilight Tribe title : Dow Frequency album : Stellar Rain
+2024-08-30 12:34:03 INFO     Image extraite depuis /home/zic/JazzWorld/Hilight Tribe - Dow Frequency.mp3 vers /home/web/bonnezic.com/album/Hilight Tribe - Dow Frequency.jpg
+2024-08-30 12:34:03 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Hilight Tribe - Dow Frequency.jpg
+2024-08-30 12:34:03 INFO     Cover found for /home/zic/JazzWorld/Hilight Tribe - Dow Frequency.mp3, not adding to no_cover.txt
+2024-08-30 12:34:03 INFO     1226/9270 Traitement de /home/zic/JazzWorld/Wayne Shorter - Tom Thumb.mp3 - artist : Wayne Shorter, Curtis Fuller, James Spaulding, Herbie Hancock, Ron Carter & Joe Chambers title : Tom Thumb album : Herbie Hancock: Hits & Rarities
+2024-08-30 12:34:03 INFO     Image extraite depuis /home/zic/JazzWorld/Wayne Shorter - Tom Thumb.mp3 vers /home/web/bonnezic.com/album/Wayne Shorter - Tom Thumb.jpg
+2024-08-30 12:34:03 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Wayne Shorter - Tom Thumb.jpg
+2024-08-30 12:34:03 INFO     Cover found for /home/zic/JazzWorld/Wayne Shorter - Tom Thumb.mp3, not adding to no_cover.txt
+2024-08-30 12:34:03 INFO     1227/9270 Traitement de /home/zic/JazzWorld/Bill Evans - My Romance (Take 2).mp3 - artist : Bill Evans title : My Romance (take 2) album : The Complete Live at the Village Vanguard 1961
+2024-08-30 12:34:03 INFO     Image extraite depuis /home/zic/JazzWorld/Bill Evans - My Romance (Take 2).mp3 vers /home/web/bonnezic.com/album/Bill Evans - My Romance (Take 2).jpg
+2024-08-30 12:34:03 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bill Evans - My Romance (Take 2).jpg
+2024-08-30 12:34:03 INFO     Cover found for /home/zic/JazzWorld/Bill Evans - My Romance (Take 2).mp3, not adding to no_cover.txt
+2024-08-30 12:34:03 INFO     /home/zic/JazzWorld/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).mp3 No Tag Album
+2024-08-30 12:34:03 INFO     1228/9270 Traitement de /home/zic/JazzWorld/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).mp3 - artist : Frederic Galliano title : Koroduga (Chari Chari's Setagaya-Segou Soul River Drive Mix) album : None
+2024-08-30 12:34:03 INFO     Spotify - Début de la recherche pour l'artiste: Frederic Galliano, album: None
+2024-08-30 12:34:03 INFO     Spotify - Requête envoyée : artist:Frederic Galliano album:None
+2024-08-30 12:34:04 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2739e55f6cab9c229fecf29f057
+2024-08-30 12:34:04 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2739e55f6cab9c229fecf29f057
+2024-08-30 12:34:04 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2739e55f6cab9c229fecf29f057
+2024-08-30 12:34:04 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2739e55f6cab9c229fecf29f057
+2024-08-30 12:34:04 INFO     L'image /home/web/bonnezic.com/spotify/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).jpg n'existe pas
+2024-08-30 12:34:07 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).jpg
+2024-08-30 12:34:07 INFO     Dimensions originales de l'image : 640x635
+2024-08-30 12:34:07 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).jpg
+2024-08-30 12:34:07 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).jpg
+2024-08-30 12:34:07 INFO     Cover found for /home/zic/JazzWorld/Frederic Galliano - Koroduga (Chari Chari S Setagaya Segou Soul River Drive Mix).mp3, not adding to no_cover.txt
+2024-08-30 12:34:07 WARNING  Invalid date: 902
+2024-08-30 12:34:07 INFO     1229/9270 Traitement de /home/zic/JazzWorld/Butcher Brown Nicholas Payton - Jellowstone Room....mp3 - artist : Butcher Brown/Nicholas Payton title : Jellowstone Room album : All Purpose Music
+2024-08-30 12:34:07 WARNING  Invalid date: 902
+2024-08-30 12:34:07 INFO     Image extraite depuis /home/zic/JazzWorld/Butcher Brown Nicholas Payton - Jellowstone Room....mp3 vers /home/web/bonnezic.com/album/Butcher Brown Nicholas Payton - Jellowstone Room....jpg
+2024-08-30 12:34:07 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Butcher Brown Nicholas Payton - Jellowstone Room....jpg
+2024-08-30 12:34:07 INFO     Cover found for /home/zic/JazzWorld/Butcher Brown Nicholas Payton - Jellowstone Room....mp3, not adding to no_cover.txt
+2024-08-30 12:34:07 WARNING  Invalid date: 302
+2024-08-30 12:34:07 INFO     1230/9270 Traitement de /home/zic/JazzWorld/Ustad Vilayat Khan - Train Journey.mp3 - artist : Ustad Vilayat Khan title : Train Journey album : The Guru (Original Soundtrack Recording)
+2024-08-30 12:34:07 WARNING  Invalid date: 302
+2024-08-30 12:34:07 INFO     Image extraite depuis /home/zic/JazzWorld/Ustad Vilayat Khan - Train Journey.mp3 vers /home/web/bonnezic.com/album/Ustad Vilayat Khan - Train Journey.jpg
+2024-08-30 12:34:07 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ustad Vilayat Khan - Train Journey.jpg
+2024-08-30 12:34:07 INFO     Cover found for /home/zic/JazzWorld/Ustad Vilayat Khan - Train Journey.mp3, not adding to no_cover.txt
+2024-08-30 12:34:07 INFO     1231/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Splashdown.mp3 - artist : Miles Davis title : Splashdown album : The Complete In a Silent Way Sessions
+2024-08-30 12:34:07 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Splashdown.mp3 vers /home/web/bonnezic.com/album/Miles Davis - Splashdown.jpg
+2024-08-30 12:34:07 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Splashdown.jpg
+2024-08-30 12:34:07 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Splashdown.mp3, not adding to no_cover.txt
+2024-08-30 12:34:07 INFO     1232/9270 Traitement de /home/zic/JazzWorld/Florian Pellissier Quintet - The Hipster.mp3 - artist : Florian Pellissier Quintet title : The Hipster album : Cap de Bonne Espérance
+2024-08-30 12:34:07 INFO     Image extraite depuis /home/zic/JazzWorld/Florian Pellissier Quintet - The Hipster.mp3 vers /home/web/bonnezic.com/album/Florian Pellissier Quintet - The Hipster.jpg
+2024-08-30 12:34:07 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Florian Pellissier Quintet - The Hipster.jpg
+2024-08-30 12:34:07 INFO     Cover found for /home/zic/JazzWorld/Florian Pellissier Quintet - The Hipster.mp3, not adding to no_cover.txt
+2024-08-30 12:34:07 INFO     1233/9270 Traitement de /home/zic/JazzWorld/Eric Le Lann - Herve In Black and Blue.mp3 - artist : Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss title : Hervé in Black and Blue album : Le Lann, Kikosky, Foster, Weiss
+2024-08-30 12:34:07 INFO     Spotify - Début de la recherche pour l'artiste: Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss, album: Le Lann, Kikosky, Foster, Weiss
+2024-08-30 12:34:07 INFO     Spotify - Requête envoyée : artist:Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss album:Le Lann, Kikosky, Foster, Weiss
+2024-08-30 12:34:08 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2732c6fc345cd9830580b4bf62a
+2024-08-30 12:34:08 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2732c6fc345cd9830580b4bf62a
+2024-08-30 12:34:08 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2732c6fc345cd9830580b4bf62a
+2024-08-30 12:34:08 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2732c6fc345cd9830580b4bf62a
+2024-08-30 12:34:08 INFO     L'image /home/web/bonnezic.com/spotify/Eric Le Lann - Herve In Black and Blue.jpg n'existe pas
+2024-08-30 12:34:11 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Eric Le Lann - Herve In Black and Blue.jpg
+2024-08-30 12:34:11 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:11 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Eric Le Lann - Herve In Black and Blue.jpg
+2024-08-30 12:34:11 INFO     Cover found for /home/zic/JazzWorld/Eric Le Lann - Herve In Black and Blue.mp3, not adding to no_cover.txt
+2024-08-30 12:34:11 WARNING  Invalid date: 302
+2024-08-30 12:34:11 INFO     1234/9270 Traitement de /home/zic/JazzWorld/Ustad Vilayat Khan - Title Music Tom S Arrival The Guru S House Carriage Chase.mp3 - artist : Ustad Vilayat Khan title : Title Music: Tom's Arrival / The Guru's House / Carriage Chase album : The Guru (Original Soundtrack Recording)
+2024-08-30 12:34:11 WARNING  Invalid date: 302
+2024-08-30 12:34:11 INFO     Image extraite depuis /home/zic/JazzWorld/Ustad Vilayat Khan - Title Music Tom S Arrival The Guru S House Carriage Chase.mp3 vers /home/web/bonnezic.com/album/Ustad Vilayat Khan - Title Music Tom S Arrival The Guru S House Carriage Chase.jpg
+2024-08-30 12:34:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ustad Vilayat Khan - Title Music Tom S Arrival The Guru S House Carriage Chase.jpg
+2024-08-30 12:34:11 INFO     Cover found for /home/zic/JazzWorld/Ustad Vilayat Khan - Title Music Tom S Arrival The Guru S House Carriage Chase.mp3, not adding to no_cover.txt
+2024-08-30 12:34:11 INFO     1235/9270 Traitement de /home/zic/JazzWorld/Mickael Brecker - Naked Soul.mp3 - artist : Michael Brecker title : Naked Soul album : Tales From the Hudson
+2024-08-30 12:34:11 INFO     Image extraite depuis /home/zic/JazzWorld/Mickael Brecker - Naked Soul.mp3 vers /home/web/bonnezic.com/album/Mickael Brecker - Naked Soul.jpg
+2024-08-30 12:34:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mickael Brecker - Naked Soul.jpg
+2024-08-30 12:34:11 INFO     Cover found for /home/zic/JazzWorld/Mickael Brecker - Naked Soul.mp3, not adding to no_cover.txt
+2024-08-30 12:34:11 INFO     1236/9270 Traitement de /home/zic/JazzWorld/Joe Henderson - Opus One-Point-Five.mp3 - artist : Joe Henderson title : Opus One-Point-Five album : Power to the People
+2024-08-30 12:34:11 INFO     Image extraite depuis /home/zic/JazzWorld/Joe Henderson - Opus One-Point-Five.mp3 vers /home/web/bonnezic.com/album/Joe Henderson - Opus One-Point-Five.jpg
+2024-08-30 12:34:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Joe Henderson - Opus One-Point-Five.jpg
+2024-08-30 12:34:11 INFO     Cover found for /home/zic/JazzWorld/Joe Henderson - Opus One-Point-Five.mp3, not adding to no_cover.txt
+2024-08-30 12:34:11 INFO     1237/9270 Traitement de /home/zic/JazzWorld/Les Fils Canouche - N 5.mp3 - artist : Les Fils Canouche title : Les Fils Canouche / N? 5 album : Nagori
+2024-08-30 12:34:11 INFO     Spotify - Début de la recherche pour l'artiste: Les Fils Canouche, album: Nagori
+2024-08-30 12:34:11 INFO     Spotify - Requête envoyée : artist:Les Fils Canouche album:Nagori
+2024-08-30 12:34:11 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27381cb9a3eb9185eb710147146
+2024-08-30 12:34:11 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27381cb9a3eb9185eb710147146
+2024-08-30 12:34:11 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27381cb9a3eb9185eb710147146
+2024-08-30 12:34:11 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27381cb9a3eb9185eb710147146
+2024-08-30 12:34:11 INFO     L'image /home/web/bonnezic.com/spotify/Les Fils Canouche - N 5.jpg n'existe pas
+2024-08-30 12:34:15 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Les Fils Canouche - N 5.jpg
+2024-08-30 12:34:15 INFO     Dimensions originales de l'image : 640x570
+2024-08-30 12:34:15 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Les Fils Canouche - N 5.jpg
+2024-08-30 12:34:15 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Les Fils Canouche - N 5.jpg
+2024-08-30 12:34:15 INFO     Cover found for /home/zic/JazzWorld/Les Fils Canouche - N 5.mp3, not adding to no_cover.txt
+2024-08-30 12:34:15 INFO     1238/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Mademoiselle Mabry.mp3 - artist : Miles Davis title : Mademoiselle Mabry album : The Complete In a Silent Way Sessions
+2024-08-30 12:34:15 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Mademoiselle Mabry.mp3 vers /home/web/bonnezic.com/album/Miles Davis - Mademoiselle Mabry.jpg
+2024-08-30 12:34:15 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Mademoiselle Mabry.jpg
+2024-08-30 12:34:15 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Mademoiselle Mabry.mp3, not adding to no_cover.txt
+2024-08-30 12:34:15 INFO     1239/9270 Traitement de /home/zic/JazzWorld/The Dave Brubeck Quartet - Take Five.mp3 - artist : The Dave Brubeck Quartet title : Take Five album : Time Out
+2024-08-30 12:34:15 INFO     Spotify - Début de la recherche pour l'artiste: The Dave Brubeck Quartet, album: Time Out
+2024-08-30 12:34:15 INFO     Spotify - Requête envoyée : artist:The Dave Brubeck Quartet album:Time Out
+2024-08-30 12:34:16 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51
+2024-08-30 12:34:16 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51
+2024-08-30 12:34:16 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51
+2024-08-30 12:34:16 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51
+2024-08-30 12:34:16 INFO     L'image /home/web/bonnezic.com/spotify/The Dave Brubeck Quartet - Take Five.jpg n'existe pas
+2024-08-30 12:34:19 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/The Dave Brubeck Quartet - Take Five.jpg
+2024-08-30 12:34:19 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:19 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/The Dave Brubeck Quartet - Take Five.jpg
+2024-08-30 12:34:19 INFO     Cover found for /home/zic/JazzWorld/The Dave Brubeck Quartet - Take Five.mp3, not adding to no_cover.txt
+2024-08-30 12:34:19 INFO     1240/9270 Traitement de /home/zic/JazzWorld/Rhoda Scott Lady Quartet -  I Wanna Move.mp3 - artist : Rhoda Scott Lady Quartet title : Rhoda Scott Lady Quartet / I Wanna Move album : We Free Queens
+2024-08-30 12:34:19 INFO     Spotify - Début de la recherche pour l'artiste: Rhoda Scott Lady Quartet, album: We Free Queens
+2024-08-30 12:34:19 INFO     Spotify - Requête envoyée : artist:Rhoda Scott Lady Quartet album:We Free Queens
+2024-08-30 12:34:20 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273f6aa49b4c0e40d79d0b9ff69
+2024-08-30 12:34:20 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273f6aa49b4c0e40d79d0b9ff69
+2024-08-30 12:34:20 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273f6aa49b4c0e40d79d0b9ff69
+2024-08-30 12:34:20 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273f6aa49b4c0e40d79d0b9ff69
+2024-08-30 12:34:20 INFO     L'image /home/web/bonnezic.com/spotify/Rhoda Scott Lady Quartet -  I Wanna Move.jpg n'existe pas
+2024-08-30 12:34:23 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Rhoda Scott Lady Quartet -  I Wanna Move.jpg
+2024-08-30 12:34:23 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:23 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Rhoda Scott Lady Quartet -  I Wanna Move.jpg
+2024-08-30 12:34:23 INFO     Cover found for /home/zic/JazzWorld/Rhoda Scott Lady Quartet -  I Wanna Move.mp3, not adding to no_cover.txt
+2024-08-30 12:34:23 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:23 INFO     1241/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - Blues For Alice.mp3 - artist : Charlie Parker title : Blues for Alice album : Modern Jazz Archive: Charlie 'Bird' Parker
+2024-08-30 12:34:23 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:23 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - Blues For Alice.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - Blues For Alice.jpg
+2024-08-30 12:34:23 INFO     Image /home/web/bonnezic.com/album/Charlie Parker - Blues For Alice.jpg trop petite (273x500)
+2024-08-30 12:34:23 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 12:34:23 INFO     Spotify - Début de la recherche pour l'artiste: Charlie Parker, album: Modern Jazz Archive: Charlie 'Bird' Parker
+2024-08-30 12:34:23 INFO     Spotify - Requête envoyée : artist:Charlie Parker album:Modern Jazz Archive: Charlie 'Bird' Parker
+2024-08-30 12:34:24 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273cd8975e35aaf58ba42eaa6ba
+2024-08-30 12:34:24 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273cd8975e35aaf58ba42eaa6ba
+2024-08-30 12:34:24 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273cd8975e35aaf58ba42eaa6ba
+2024-08-30 12:34:24 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273cd8975e35aaf58ba42eaa6ba
+2024-08-30 12:34:24 INFO     L'image /home/web/bonnezic.com/spotify/Charlie Parker - Blues For Alice.jpg n'existe pas
+2024-08-30 12:34:27 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Charlie Parker - Blues For Alice.jpg
+2024-08-30 12:34:27 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:27 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Charlie Parker - Blues For Alice.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - Blues For Alice.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:27 INFO     1242/9270 Traitement de /home/zic/JazzWorld/Archie Shepp - Soul Song.mp3 - artist : Archie Shepp title : Soul Song album : Soul Song
+2024-08-30 12:34:27 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Archie Shepp - Soul Song.mp3 vers /home/web/bonnezic.com/album/Archie Shepp - Soul Song.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Archie Shepp - Soul Song.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Archie Shepp - Soul Song.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:27 INFO     1243/9270 Traitement de /home/zic/JazzWorld/Thad Jones - Billie-Doo.mp3 - artist : Thad Jones title : Billie‐Doo album : The Magnificent Thad Jones
+2024-08-30 12:34:27 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Thad Jones - Billie-Doo.mp3 vers /home/web/bonnezic.com/album/Thad Jones - Billie-Doo.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Thad Jones - Billie-Doo.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Thad Jones - Billie-Doo.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 INFO     1244/9270 Traitement de /home/zic/JazzWorld/Herb Ellis - I Told Ya I Love Ya Now Get Out!.mp3 - artist : Herb Ellis title : I Told Ya I Love Ya, Now Get Out! album : The Early Years
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Herb Ellis - I Told Ya I Love Ya Now Get Out!.mp3 vers /home/web/bonnezic.com/album/Herb Ellis - I Told Ya I Love Ya Now Get Out!.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Herb Ellis - I Told Ya I Love Ya Now Get Out!.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Herb Ellis - I Told Ya I Love Ya Now Get Out!.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 INFO     1245/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Summit.mp3 - artist : Art Blakey & The Jazz Messengers title : The Summit album : The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Summit.mp3 vers /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - The Summit.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - The Summit.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Summit.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 INFO     1246/9270 Traitement de /home/zic/JazzWorld/Michel Camilo - Las Dos Lorettas.mp3 - artist : Michel Camilo title : Las Dos Lorettas album : Triangulo
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Michel Camilo - Las Dos Lorettas.mp3 vers /home/web/bonnezic.com/album/Michel Camilo - Las Dos Lorettas.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Michel Camilo - Las Dos Lorettas.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Michel Camilo - Las Dos Lorettas.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 WARNING  Invalid date: 6
+2024-08-30 12:34:27 INFO     1247/9270 Traitement de /home/zic/JazzWorld/Red Baraat Sunny Jain - Mehndi Laga Ke Rakhna.mp3 - artist : Red Baraat/Sunny Jain title : Mehndi Laga Ke Rakhna album : Chaal Baby
+2024-08-30 12:34:27 WARNING  Invalid date: 6
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Red Baraat Sunny Jain - Mehndi Laga Ke Rakhna.mp3 vers /home/web/bonnezic.com/album/Red Baraat Sunny Jain - Mehndi Laga Ke Rakhna.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Red Baraat Sunny Jain - Mehndi Laga Ke Rakhna.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Red Baraat Sunny Jain - Mehndi Laga Ke Rakhna.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 INFO     1248/9270 Traitement de /home/zic/JazzWorld/Shantel - Borino Oro.mp3 - artist : Shantel title : Borino Oro album : Bucovina Club, Volume 2
+2024-08-30 12:34:27 INFO     Image extraite depuis /home/zic/JazzWorld/Shantel - Borino Oro.mp3 vers /home/web/bonnezic.com/album/Shantel - Borino Oro.jpg
+2024-08-30 12:34:27 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Shantel - Borino Oro.jpg
+2024-08-30 12:34:27 INFO     Cover found for /home/zic/JazzWorld/Shantel - Borino Oro.mp3, not adding to no_cover.txt
+2024-08-30 12:34:27 INFO     1249/9270 Traitement de /home/zic/JazzWorld/Monty Alexander - Alypso.mp3 - artist : Monty Alexander title : Alypso album : Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:27 INFO     Spotify - Début de la recherche pour l'artiste: Monty Alexander, album: Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:27 INFO     Spotify - Requête envoyée : artist:Monty Alexander album:Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:28 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:28 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:28 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:28 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:28 INFO     L'image /home/web/bonnezic.com/spotify/Monty Alexander - Alypso.jpg n'existe pas

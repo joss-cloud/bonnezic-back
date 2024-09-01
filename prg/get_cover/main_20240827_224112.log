@@ -1,0 +1,65 @@
+2024-08-27 22:41:12 INFO     Started
+2024-08-27 22:41:12 INFO     Spotify access token retrieved successfully.
+2024-08-27 22:41:12 INFO     977/9270 Traitement de /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3
+2024-08-27 22:41:12 INFO     Deezer query artist:"Mendzang Me" album"Xylophones Fang"
+2024-08-27 22:41:13 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%2522Xylophones%2520Fang%2522
+2024-08-27 22:41:13 INFO     Statut de la réponse : 200
+2024-08-27 22:41:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:13 INFO     Deezer query artist:"Mendzang Me" album:"Xylophones Fang"
+2024-08-27 22:41:13 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%253A%2522Xylophones%2520Fang%2522
+2024-08-27 22:41:13 INFO     Statut de la réponse : 200
+2024-08-27 22:41:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:13 INFO     Deezer query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 22:41:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 22:41:13 INFO     Statut de la réponse : 200
+2024-08-27 22:41:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:13 INFO     Deezer - query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 22:41:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 22:41:13 INFO     Statut de la réponse : 200
+2024-08-27 22:41:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:13 ERROR    Failed to get Spotify access token: {'error': 'invalid_client', 'error_description': 'Invalid client'}
+2024-08-27 22:41:13 ERROR    Spotify access token could not be retrieved. Skipping Spotify search.
+2024-08-27 22:41:13 INFO     Added to no_cover.txt: /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3;Mendzang Me;Yekaba;Xylophones Fang
+2024-08-27 22:41:13 ERROR    /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3 No Cover
+2024-08-27 22:41:13 INFO     1011/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - Your Gold Teeth II.mp3
+2024-08-27 22:41:13 INFO     Deezer query artist:"Herbie Hancock" album"Herbie Hancock: Hits & Rarities"
+2024-08-27 22:41:14 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2522%2520album%2522Herbie%2520Hancock%253A%2520Hits%2520%26%2520Rarities%2522
+2024-08-27 22:41:14 INFO     Statut de la réponse : 200
+2024-08-27 22:41:14 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:14 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:17 INFO     1012/9270 Traitement de /home/zic/JazzWorld/Mickael Brecker - Song For Bilbao.mp3
+2024-08-27 22:41:17 INFO     Deezer query artist:"Michael Brecker" album"Tales From the Hudson"
+2024-08-27 22:41:17 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Michael%2520Brecker%2522%2520album%2522Tales%2520From%2520the%2520Hudson%2522
+2024-08-27 22:41:17 INFO     Statut de la réponse : 200
+2024-08-27 22:41:17 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/8bb291a4378a91a4b10b421282036725/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:17 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/8bb291a4378a91a4b10b421282036725/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:20 INFO     1013/9270 Traitement de /home/zic/JazzWorld/Abraham Inc. - Blue Pepper.mp3
+2024-08-27 22:41:20 INFO     Deezer query artist:"Abraham Inc." album"Together We Stand"
+2024-08-27 22:41:21 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Abraham%2520Inc.%2522%2520album%2522Together%2520We%2520Stand%2522
+2024-08-27 22:41:21 INFO     Statut de la réponse : 200
+2024-08-27 22:41:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6885ef3a10a531ab7f752e8ea846ff45/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:21 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/6885ef3a10a531ab7f752e8ea846ff45/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:24 INFO     1014/9270 Traitement de /home/zic/JazzWorld/Maki Afri-K  - El Ejen.mp3
+2024-08-27 22:41:24 INFO     Deezer query artist:"Maki Afri-K" album"Impala Lounge II"
+2024-08-27 22:41:24 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Maki%2520Afri-K%2522%2520album%2522Impala%2520Lounge%2520II%2522
+2024-08-27 22:41:24 INFO     Statut de la réponse : 200
+2024-08-27 22:41:24 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:24 INFO     Deezer query artist:"Maki Afri-K" album:"Impala Lounge II"
+2024-08-27 22:41:24 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Maki%2520Afri-K%2522%2520album%253A%2522Impala%2520Lounge%2520II%2522
+2024-08-27 22:41:24 INFO     Statut de la réponse : 200
+2024-08-27 22:41:24 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:24 INFO     Deezer query artist:"Maki Afri-K" track:"El Ejen"
+2024-08-27 22:41:24 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Maki%2520Afri-K%2522%2520track%253A%2522El%2520Ejen%2522
+2024-08-27 22:41:24 INFO     Statut de la réponse : 200
+2024-08-27 22:41:24 INFO     Aucun résultat trouvé.
+2024-08-27 22:41:24 ERROR    Failed to get Spotify access token: {'error': 'invalid_client', 'error_description': 'Invalid client'}
+2024-08-27 22:41:24 ERROR    Spotify access token could not be retrieved. Skipping Spotify search.
+2024-08-27 22:41:24 INFO     Added to no_cover.txt: /home/zic/JazzWorld/Maki Afri-K  - El Ejen.mp3;Maki Afri-K;El Ejen;Impala Lounge II
+2024-08-27 22:41:24 ERROR    /home/zic/JazzWorld/Maki Afri-K  - El Ejen.mp3 No Cover
+2024-08-27 22:41:24 WARNING  Lame tag CRC check failed
+2024-08-27 22:41:24 INFO     1015/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Donna (Alternate Take).mp3
+2024-08-27 22:41:24 INFO     Deezer query artist:"Miles Davis" album"Blue Note Vol. 1"
+2024-08-27 22:41:25 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522Blue%2520Note%2520Vol.%25201%2522
+2024-08-27 22:41:25 INFO     Statut de la réponse : 200
+2024-08-27 22:41:25 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 22:41:25 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg

@@ -1,0 +1,65 @@
+2024-08-30 19:30:46 INFO     Started
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved: BQDty7iYuhOh5EHKDwCf3gtQZ1q7XqBbvvav8WtIQN4Ca37R2ho26sInLQqQVg4_7Uandb-mL5uq6jEm-b0Wg_W4MTfeBpKIA09CkjQ5LmLnh0f2p_o
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:47 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:47 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:30:48 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:30:48 INFO     1467/9270 Traitement de /home/zic/JazzWorld/Dexter Gordon - Cheese Cake.mp3 - artist : Dexter Gordon title : Cheese Cake album : The Complete Blue Note Sixties Sessions
+2024-08-30 19:30:48 INFO     Image extraite depuis /home/zic/JazzWorld/Dexter Gordon - Cheese Cake.mp3 vers /home/web/bonnezic.com/album/Dexter Gordon - Cheese Cake.jpg
+2024-08-30 19:30:48 INFO     Image /home/web/bonnezic.com/album/Dexter Gordon - Cheese Cake.jpg trop petite (283x500)
+2024-08-30 19:30:48 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 19:30:48 INFO     Spotify - Début de la recherche pour l'artiste: Dexter Gordon, album: The Complete Blue Note Sixties Sessions
+2024-08-30 19:30:48 INFO     Spotify - Requête envoyée : artist:Dexter Gordon album:The Complete Blue Note Sixties Sessions
+2024-08-30 19:30:49 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273b563b0e96513422070af5454
+2024-08-30 19:30:49 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273b563b0e96513422070af5454
+2024-08-30 19:30:49 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273b563b0e96513422070af5454
+2024-08-30 19:30:49 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273b563b0e96513422070af5454
+2024-08-30 19:30:49 INFO     L'image /home/web/bonnezic.com/spotify/Dexter Gordon - Cheese Cake.jpg n'existe pas
+2024-08-30 19:30:53 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Dexter Gordon - Cheese Cake.jpg
+2024-08-30 19:30:53 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 19:30:53 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Dexter Gordon - Cheese Cake.jpg
+2024-08-30 19:30:53 INFO     Deezer - data : {'data': [{'id': 239916742, 'title': 'The Complete Blue Note Sixties Sessions', 'link': 'https://www.deezer.com/album/239916742', 'cover': 'https://api.deezer.com/album/239916742/image', 'cover_small': 'https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/56x56-000000-80-0-0.jpg', 'cover_medium': 'https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/250x250-000000-80-0-0.jpg', 'cover_big': 'https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/500x500-000000-80-0-0.jpg', 'cover_xl': 'https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/1000x1000-000000-80-0-0.jpg', 'md5_image': '1fa61cda3a70f08c6f445380d634129e', 'genre_id': 129, 'nb_tracks': 62, 'record_type': 'album', 'tracklist': 'https://api.deezer.com/album/239916742/tracks', 'explicit_lyrics': False, 'artist': {'id': 133534, 'name': 'Dexter Gordon', 'link': 'https://www.deezer.com/artist/133534', 'picture': 'https://api.deezer.com/artist/133534/image', 'picture_small': 'https://e-cdns-images.dzcdn.net/images/artist/8c761d0161af444b507829b4eae91e3e/56x56-000000-80-0-0.jpg', 'picture_medium': 'https://e-cdns-images.dzcdn.net/images/artist/8c761d0161af444b507829b4eae91e3e/250x250-000000-80-0-0.jpg', 'picture_big': 'https://e-cdns-images.dzcdn.net/images/artist/8c761d0161af444b507829b4eae91e3e/500x500-000000-80-0-0.jpg', 'picture_xl': 'https://e-cdns-images.dzcdn.net/images/artist/8c761d0161af444b507829b4eae91e3e/1000x1000-000000-80-0-0.jpg', 'tracklist': 'https://api.deezer.com/artist/133534/top?limit=50', 'type': 'artist'}, 'type': 'album'}, {'id': 122163792, 'title': 'The Complete Blue Note Sixties Sessions', 'link': 'https://www.deezer.com/album/122163792', 'cover': 'https://api.deezer.com/album/122163792/image', 'cover_small': 'https://e-cdns-images.dzcdn.net/images/cover/048682327be782e9529a6bc7b54a8a52/56x56-000000-80-0-0.jpg', 'cover_medium': 'https://e-cdns-images.dzcdn.net/images/cover/048682327be782e9529a6bc7b54a8a52/250x250-000000-80-0-0.jpg', 'cover_big': 'https://e-cdns-images.dzcdn.net/images/cover/048682327be782e9529a6bc7b54a8a52/500x500-000000-80-0-0.jpg', 'cover_xl': 'https://e-cdns-images.dzcdn.net/images/cover/048682327be782e9529a6bc7b54a8a52/1000x1000-000000-80-0-0.jpg', 'md5_image': '048682327be782e9529a6bc7b54a8a52', 'genre_id': 129, 'nb_tracks': 54, 'record_type': 'album', 'tracklist': 'https://api.deezer.com/album/122163792/tracks', 'explicit_lyrics': False, 'artist': {'id': 1406, 'name': 'Herbie Hancock', 'link': 'https://www.deezer.com/artist/1406', 'picture': 'https://api.deezer.com/artist/1406/image', 'picture_small': 'https://e-cdns-images.dzcdn.net/images/artist/a4d5a6894ac1dd2568c856e38db80661/56x56-000000-80-0-0.jpg', 'picture_medium': 'https://e-cdns-images.dzcdn.net/images/artist/a4d5a6894ac1dd2568c856e38db80661/250x250-000000-80-0-0.jpg', 'picture_big': 'https://e-cdns-images.dzcdn.net/images/artist/a4d5a6894ac1dd2568c856e38db80661/500x500-000000-80-0-0.jpg', 'picture_xl': 'https://e-cdns-images.dzcdn.net/images/artist/a4d5a6894ac1dd2568c856e38db80661/1000x1000-000000-80-0-0.jpg', 'tracklist': 'https://api.deezer.com/artist/1406/top?limit=50', 'type': 'artist'}, 'type': 'album'}], 'total': 2}
+2024-08-30 19:30:53 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:30:53 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/1fa61cda3a70f08c6f445380d634129e/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:30:53 INFO     L'image /home/web/bonnezic.com/deezer/Dexter Gordon - Cheese Cake.jpg n'existe pas
+2024-08-30 19:30:56 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/deezer/Dexter Gordon - Cheese Cake.jpg
+2024-08-30 19:30:56 INFO     Dimensions originales de l'image : 1000x1000
+2024-08-30 19:30:56 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Dexter Gordon - Cheese Cake.jpg
+2024-08-30 19:30:56 INFO     Cover found for /home/zic/JazzWorld/Dexter Gordon - Cheese Cake.mp3, not adding to no_cover.txt
+2024-08-30 19:30:56 INFO     1468/9270 Traitement de /home/zic/JazzWorld/Alune Wade - Sultan.mp3 - artist : Alune Wade title : Sultan album : Sultan
+2024-08-30 19:30:56 INFO     Image extraite depuis /home/zic/JazzWorld/Alune Wade - Sultan.mp3 vers /home/web/bonnezic.com/album/Alune Wade - Sultan.jpg
+2024-08-30 19:30:56 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Alune Wade - Sultan.jpg
+2024-08-30 19:30:56 INFO     Cover found for /home/zic/JazzWorld/Alune Wade - Sultan.mp3, not adding to no_cover.txt
+2024-08-30 19:30:56 INFO     1469/9270 Traitement de /home/zic/JazzWorld/Christian Sands -  Freefall.mp3 - artist : Christian Sands title : Freefall album : Reach
+2024-08-30 19:30:56 INFO     Spotify - Début de la recherche pour l'artiste: Christian Sands, album: Reach
+2024-08-30 19:30:56 INFO     Spotify - Requête envoyée : artist:Christian Sands album:Reach
+2024-08-30 19:30:57 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273e6b24bee8e14e8e3a182f13b
+2024-08-30 19:30:57 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273e6b24bee8e14e8e3a182f13b
+2024-08-30 19:30:57 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273e6b24bee8e14e8e3a182f13b
+2024-08-30 19:30:57 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273e6b24bee8e14e8e3a182f13b
+2024-08-30 19:30:57 INFO     L'image /home/web/bonnezic.com/spotify/Christian Sands -  Freefall.jpg n'existe pas

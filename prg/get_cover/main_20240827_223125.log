@@ -1,0 +1,31 @@
+2024-08-27 22:31:25 INFO     Started
+2024-08-27 22:31:26 WARNING  Lame tag CRC check failed
+2024-08-27 22:31:26 INFO     898/9270 Traitement de /home/zic/JazzWorld/Kora Jazz Trio - Djanya.mp3
+2024-08-27 22:31:26 INFO     Deezer query artist:"Kora Jazz Trio" album"Part Two"
+2024-08-27 22:31:26 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Kora%2520Jazz%2520Trio%2522%2520album%2522Part%2520Two%2522
+2024-08-27 22:31:26 INFO     Statut de la réponse : 200
+2024-08-27 22:31:26 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e726beba1fed91328644001dfc379567/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:26 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/e726beba1fed91328644001dfc379567/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:29 INFO     923/9270 Traitement de /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 22:31:29 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album"A Tribute to Miles"
+2024-08-27 22:31:29 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:29 INFO     Statut de la réponse : 200
+2024-08-27 22:31:29 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:29 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album:"A Tribute to Miles"
+2024-08-27 22:31:30 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%253A%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:30 INFO     Statut de la réponse : 200
+2024-08-27 22:31:30 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:30 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" track:"Elegy"
+2024-08-27 22:31:30 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:31:30 INFO     Statut de la réponse : 200
+2024-08-27 22:31:30 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:30 INFO     Deezer - query artist:"A Tribute To Miles" track:"Elegy"
+2024-08-27 22:31:30 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520Tribute%2520To%2520Miles%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:31:30 INFO     Statut de la réponse : 200
+2024-08-27 22:31:30 INFO     Aucun résultat trouvé.
+2024-08-27 22:31:30 INFO     Tentative avec le premier artiste seulement: Herbie Hancock
+2024-08-27 22:31:30 INFO     Deezer query artist:"Herbie Hancock" album"A Tribute to Miles"
+2024-08-27 22:31:30 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:31:30 INFO     Statut de la réponse : 200
+2024-08-27 22:31:30 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 22:31:30 INFO     Image trouvée sur Deezer avec le premier artiste : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg

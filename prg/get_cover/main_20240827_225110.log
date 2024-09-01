@@ -1,0 +1,48 @@
+2024-08-27 22:51:10 INFO     Started
+2024-08-27 22:51:10 INFO     Spotify access token retrieved successfully.
+2024-08-27 22:51:10 INFO     Spotify access token retrieved: BQANT5B081qjDnXBS6mnVMR7wewmqzoHrkblJWfNNQab8WAVzji5X-MrEhNC4wGIJxAgAVSyaCTTx3qZgRVssyPVA2avfIE102t1GmguMWyx-HwLyis
+2024-08-27 22:51:12 INFO     1044/9270 Traitement de /home/zic/JazzWorld/A La Carte Brass And Percussion - Papa Was A Rolling Stone.mp3
+2024-08-27 22:51:12 INFO     Deezer query artist:"A la Carte Brass & Percussion" album"Boogeyin'!"
+2024-08-27 22:51:12 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2520%26%2520Percussion%2522%2520album%2522Boogeyin%27%21%2522
+2024-08-27 22:51:12 INFO     Statut de la réponse : 200
+2024-08-27 22:51:12 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:12 INFO     Deezer query artist:"A la Carte Brass & Percussion" album:"Boogeyin'!"
+2024-08-27 22:51:12 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2520%26%2520Percussion%2522%2520album%253A%2522Boogeyin%27%21%2522
+2024-08-27 22:51:12 INFO     Statut de la réponse : 200
+2024-08-27 22:51:12 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:12 INFO     Deezer query artist:"A la Carte Brass & Percussion" track:"Papa Was a Rolling Stone"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2520%26%2520Percussion%2522%2520track%253A%2522Papa%2520Was%2520a%2520Rolling%2520Stone%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 INFO     Deezer - query artist:"A La Carte Brass And Percussion" track:"Papa Was A Rolling Stone"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520La%2520Carte%2520Brass%2520And%2520Percussion%2522%2520track%253A%2522Papa%2520Was%2520A%2520Rolling%2520Stone%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 INFO     Tentative avec le premier artiste seulement: A la Carte Brass
+2024-08-27 22:51:13 INFO     Deezer query artist:"A la Carte Brass" album"Boogeyin'!"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2522%2520album%2522Boogeyin%27%21%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 INFO     Deezer query artist:"A la Carte Brass" album:"Boogeyin'!"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2522%2520album%253A%2522Boogeyin%27%21%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 INFO     Deezer query artist:"A la Carte Brass" track:"Papa Was a Rolling Stone"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520la%2520Carte%2520Brass%2522%2520track%253A%2522Papa%2520Was%2520a%2520Rolling%2520Stone%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 INFO     Deezer - query artist:"A La Carte Brass And Percussion" track:"Papa Was A Rolling Stone"
+2024-08-27 22:51:13 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520La%2520Carte%2520Brass%2520And%2520Percussion%2522%2520track%253A%2522Papa%2520Was%2520A%2520Rolling%2520Stone%2522
+2024-08-27 22:51:13 INFO     Statut de la réponse : 200
+2024-08-27 22:51:13 INFO     Aucun résultat trouvé.
+2024-08-27 22:51:13 ERROR    Failed to get Spotify access token: {'error': 'invalid_client', 'error_description': 'Invalid client'}
+2024-08-27 22:51:13 ERROR    Spotify access token could not be retrieved. Skipping Spotify search.
+2024-08-27 22:51:13 INFO     Added to no_cover.txt: /home/zic/JazzWorld/A La Carte Brass And Percussion - Papa Was A Rolling Stone.mp3;A la Carte Brass & Percussion;Papa Was a Rolling Stone;Boogeyin'!
+2024-08-27 22:51:13 ERROR    /home/zic/JazzWorld/A La Carte Brass And Percussion - Papa Was A Rolling Stone.mp3 No Cover
+2024-08-27 22:51:13 WARNING  Lame tag CRC check failed
+2024-08-27 22:51:13 INFO     1045/9270 Traitement de /home/zic/JazzWorld/Koop Feat. Yukimi Nagano - Summer Sun.mp3
+2024-08-27 22:51:13 INFO     Deezer query artist:"Koop" album"Coming Home II"
+2024-08-27 22:51:14 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Koop%2522%2520album%2522Coming%2520Home%2520II%2522
+2024-08-27 22:51:14 INFO     Statut de la réponse : 200
+2024-08-27 22:51:14 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/10cdf714c26170371328c8d1b2fcd6b5/500x500-000000-80-0-0.jpg
+2024-08-27 22:51:14 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/10cdf714c26170371328c8d1b2fcd6b5/500x500-000000-80-0-0.jpg

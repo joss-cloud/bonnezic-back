@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sélectionnez une Image</title>
+    <style>
+        /* Style pour le spinner de chargement */
+        #loading-spinner {
+            display: none; /* Caché par défaut */
+            position: fixed;
+            z-index: 9999;
+            top: 50%;
+            left: 50%;
+            margin-top: -50px;
+            margin-left: -50px;
+            width: 100px;
+            height: 100px;
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #3498db;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Masquer le contenu principal pendant le chargement */
+        #content {
+            opacity: 1;
+            transition: opacity 0.5s;
+        }
+
+        #content.loading {
+            opacity: 0.5; /* Réduire l'opacité du contenu pendant le chargement */
+        }
+    </style>
+</head>
+<body>
+    <h1>Sélectionnez une Image pour {{ mp3_name }}</h1>
+    <p><strong>Artiste:</strong> {{ artist }}</p>
+    <p><strong>Titre:</strong> {{ title }}</p>
+    <p><strong>Album:</strong> {{ album }}</p>
+    
+    <div id="content">
+        <form id="imageForm" action="{{ url_for('save_cover') }}" method="post">
+            <input type="hidden" name="mp3_name" value="{{ mp3_name }}">
+            {% for image in images %}
+            <div>
+                <input type="radio" name="selected_image" value="{{ image }}">
+                <img src="{{ url_for('serve_image', filename=mp3_name + '/' + image) }}" alt="Image" width="200">
+            </div>
+            {% endfor %}
+            <button type="submit">Enregistrer l'image sélectionnée</button>
+        </form>
+    </div>
+
+    <!-- Spinner de chargement -->
+    <div id="loading-spinner"></div>
+
+    <script>
+        document.getElementById('imageForm').onsubmit = function() {
+            document.getElementById('loading-spinner').style.display = 'block'; // Affiche le spinner
+            document.getElementById('content').classList.add('loading'); // Réduit l'opacité du contenu
+        };
+    </script>
+</body>
+</html>

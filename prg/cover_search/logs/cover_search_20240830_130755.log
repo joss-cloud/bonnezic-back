@@ -1,0 +1,63 @@
+2024-08-30 13:07:55 INFO     Started
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved: BQCWLQiCCKWD7GbVnFXM4b79ipqMly5yMwtqs-2NDRjurNPVkTO0GgmU8jl6ttMQxFPLuxjnmB5nSr00WO7Ua_Ehp8XaKvix5aAqq8wRriDZbNsGEDQ
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:07:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:07:56 INFO     1346/9270 Traitement de /home/zic/JazzWorld/Gerardo Frisina - Descarga.mp3 - artist : Gerardo Frisina title : Descarga album : Latina Cafe, Volume 3
+2024-08-30 13:07:56 INFO     Image extraite depuis /home/zic/JazzWorld/Gerardo Frisina - Descarga.mp3 vers /home/web/bonnezic.com/album/Gerardo Frisina - Descarga.jpg
+2024-08-30 13:07:56 INFO     Image /home/web/bonnezic.com/album/Gerardo Frisina - Descarga.jpg trop petite (300x300)
+2024-08-30 13:07:56 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 13:07:56 INFO     Spotify - Début de la recherche pour l'artiste: Gerardo Frisina, album: Latina Cafe, Volume 3
+2024-08-30 13:07:56 INFO     Spotify - Requête envoyée : artist:Gerardo Frisina album:Latina Cafe, Volume 3
+2024-08-30 13:07:57 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27326fabdf50b3be283d16b9ffd
+2024-08-30 13:07:57 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27326fabdf50b3be283d16b9ffd
+2024-08-30 13:07:57 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27326fabdf50b3be283d16b9ffd
+2024-08-30 13:07:57 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27326fabdf50b3be283d16b9ffd
+2024-08-30 13:07:57 INFO     L'image /home/web/bonnezic.com/spotify/Gerardo Frisina - Descarga.jpg n'existe pas
+2024-08-30 13:08:00 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Gerardo Frisina - Descarga.jpg
+2024-08-30 13:08:00 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 13:08:00 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Gerardo Frisina - Descarga.jpg
+2024-08-30 13:08:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:08:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:08:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:08:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:08:01 INFO     Cover found for /home/zic/JazzWorld/Gerardo Frisina - Descarga.mp3, not adding to no_cover.txt
+2024-08-30 13:08:01 INFO     1347/9270 Traitement de /home/zic/JazzWorld/Art Blakey And Thelonious Monk - Rhythm-A-Ning.mp3 - artist : Art Blakey & The Jazz Messengers with Thelonious Monk title : Rhythm-a-ning album : Art Blakey's Jazz Messengers With Thelonious Monk
+2024-08-30 13:08:01 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And Thelonious Monk - Rhythm-A-Ning.mp3 vers /home/web/bonnezic.com/album/Art Blakey And Thelonious Monk - Rhythm-A-Ning.jpg
+2024-08-30 13:08:01 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And Thelonious Monk - Rhythm-A-Ning.jpg
+2024-08-30 13:08:01 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And Thelonious Monk - Rhythm-A-Ning.mp3, not adding to no_cover.txt
+2024-08-30 13:08:01 INFO     /home/zic/JazzWorld/Pucho And His Latin Soul Brother - I Like It Like That.mp3 No Tag Album
+2024-08-30 13:08:01 INFO     1348/9270 Traitement de /home/zic/JazzWorld/Pucho And His Latin Soul Brother - I Like It Like That.mp3 - artist : Pucho and his Latin Soul Brother title : I Like It Like That album : None
+2024-08-30 13:08:01 INFO     Spotify - Début de la recherche pour l'artiste: Pucho and his Latin Soul Brother, album: None
+2024-08-30 13:08:01 INFO     Spotify - Requête envoyée : artist:Pucho and his Latin Soul Brother album:None
+2024-08-30 13:08:01 WARNING  Spotify - Aucun résultat trouvé.
+2024-08-30 13:08:01 INFO     Spotify - Recherche par album échouée, tentative de recherche par titre.
+2024-08-30 13:08:02 INFO     Spotify track album url : https://i.scdn.co/image/ab67616d0000b27343c96904e951c89ec50910a9
+2024-08-30 13:08:02 INFO     Spotify - Titre trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27343c96904e951c89ec50910a9
+2024-08-30 13:08:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27343c96904e951c89ec50910a9
+2024-08-30 13:08:02 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27343c96904e951c89ec50910a9
+2024-08-30 13:08:02 INFO     L'image /home/web/bonnezic.com/spotify/Pucho And His Latin Soul Brother - I Like It Like That.jpg n'existe pas

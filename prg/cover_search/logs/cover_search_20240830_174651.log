@@ -1,0 +1,226 @@
+2024-08-30 17:46:51 INFO     Started
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved: BQBfKLgpxIAukTIYTGHZRcdUaxnsnSWUkb1s9ONIFMbeDz0uNP4uOt_hTImuTyCBDhXETx9H2McRPxhjeE8yoA3-3owiGEY1lHm7gDZkwKEk3Aff7_o
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:51 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:51 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     Spotify access token needs to be renewed.
+2024-08-30 17:46:52 INFO     Spotify access token retrieved successfully.
+2024-08-30 17:46:52 INFO     1430/9270 Traitement de /home/zic/JazzWorld/Quincy Jones - No Secrets (They Call Me Mister Tibbs).mp3 - artist : Quincy Jones title : Blues for Mister Tibbs album : In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-30 17:46:53 INFO     Image extraite depuis /home/zic/JazzWorld/Quincy Jones - No Secrets (They Call Me Mister Tibbs).mp3 vers /home/web/bonnezic.com/album/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg
+2024-08-30 17:46:53 INFO     Image /home/web/bonnezic.com/album/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg trop petite (400x359)
+2024-08-30 17:46:53 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 17:46:53 INFO     Spotify - Début de la recherche pour l'artiste: Quincy Jones, album: In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-30 17:46:53 INFO     Spotify - Requête envoyée : artist:Quincy Jones album:In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-30 17:46:53 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 17:46:53 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 17:46:53 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 17:46:53 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 17:46:53 INFO     L'image /home/web/bonnezic.com/spotify/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg n'existe pas
+2024-08-30 17:46:56 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg
+2024-08-30 17:46:56 INFO     Dimensions originales de l'image : 640x635
+2024-08-30 17:46:56 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg
+2024-08-30 17:46:56 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg
+2024-08-30 17:46:57 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:46:57 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:46:57 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:46:57 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:46:57 INFO     Cover found for /home/zic/JazzWorld/Quincy Jones - No Secrets (They Call Me Mister Tibbs).mp3, not adding to no_cover.txt
+2024-08-30 17:46:57 INFO     1431/9270 Traitement de /home/zic/JazzWorld/Branford Marsalis - Cheek To Cheek.mp3 - artist : Branford Marsalis title : Cheek to Cheek album : Contemporary Jazz
+2024-08-30 17:46:57 INFO     Image extraite depuis /home/zic/JazzWorld/Branford Marsalis - Cheek To Cheek.mp3 vers /home/web/bonnezic.com/album/Branford Marsalis - Cheek To Cheek.jpg
+2024-08-30 17:46:57 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Branford Marsalis - Cheek To Cheek.jpg
+2024-08-30 17:46:57 INFO     Cover found for /home/zic/JazzWorld/Branford Marsalis - Cheek To Cheek.mp3, not adding to no_cover.txt
+2024-08-30 17:46:57 INFO     1432/9270 Traitement de /home/zic/JazzWorld/Escola De Samba De Padre Miguel - Esquentando O Couro.mp3 - artist : Escola De Samba Mocidade Independente De Padre Miguel title : Esquentando O Couro album : Batucada
+2024-08-30 17:46:57 INFO     Spotify - Début de la recherche pour l'artiste: Escola De Samba Mocidade Independente De Padre Miguel, album: Batucada
+2024-08-30 17:46:57 INFO     Spotify - Requête envoyée : artist:Escola De Samba Mocidade Independente De Padre Miguel album:Batucada
+2024-08-30 17:46:58 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2732899aa5a002f3d3777d5f335
+2024-08-30 17:46:58 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2732899aa5a002f3d3777d5f335
+2024-08-30 17:46:58 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2732899aa5a002f3d3777d5f335
+2024-08-30 17:46:58 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2732899aa5a002f3d3777d5f335
+2024-08-30 17:46:58 INFO     L'image /home/web/bonnezic.com/spotify/Escola De Samba De Padre Miguel - Esquentando O Couro.jpg n'existe pas
+2024-08-30 17:47:01 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Escola De Samba De Padre Miguel - Esquentando O Couro.jpg
+2024-08-30 17:47:01 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 17:47:01 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Escola De Samba De Padre Miguel - Esquentando O Couro.jpg
+2024-08-30 17:47:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:02 INFO     Cover found for /home/zic/JazzWorld/Escola De Samba De Padre Miguel - Esquentando O Couro.mp3, not adding to no_cover.txt
+2024-08-30 17:47:02 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:02 INFO     1433/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Two Bass Hit (alternate Take).mp3 - artist : Miles Davis title : Two Bass Hit (alternate take) album : Milestones
+2024-08-30 17:47:02 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:02 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Two Bass Hit (alternate Take).mp3 vers /home/web/bonnezic.com/album/Miles Davis - Two Bass Hit (alternate Take).jpg
+2024-08-30 17:47:02 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Two Bass Hit (alternate Take).jpg
+2024-08-30 17:47:02 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Two Bass Hit (alternate Take).mp3, not adding to no_cover.txt
+2024-08-30 17:47:02 INFO     1434/9270 Traitement de /home/zic/JazzWorld/Charles Mingus - My Jelly Roll Soul.mp3 - artist : Charles Mingus title : My Jelly Roll Soul album : Blues & Roots
+2024-08-30 17:47:02 INFO     Image extraite depuis /home/zic/JazzWorld/Charles Mingus - My Jelly Roll Soul.mp3 vers /home/web/bonnezic.com/album/Charles Mingus - My Jelly Roll Soul.jpg
+2024-08-30 17:47:02 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Charles Mingus - My Jelly Roll Soul.jpg
+2024-08-30 17:47:02 INFO     Cover found for /home/zic/JazzWorld/Charles Mingus - My Jelly Roll Soul.mp3, not adding to no_cover.txt
+2024-08-30 17:47:02 INFO     1435/9270 Traitement de /home/zic/JazzWorld/Tri Muzike - Assadaca.mp3 - artist : Tri Muzike title : assadaca album : un végh pes marii
+2024-08-30 17:47:02 INFO     Spotify - Début de la recherche pour l'artiste: Tri Muzike, album: un végh pes marii
+2024-08-30 17:47:02 INFO     Spotify - Requête envoyée : artist:Tri Muzike album:un végh pes marii
+2024-08-30 17:47:02 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2738280acdfe65e0dda59510e69
+2024-08-30 17:47:02 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2738280acdfe65e0dda59510e69
+2024-08-30 17:47:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2738280acdfe65e0dda59510e69
+2024-08-30 17:47:02 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2738280acdfe65e0dda59510e69
+2024-08-30 17:47:02 INFO     L'image /home/web/bonnezic.com/spotify/Tri Muzike - Assadaca.jpg n'existe pas
+2024-08-30 17:47:06 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Tri Muzike - Assadaca.jpg
+2024-08-30 17:47:06 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 17:47:06 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Tri Muzike - Assadaca.jpg
+2024-08-30 17:47:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:07 INFO     Cover found for /home/zic/JazzWorld/Tri Muzike - Assadaca.mp3, not adding to no_cover.txt
+2024-08-30 17:47:07 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:07 INFO     1436/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - I Get A Kick Out Of You.mp3 - artist : Charlie Parker title : I Get a Kick Out of You album : The Cole Porter Songbook
+2024-08-30 17:47:07 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:07 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - I Get A Kick Out Of You.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - I Get A Kick Out Of You.jpg
+2024-08-30 17:47:07 INFO     Image /home/web/bonnezic.com/album/Charlie Parker - I Get A Kick Out Of You.jpg trop petite (330x330)
+2024-08-30 17:47:07 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 17:47:07 INFO     Spotify - Début de la recherche pour l'artiste: Charlie Parker, album: The Cole Porter Songbook
+2024-08-30 17:47:07 INFO     Spotify - Requête envoyée : artist:Charlie Parker album:The Cole Porter Songbook
+2024-08-30 17:47:08 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 17:47:08 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 17:47:08 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 17:47:08 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 17:47:08 INFO     L'image /home/web/bonnezic.com/spotify/Charlie Parker - I Get A Kick Out Of You.jpg n'existe pas
+2024-08-30 17:47:11 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Charlie Parker - I Get A Kick Out Of You.jpg
+2024-08-30 17:47:11 INFO     Dimensions originales de l'image : 640x636
+2024-08-30 17:47:11 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Charlie Parker - I Get A Kick Out Of You.jpg
+2024-08-30 17:47:11 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Charlie Parker - I Get A Kick Out Of You.jpg
+2024-08-30 17:47:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - I Get A Kick Out Of You.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1437/9270 Traitement de /home/zic/JazzWorld/Eddie Henderson - Acuphuncture.mp3 - artist : Eddie Henderson title : Acuphuncture album : Heritage
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Eddie Henderson - Acuphuncture.mp3 vers /home/web/bonnezic.com/album/Eddie Henderson - Acuphuncture.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Eddie Henderson - Acuphuncture.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Eddie Henderson - Acuphuncture.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1438/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Another Ruffel.mp3 - artist : Gaël Horellou/Ari Hoenig/Etienne Déconfin/Viktor Nyberg title : Another Ruffel album : Brooklyn
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Gael Horellou - Another Ruffel.mp3 vers /home/web/bonnezic.com/album/Gael Horellou - Another Ruffel.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gael Horellou - Another Ruffel.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Gael Horellou - Another Ruffel.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1439/9270 Traitement de /home/zic/JazzWorld/Yellow Jackets - Dark Horses.mp3 - artist : Yellowjackets title : Dark Horses album : The Spin
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Yellow Jackets - Dark Horses.mp3 vers /home/web/bonnezic.com/album/Yellow Jackets - Dark Horses.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Yellow Jackets - Dark Horses.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Yellow Jackets - Dark Horses.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1440/9270 Traitement de /home/zic/JazzWorld/Wise Alex Tassel Wolf Guillaume Naturel - Put Me On.mp3 - artist : Wise title : Put Me On (feat. Wolf) album : Metrophone
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Wise Alex Tassel Wolf Guillaume Naturel - Put Me On.mp3 vers /home/web/bonnezic.com/album/Wise Alex Tassel Wolf Guillaume Naturel - Put Me On.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Wise Alex Tassel Wolf Guillaume Naturel - Put Me On.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Wise Alex Tassel Wolf Guillaume Naturel - Put Me On.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1441/9270 Traitement de /home/zic/JazzWorld/A Tribute To Miles - Little One.mp3 - artist : Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams title : Little One album : A Tribute to Miles
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/A Tribute To Miles - Little One.mp3 vers /home/web/bonnezic.com/album/A Tribute To Miles - Little One.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/A Tribute To Miles - Little One.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/A Tribute To Miles - Little One.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1442/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Countdown.mp3 - artist : John Coltrane title : Countdown album : Giant Steps
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/John Coltrane - Countdown.mp3 vers /home/web/bonnezic.com/album/John Coltrane - Countdown.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/John Coltrane - Countdown.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/John Coltrane - Countdown.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1443/9270 Traitement de /home/zic/JazzWorld/Chlorine Free - Lafayette.mp3 - artist : Chlorine Free title : Lafayette album : Minirose
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Chlorine Free - Lafayette.mp3 vers /home/web/bonnezic.com/album/Chlorine Free - Lafayette.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Chlorine Free - Lafayette.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Chlorine Free - Lafayette.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1444/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Lex.mp3 - artist : Donald Byrd title : Lex album : Byrd in Flight
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Donald Byrd - Lex.mp3 vers /home/web/bonnezic.com/album/Donald Byrd - Lex.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Donald Byrd - Lex.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Donald Byrd - Lex.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1445/9270 Traitement de /home/zic/JazzWorld/Takuya Kuroda - Piri Piri.mp3 - artist : Takuya Kuroda title : Piri Piri album : Rising Son
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Takuya Kuroda - Piri Piri.mp3 vers /home/web/bonnezic.com/album/Takuya Kuroda - Piri Piri.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Takuya Kuroda - Piri Piri.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/Takuya Kuroda - Piri Piri.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1446/9270 Traitement de /home/zic/JazzWorld/John Coltrane - A Love Supreme Part 1 Acknowledgement.mp3 - artist : John Coltrane title : A Love Supreme, Part 1: Acknowledgement album : The Very Best of John Coltrane
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/John Coltrane - A Love Supreme Part 1 Acknowledgement.mp3 vers /home/web/bonnezic.com/album/John Coltrane - A Love Supreme Part 1 Acknowledgement.jpg
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/John Coltrane - A Love Supreme Part 1 Acknowledgement.jpg
+2024-08-30 17:47:12 INFO     Cover found for /home/zic/JazzWorld/John Coltrane - A Love Supreme Part 1 Acknowledgement.mp3, not adding to no_cover.txt
+2024-08-30 17:47:12 INFO     1447/9270 Traitement de /home/zic/JazzWorld/Roy Hargrove - Whisper Not.mp3 - artist : Roy Hargrove title : Whisper Not album : Diamond in the Rough
+2024-08-30 17:47:12 INFO     Image extraite depuis /home/zic/JazzWorld/Roy Hargrove - Whisper Not.mp3 vers /home/web/bonnezic.com/album/Roy Hargrove - Whisper Not.jpg
+2024-08-30 17:47:12 INFO     Image /home/web/bonnezic.com/album/Roy Hargrove - Whisper Not.jpg trop petite (301x300)
+2024-08-30 17:47:12 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 17:47:12 INFO     Spotify - Début de la recherche pour l'artiste: Roy Hargrove, album: Diamond in the Rough
+2024-08-30 17:47:12 INFO     Spotify - Requête envoyée : artist:Roy Hargrove album:Diamond in the Rough
+2024-08-30 17:47:13 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273a81f7e8abb85929fa1079bcd
+2024-08-30 17:47:13 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273a81f7e8abb85929fa1079bcd
+2024-08-30 17:47:13 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273a81f7e8abb85929fa1079bcd
+2024-08-30 17:47:13 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273a81f7e8abb85929fa1079bcd
+2024-08-30 17:47:13 INFO     L'image /home/web/bonnezic.com/spotify/Roy Hargrove - Whisper Not.jpg n'existe pas
+2024-08-30 17:47:16 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Roy Hargrove - Whisper Not.jpg
+2024-08-30 17:47:16 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 17:47:16 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Roy Hargrove - Whisper Not.jpg
+2024-08-30 17:47:16 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Roy Hargrove - Whisper Not.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     1448/9270 Traitement de /home/zic/JazzWorld/Ahmad Jamal - Rossiter Road.mp3 - artist : Ahmad Jamal title : Rossiter Road album : Live at the Montreal Jazz Festival 1985
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Ahmad Jamal - Rossiter Road.mp3 vers /home/web/bonnezic.com/album/Ahmad Jamal - Rossiter Road.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ahmad Jamal - Rossiter Road.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Ahmad Jamal - Rossiter Road.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     1449/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Back Sliders.mp3 - artist : Art Blakey & The Jazz Messengers title : The Back Sliders album : The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Back Sliders.mp3 vers /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - The Back Sliders.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - The Back Sliders.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - The Back Sliders.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     1450/9270 Traitement de /home/zic/JazzWorld/Dinah Washington - Is You, Or Is You Ain T My Baby.mp3 - artist : Dinah Washington title : Is You Is or Is You Ain’t My Baby? album : Verve//Unmixed
+2024-08-30 17:47:17 WARNING  Lame tag CRC check failed
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Dinah Washington - Is You, Or Is You Ain T My Baby.mp3 vers /home/web/bonnezic.com/album/Dinah Washington - Is You, Or Is You Ain T My Baby.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dinah Washington - Is You, Or Is You Ain T My Baby.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Dinah Washington - Is You, Or Is You Ain T My Baby.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 INFO     1451/9270 Traitement de /home/zic/JazzWorld/Yellow Jackets - Prayer For El Salvador.mp3 - artist : Yellowjackets title : Prayer for El Salvador album : The Spin
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Yellow Jackets - Prayer For El Salvador.mp3 vers /home/web/bonnezic.com/album/Yellow Jackets - Prayer For El Salvador.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Yellow Jackets - Prayer For El Salvador.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Yellow Jackets - Prayer For El Salvador.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 INFO     1452/9270 Traitement de /home/zic/JazzWorld/Pink Martini - Donde Estas, Yolanda.mp3 - artist : Pink Martini title : ¿Dónde estás, Yolanda? album : Sympathique
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Pink Martini - Donde Estas, Yolanda.mp3 vers /home/web/bonnezic.com/album/Pink Martini - Donde Estas, Yolanda.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Pink Martini - Donde Estas, Yolanda.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Pink Martini - Donde Estas, Yolanda.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 INFO     1453/9270 Traitement de /home/zic/JazzWorld/Imperial Tiger Orchestra - Aynotche Terabu.mp3 - artist : Imperial Tiger Orchestra title : Aynotche terabu album : Nova 24h
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Imperial Tiger Orchestra - Aynotche Terabu.mp3 vers /home/web/bonnezic.com/album/Imperial Tiger Orchestra - Aynotche Terabu.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Imperial Tiger Orchestra - Aynotche Terabu.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Imperial Tiger Orchestra - Aynotche Terabu.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 INFO     1454/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Chez Le Photographe Du Motel.mp3 - artist : Miles Davis title : Chez le photographe du motel album : Ascenseur pour l’échafaud
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Chez Le Photographe Du Motel.mp3 vers /home/web/bonnezic.com/album/Miles Davis - Chez Le Photographe Du Motel.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Chez Le Photographe Du Motel.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Chez Le Photographe Du Motel.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 INFO     1455/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - Sincerely Diana.mp3 - artist : Art Blakey & The Jazz Messengers title : Sincerely Diana album : The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-30 17:47:17 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - Sincerely Diana.mp3 vers /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - Sincerely Diana.jpg
+2024-08-30 17:47:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - Sincerely Diana.jpg
+2024-08-30 17:47:17 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - Sincerely Diana.mp3, not adding to no_cover.txt
+2024-08-30 17:47:17 WARNING  Frame 'LINK' is not yet supported, using raw Frame to parse
+2024-08-30 17:47:17 INFO     1456/9270 Traitement de /home/zic/JazzWorld/William Cepeda - San Tomas.mp3 - artist : William Cepeda title : San Thomas album : Global Village
+2024-08-30 17:47:17 WARNING  Frame 'LINK' is not yet supported, using raw Frame to parse
+2024-08-30 17:47:17 INFO     Spotify - Début de la recherche pour l'artiste: William Cepeda, album: Global Village
+2024-08-30 17:47:17 INFO     Spotify - Requête envoyée : artist:William Cepeda album:Global Village
+2024-08-30 17:47:18 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273c05fd08ca89f68bdfef5a21e
+2024-08-30 17:47:18 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273c05fd08ca89f68bdfef5a21e
+2024-08-30 17:47:18 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273c05fd08ca89f68bdfef5a21e
+2024-08-30 17:47:18 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273c05fd08ca89f68bdfef5a21e
+2024-08-30 17:47:18 INFO     L'image /home/web/bonnezic.com/spotify/William Cepeda - San Tomas.jpg n'existe pas

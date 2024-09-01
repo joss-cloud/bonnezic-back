@@ -1,0 +1,40 @@
+2024-08-27 21:33:40 INFO     Started
+2024-08-27 21:33:41 INFO     976/9270 Traitement de /home/zic/JazzWorld/Squarepusher - Theme From Sprite.mp3
+2024-08-27 21:33:41 INFO     Deezer query artist:"Squarepusher" album"Hello Everything"
+2024-08-27 21:33:41 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Squarepusher%2522%2520album%2522Hello%2520Everything%2522
+2024-08-27 21:33:41 INFO     Statut de la réponse : 200
+2024-08-27 21:33:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cd2a42b6000f87ce50a69e4c336c9134/500x500-000000-80-0-0.jpg
+2024-08-27 21:33:41 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/cd2a42b6000f87ce50a69e4c336c9134/500x500-000000-80-0-0.jpg
+2024-08-27 21:33:44 INFO     977/9270 Traitement de /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3
+2024-08-27 21:33:44 INFO     Deezer query artist:"Mendzang Me" album"Xylophones Fang"
+2024-08-27 21:33:44 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%2522Xylophones%2520Fang%2522
+2024-08-27 21:33:44 INFO     Statut de la réponse : 200
+2024-08-27 21:33:44 INFO     Aucun résultat trouvé.
+2024-08-27 21:33:44 INFO     Deezer query artist:"Mendzang Me" album:"Xylophones Fang"
+2024-08-27 21:33:44 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Mendzang%2520Me%2522%2520album%253A%2522Xylophones%2520Fang%2522
+2024-08-27 21:33:44 INFO     Statut de la réponse : 200
+2024-08-27 21:33:44 INFO     Aucun résultat trouvé.
+2024-08-27 21:33:44 INFO     Deezer query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 21:33:45 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 21:33:45 INFO     Statut de la réponse : 200
+2024-08-27 21:33:45 INFO     Aucun résultat trouvé.
+2024-08-27 21:33:45 INFO     Deezer - query artist:"Mendzang Me" track:"Yekaba"
+2024-08-27 21:33:45 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Mendzang%2520Me%2522%2520track%253A%2522Yekaba%2522
+2024-08-27 21:33:45 INFO     Statut de la réponse : 200
+2024-08-27 21:33:45 INFO     Aucun résultat trouvé.
+2024-08-27 21:33:45 INFO     Spotify query artist:Mendzang Me album:Xylophones Fang
+2024-08-27 21:33:45 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AMendzang+Me+album%3AXylophones+Fang&type=album
+2024-08-27 21:33:45 INFO     Statut de la réponse : 401
+2024-08-27 21:33:45 ERROR    Erreur de requête: Status Code 401
+2024-08-27 21:33:45 INFO     Spotify query artist:Mendzang Me track:Yekaba
+2024-08-27 21:33:45 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AMendzang+Me+track%3AYekaba&type=track
+2024-08-27 21:33:45 INFO     Statut de la réponse : 401
+2024-08-27 21:33:45 ERROR    Erreur de requête: Status Code 401
+2024-08-27 21:33:45 INFO     Image non trouvée pour /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3
+2024-08-27 21:33:45 ERROR    /home/zic/JazzWorld/Mendzang Me - Yekaba.mp3 No Cover
+2024-08-27 21:33:45 INFO     978/9270 Traitement de /home/zic/JazzWorld/Orchestra Lissanga - Okuzua.mp3
+2024-08-27 21:33:45 INFO     Deezer query artist:"Orchestra Lissanga" album"Nova 24h"
+2024-08-27 21:33:45 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Orchestra%2520Lissanga%2522%2520album%2522Nova%252024h%2522
+2024-08-27 21:33:45 INFO     Statut de la réponse : 200
+2024-08-27 21:33:45 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/7168c2736b0f64f9b4b03813566900a6/500x500-000000-80-0-0.jpg
+2024-08-27 21:33:45 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/7168c2736b0f64f9b4b03813566900a6/500x500-000000-80-0-0.jpg

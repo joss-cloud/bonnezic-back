@@ -1,0 +1,66 @@
+2024-08-31 15:03:32 INFO     Started
+2024-08-31 15:03:32 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:32 INFO     Spotify access token retrieved: BQDsSSBdxRlxticeOjFs-GAhLq6Fjbod37LZYVD1lQBGerApxYJdL-l8iuMtQzNiyxdXGJUEp3m9vGjVz_Q_GUZ1pug1BBJUf2bYYE6IlUkVZiBM53w
+2024-08-31 15:03:32 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:32 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:32 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:32 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:33 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:33 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:34 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:34 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:35 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:35 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:35 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:35 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:35 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:35 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:03:35 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:03:35 INFO     2380/9270 Traitement de /home/zic/JazzWorld/Antiloops - Castor.mp3 - artist : Antiloops title : Castor album : Lucid Dream
+2024-08-31 15:03:35 INFO     Image extraite depuis /home/zic/JazzWorld/Antiloops - Castor.mp3 vers /home/web/bonnezic.com/album/Antiloops - Castor.jpg
+2024-08-31 15:03:35 INFO     Image /home/web/bonnezic.com/album/Antiloops - Castor.jpg trop petite (300x300)
+2024-08-31 15:03:35 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 15:03:35 INFO     Spotify - Début de la recherche pour l'artiste: Antiloops, album: Lucid Dream
+2024-08-31 15:03:35 INFO     Spotify - Requête envoyée : artist:Antiloops album:Lucid Dream
+2024-08-31 15:03:35 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:03:35 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:03:35 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:03:35 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:03:35 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0 /home/web/bonnezic.com/spotify
+2024-08-31 15:03:35 INFO     Image /home/web/bonnezic.com/spotify/Antiloops - Castor.jpg does not exist
+2024-08-31 15:03:39 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Antiloops - Castor.jpg
+2024-08-31 15:03:39 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Antiloops - Castor.jpg
+2024-08-31 15:03:39 INFO     Image dimensions: 640x640
+2024-08-31 15:03:39 INFO     Image already squared: /home/web/bonnezic.com/spotify/Antiloops - Castor.jpg
+2024-08-31 15:03:39 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Antiloops - Castor.jpg

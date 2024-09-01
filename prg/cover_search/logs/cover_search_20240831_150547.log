@@ -1,0 +1,152 @@
+2024-08-31 15:05:47 INFO     Started
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved: BQBMnmfl6RFNMtyRV40tqrnR3A1ZPGOPqeLU17UOrOkMhfk8SO9YdiSjFfNZRfuII4LcYQCflsBr4F16KfuHyTcnnt0ahQ6pa-j1-v1bpenLBuz-pZc
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:47 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:47 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:48 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:48 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:49 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:49 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:50 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:50 INFO     2918/9270 Traitement de /home/zic/JazzWorld/Antiloops - Titan.mp3 - artist : Antiloops title : Titan album : Lucid Dream
+2024-08-31 15:05:50 INFO     Image extraite depuis /home/zic/JazzWorld/Antiloops - Titan.mp3 vers /home/web/bonnezic.com/album/Antiloops - Titan.jpg
+2024-08-31 15:05:50 INFO     Image /home/web/bonnezic.com/album/Antiloops - Titan.jpg trop petite (300x300)
+2024-08-31 15:05:50 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 15:05:50 INFO     Spotify - Début de la recherche pour l'artiste: Antiloops, album: Lucid Dream
+2024-08-31 15:05:50 INFO     Spotify - Requête envoyée : artist:Antiloops album:Lucid Dream
+2024-08-31 15:05:51 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:51 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:51 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:51 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:51 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0 /home/web/bonnezic.com/spotify
+2024-08-31 15:05:51 INFO     Image /home/web/bonnezic.com/spotify/Antiloops - Titan.jpg does not exist
+2024-08-31 15:05:54 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Antiloops - Titan.jpg
+2024-08-31 15:05:54 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Antiloops - Titan.jpg
+2024-08-31 15:05:54 INFO     Image dimensions: 640x640
+2024-08-31 15:05:54 INFO     Image already squared: /home/web/bonnezic.com/spotify/Antiloops - Titan.jpg
+2024-08-31 15:05:54 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Antiloops - Titan.jpg
+2024-08-31 15:05:54 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:05:55 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:05:55 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:05:55 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:05:55 INFO     Cover found for /home/zic/JazzWorld/Antiloops - Titan.mp3, not adding to no_cover.txt
+2024-08-31 15:05:55 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:55 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:55 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:55 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:55 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:55 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:55 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:55 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:55 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:56 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:56 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:57 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:57 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:57 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:57 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:57 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:57 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:57 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:57 INFO     Spotify access token needs to be renewed.
+2024-08-31 15:05:57 INFO     Spotify access token retrieved successfully.
+2024-08-31 15:05:57 INFO     4561/9270 Traitement de /home/zic/ElectroJazz/Antiloops - Sasse.mp3 - artist : Antiloops title : Sasse album : Lucid Dream
+2024-08-31 15:05:57 INFO     Image extraite depuis /home/zic/ElectroJazz/Antiloops - Sasse.mp3 vers /home/web/bonnezic.com/album/Antiloops - Sasse.jpg
+2024-08-31 15:05:57 INFO     Image /home/web/bonnezic.com/album/Antiloops - Sasse.jpg trop petite (300x300)
+2024-08-31 15:05:57 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 15:05:57 INFO     Spotify - Début de la recherche pour l'artiste: Antiloops, album: Lucid Dream
+2024-08-31 15:05:57 INFO     Spotify - Requête envoyée : artist:Antiloops album:Lucid Dream
+2024-08-31 15:05:57 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:57 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:57 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:57 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:05:58 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0 /home/web/bonnezic.com/spotify
+2024-08-31 15:05:58 INFO     Image /home/web/bonnezic.com/spotify/Antiloops - Sasse.jpg does not exist
+2024-08-31 15:06:01 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Antiloops - Sasse.jpg
+2024-08-31 15:06:01 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Antiloops - Sasse.jpg
+2024-08-31 15:06:01 INFO     Image dimensions: 640x640
+2024-08-31 15:06:01 INFO     Image already squared: /home/web/bonnezic.com/spotify/Antiloops - Sasse.jpg
+2024-08-31 15:06:01 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Antiloops - Sasse.jpg
+2024-08-31 15:06:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:06:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:06:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:06:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 15:06:01 INFO     Cover found for /home/zic/ElectroJazz/Antiloops - Sasse.mp3, not adding to no_cover.txt
+2024-08-31 15:06:01 WARNING  GEOB frame does not contain a mime type
+2024-08-31 15:06:01 WARNING  GEOB frame does not contain a valid mime type
+2024-08-31 15:06:01 ERROR    /home/zic/ElectroJazz/Pachworks - Summertime.mp3 No Tag Title
+2024-08-31 15:06:01 INFO     4634/9270 Traitement de /home/zic/ElectroJazz/Antiloops - Automne One.mp3 - artist : Antiloops title : Automne One album : Lucid Dream
+2024-08-31 15:06:01 INFO     Image extraite depuis /home/zic/ElectroJazz/Antiloops - Automne One.mp3 vers /home/web/bonnezic.com/album/Antiloops - Automne One.jpg
+2024-08-31 15:06:01 INFO     Image /home/web/bonnezic.com/album/Antiloops - Automne One.jpg trop petite (300x300)
+2024-08-31 15:06:01 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 15:06:01 INFO     Spotify - Début de la recherche pour l'artiste: Antiloops, album: Lucid Dream
+2024-08-31 15:06:01 INFO     Spotify - Requête envoyée : artist:Antiloops album:Lucid Dream
+2024-08-31 15:06:02 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:06:02 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:06:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:06:02 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0
+2024-08-31 15:06:02 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0 /home/web/bonnezic.com/spotify
+2024-08-31 15:06:02 INFO     Image /home/web/bonnezic.com/spotify/Antiloops - Automne One.jpg does not exist

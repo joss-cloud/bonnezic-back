@@ -1,0 +1,1492 @@
+2024-08-27 16:41:16 INFO     Started
+2024-08-27 16:41:16 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-27 16:41:16 INFO     706/9270 Traitement de /home/zic/BO/Francois De Roubaix - Dernier Domicile Connu.mp3
+2024-08-27 16:41:16 INFO     Deezer query artist:"François de Roubaix" album:"Nova 24h"
+2024-08-27 16:41:16 INFO     Deezer album non trouvé
+2024-08-27 16:41:16 INFO     Deezer query artist:"François de Roubaix" track:"Dernier domicile connu"
+2024-08-27 16:41:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/79a1e3b4a5eadf0c0cdf77835eda53cb/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:19 INFO     707/9270 Traitement de /home/zic/BO/The Chemical Brothers - Marissa Flashback.mp3
+2024-08-27 16:41:19 INFO     Deezer query artist:"The Chemical Brothers" album:"Hanna"
+2024-08-27 16:41:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6eb0a46b75485bae70d04b58d9a63ce2/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:23 INFO     708/9270 Traitement de /home/zic/BO/Jack Jones - Love Boat Theme.mp3
+2024-08-27 16:41:23 INFO     Deezer query artist:"Jack Jones" album:"Sounds of the Eighties: TV Themes of the '80s"
+2024-08-27 16:41:23 INFO     Deezer album non trouvé
+2024-08-27 16:41:23 INFO     Deezer query artist:"Jack Jones" track:"Love Boat Theme"
+2024-08-27 16:41:23 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f169b7bd7bbec56240080c4392910c2a/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:26 INFO     709/9270 Traitement de /home/zic/BO/Marvin Gaye - Theme From Trouble Man.mp3
+2024-08-27 16:41:26 INFO     Deezer query artist:"Marvin Gaye" album:"Trouble Man"
+2024-08-27 16:41:26 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/875e84800337bbcf93275f432235546f/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:29 INFO     710/9270 Traitement de /home/zic/BO/Lalo Schifrin - Furnace Control.mp3
+2024-08-27 16:41:29 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:41:30 INFO     Deezer album non trouvé
+2024-08-27 16:41:30 INFO     Deezer query artist:"Lalo Schifrin" track:"Furnace Control"
+2024-08-27 16:41:30 INFO     Deezer titre non trouvé
+2024-08-27 16:41:30 INFO     Deezer - query artist:"Lalo Schifrin" track:"Furnace Control"
+2024-08-27 16:41:30 INFO     Deezer titre non trouvé
+2024-08-27 16:41:30 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:41:30 INFO     Spotify - query artist:Lalo Schifrin track:Furnace Control
+2024-08-27 16:41:30 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:30 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Furnace Control.mp3
+2024-08-27 16:41:30 INFO     711/9270 Traitement de /home/zic/BO/Lalo Schifrin -  Stagecoach Incident.mp3
+2024-08-27 16:41:30 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:41:30 INFO     Deezer album non trouvé
+2024-08-27 16:41:30 INFO     Deezer query artist:"Lalo Schifrin" track:"Stagecoach Incident"
+2024-08-27 16:41:30 INFO     Deezer titre non trouvé
+2024-08-27 16:41:30 INFO     Deezer - query artist:"Lalo Schifrin" track:"Stagecoach Incident"
+2024-08-27 16:41:31 INFO     Deezer titre non trouvé
+2024-08-27 16:41:31 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:41:31 INFO     Spotify - query artist:Lalo Schifrin track:Stagecoach Incident
+2024-08-27 16:41:31 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:31 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin -  Stagecoach Incident.mp3
+2024-08-27 16:41:31 WARNING  Invalid date: 105
+2024-08-27 16:41:31 INFO     712/9270 Traitement de /home/zic/BO/Dj Muggs - Ready For War (Instrumental).mp3
+2024-08-27 16:41:31 INFO     Deezer query artist:"DJ Muggs" album:"Death Valley (Original Motion Picture Score)"
+2024-08-27 16:41:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/982cb56d8db01c4d43bcb3a62ba47bf1/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:34 INFO     713/9270 Traitement de /home/zic/BO/Don Davis - Meet The Keymaker.mp3
+2024-08-27 16:41:34 INFO     Deezer query artist:"Don Davis" album:"The Matrix Reloaded: The Complete Score"
+2024-08-27 16:41:34 INFO     Deezer album non trouvé
+2024-08-27 16:41:34 INFO     Deezer query artist:"Don Davis" track:"Meet the Keymaker"
+2024-08-27 16:41:34 INFO     Deezer titre non trouvé
+2024-08-27 16:41:34 INFO     Deezer - query artist:"Don Davis" track:"Meet The Keymaker"
+2024-08-27 16:41:34 INFO     Deezer titre non trouvé
+2024-08-27 16:41:34 INFO     Spotify - query artist:Don Davis album:The Matrix Reloaded: The Complete Score
+2024-08-27 16:41:35 INFO     Spotify - query artist:Don Davis track:Meet the Keymaker
+2024-08-27 16:41:35 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:35 INFO     Image non trouvée pour /home/zic/BO/Don Davis - Meet The Keymaker.mp3
+2024-08-27 16:41:35 INFO     714/9270 Traitement de /home/zic/BO/Don Davis - Enter The Nebuchadnezzar.mp3
+2024-08-27 16:41:35 INFO     Deezer query artist:"Don Davis" album:"The Matrix Reloaded: The Complete Score"
+2024-08-27 16:41:35 INFO     Deezer album non trouvé
+2024-08-27 16:41:35 INFO     Deezer query artist:"Don Davis" track:"Enter the Nebuchadnezzar"
+2024-08-27 16:41:35 INFO     Deezer titre non trouvé
+2024-08-27 16:41:35 INFO     Deezer - query artist:"Don Davis" track:"Enter The Nebuchadnezzar"
+2024-08-27 16:41:35 INFO     Deezer titre non trouvé
+2024-08-27 16:41:35 INFO     Spotify - query artist:Don Davis album:The Matrix Reloaded: The Complete Score
+2024-08-27 16:41:35 INFO     Spotify - query artist:Don Davis track:Enter the Nebuchadnezzar
+2024-08-27 16:41:35 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:35 INFO     Image non trouvée pour /home/zic/BO/Don Davis - Enter The Nebuchadnezzar.mp3
+2024-08-27 16:41:35 INFO     715/9270 Traitement de /home/zic/BO/Lalo Schifrin - Silence.mp3
+2024-08-27 16:41:35 INFO     Deezer query artist:"Lalo Schifrin" album:"OST Starsky & Hutch (TV Serie)"
+2024-08-27 16:41:36 INFO     Deezer album non trouvé
+2024-08-27 16:41:36 INFO     Deezer query artist:"Lalo Schifrin" track:"06 .Silence"
+2024-08-27 16:41:36 INFO     Deezer titre non trouvé
+2024-08-27 16:41:36 INFO     Deezer - query artist:"Lalo Schifrin" track:"Silence"
+2024-08-27 16:41:36 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:41:36 INFO     Spotify - query artist:Lalo Schifrin album:OST Starsky & Hutch (TV Serie)
+2024-08-27 16:41:36 INFO     Spotify - query artist:Lalo Schifrin track:06 .Silence
+2024-08-27 16:41:36 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:36 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Silence.mp3
+2024-08-27 16:41:36 INFO     716/9270 Traitement de /home/zic/BO/Ennio Morricone - Immagini Del Tempo.mp3
+2024-08-27 16:41:36 INFO     Deezer query artist:"Ennio Morricone" album:"MondoMorricone revisited: irresistable cult movie themes by Ennio Morricone: Volume 1"
+2024-08-27 16:41:36 INFO     Deezer album non trouvé
+2024-08-27 16:41:36 INFO     Deezer query artist:"Ennio Morricone" track:"Immagini del tempo"
+2024-08-27 16:41:37 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2a1225a8b5e2ee4c1a4ecc6773e5422c/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:40 INFO     717/9270 Traitement de /home/zic/BO/Ennio Morricone - Exorcism.mp3
+2024-08-27 16:41:40 INFO     Deezer query artist:"Ennio Morricone" album:"Exorcist II: The Heretic"
+2024-08-27 16:41:40 INFO     Deezer album non trouvé
+2024-08-27 16:41:40 INFO     Deezer query artist:"Ennio Morricone" track:"Exorcism"
+2024-08-27 16:41:40 INFO     Deezer titre non trouvé
+2024-08-27 16:41:40 INFO     Deezer - query artist:"Ennio Morricone" track:"Exorcism"
+2024-08-27 16:41:40 INFO     Deezer titre non trouvé
+2024-08-27 16:41:40 INFO     Spotify - query artist:Ennio Morricone album:Exorcist II: The Heretic
+2024-08-27 16:41:40 INFO     Spotify - query artist:Ennio Morricone track:Exorcism
+2024-08-27 16:41:40 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:40 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Exorcism.mp3
+2024-08-27 16:41:40 INFO     718/9270 Traitement de /home/zic/BO/The Chemical Brothers - The Forest.mp3
+2024-08-27 16:41:40 INFO     Deezer query artist:"The Chemical Brothers" album:"Hanna"
+2024-08-27 16:41:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6eb0a46b75485bae70d04b58d9a63ce2/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:44 INFO     719/9270 Traitement de /home/zic/BO/Ennio Morricone - Percussivamente.mp3
+2024-08-27 16:41:44 INFO     Deezer query artist:"Ennio Morricone" album:"Le foto proibite di una signora per bene"
+2024-08-27 16:41:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6950cb8380588c74bccb46ded9fe8792/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:47 INFO     720/9270 Traitement de /home/zic/BO/Lalo Schifrin - Scorpio S Theme.mp3
+2024-08-27 16:41:47 INFO     Deezer query artist:"Lalo Schifrin" album:"Dirty Harry Anthology"
+2024-08-27 16:41:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fad2ecd0219dcea76027d018263c669e/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:50 INFO     721/9270 Traitement de /home/zic/BO/Lalo Schifrin - Main Title.mp3
+2024-08-27 16:41:50 INFO     Deezer query artist:"Lalo Schifrin" album:"Abominable"
+2024-08-27 16:41:50 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fca4b39d7a099fc4d8a67b46d911015b/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:53 INFO     722/9270 Traitement de /home/zic/BO/Lalo Schifrin -  Operation Rescue.mp3
+2024-08-27 16:41:53 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:41:54 INFO     Deezer album non trouvé
+2024-08-27 16:41:54 INFO     Deezer query artist:"Lalo Schifrin" track:"Operation Rescue"
+2024-08-27 16:41:54 INFO     Deezer titre non trouvé
+2024-08-27 16:41:54 INFO     Deezer - query artist:"Lalo Schifrin" track:"Operation Rescue"
+2024-08-27 16:41:54 INFO     Deezer titre non trouvé
+2024-08-27 16:41:54 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:41:54 INFO     Spotify - query artist:Lalo Schifrin track:Operation Rescue
+2024-08-27 16:41:54 INFO     Spotify - titre non trouvé
+2024-08-27 16:41:54 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin -  Operation Rescue.mp3
+2024-08-27 16:41:54 WARNING  Lame tag CRC check failed
+2024-08-27 16:41:54 INFO     723/9270 Traitement de /home/zic/BO/Roy Budd - Discovery.mp3
+2024-08-27 16:41:54 INFO     Deezer query artist:"Roy Budd" album:"Black Windmill"
+2024-08-27 16:41:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b8cae5033c8dec715efdd04000861244/500x500-000000-80-0-0.jpg
+2024-08-27 16:41:58 INFO     724/9270 Traitement de /home/zic/BO/Jeff Mills - Daylight (Blue Potential Version).mp3
+2024-08-27 16:41:58 INFO     Deezer query artist:"Jeff Mills" album:"Blue Potential"
+2024-08-27 16:41:58 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d3b4ac8bb99e8576ded7c65e96a06a4f/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:01 INFO     725/9270 Traitement de /home/zic/BO/Lalo Schifrin -  The First Goat Incident.mp3
+2024-08-27 16:42:01 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:42:01 INFO     Deezer album non trouvé
+2024-08-27 16:42:01 INFO     Deezer query artist:"Lalo Schifrin" track:"The First Goat Incident"
+2024-08-27 16:42:01 INFO     Deezer titre non trouvé
+2024-08-27 16:42:01 INFO     Deezer - query artist:"Lalo Schifrin" track:"The First Goat Incident"
+2024-08-27 16:42:01 INFO     Deezer titre non trouvé
+2024-08-27 16:42:01 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:42:01 INFO     Spotify - query artist:Lalo Schifrin track:The First Goat Incident
+2024-08-27 16:42:01 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:01 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin -  The First Goat Incident.mp3
+2024-08-27 16:42:01 INFO     726/9270 Traitement de /home/zic/BO/Ennio Morricone - Sospiri Da Una Radio Lontana.mp3
+2024-08-27 16:42:01 INFO     Deezer query artist:"Ennio Morricone" album:"More MondoMorricone revisited: more elegant and exquisite cult movie themes by Ennio Morricone: Volume 2"
+2024-08-27 16:42:01 INFO     Deezer album non trouvé
+2024-08-27 16:42:01 INFO     Deezer query artist:"Ennio Morricone" track:"Sospiri da una radio lontana"
+2024-08-27 16:42:02 INFO     Deezer titre non trouvé
+2024-08-27 16:42:02 INFO     Deezer - query artist:"Ennio Morricone" track:"Sospiri Da Una Radio Lontana"
+2024-08-27 16:42:02 INFO     Deezer titre non trouvé
+2024-08-27 16:42:02 INFO     Spotify - query artist:Ennio Morricone album:More MondoMorricone revisited: more elegant and exquisite cult movie themes by Ennio Morricone: Volume 2
+2024-08-27 16:42:02 INFO     Spotify - query artist:Ennio Morricone track:Sospiri da una radio lontana
+2024-08-27 16:42:02 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:02 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Sospiri Da Una Radio Lontana.mp3
+2024-08-27 16:42:02 WARNING  Lame tag CRC check failed
+2024-08-27 16:42:02 INFO     727/9270 Traitement de /home/zic/BO/Ennio Morricone - Per Un Pugno Di Dollari.mp3
+2024-08-27 16:42:02 INFO     Deezer query artist:"Ennio Morricone" album:"Per un pugno di dollari (complete score)"
+2024-08-27 16:42:02 INFO     Deezer album non trouvé
+2024-08-27 16:42:02 INFO     Deezer query artist:"Ennio Morricone" track:"Per un pugno di dollari (version 4)"
+2024-08-27 16:42:02 INFO     Deezer titre non trouvé
+2024-08-27 16:42:02 INFO     Deezer - query artist:"Ennio Morricone" track:"Per Un Pugno Di Dollari"
+2024-08-27 16:42:03 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:42:03 INFO     Spotify - query artist:Ennio Morricone album:Per un pugno di dollari (complete score)
+2024-08-27 16:42:03 INFO     Spotify - query artist:Ennio Morricone track:Per un pugno di dollari (version 4)
+2024-08-27 16:42:03 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:03 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Per Un Pugno Di Dollari.mp3
+2024-08-27 16:42:03 INFO     728/9270 Traitement de /home/zic/BO/Lalo Schifrin - African Drums Moths And Communicatio.mp3
+2024-08-27 16:42:03 INFO     Deezer query artist:"Lalo Schifrin" album:"The Hellstrom Chronicle"
+2024-08-27 16:42:03 INFO     Deezer album non trouvé
+2024-08-27 16:42:03 INFO     Deezer query artist:"Lalo Schifrin" track:"African Drums, Moths and Communication"
+2024-08-27 16:42:03 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5eeea643c6112b3ec186f0c6793e00ce/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:06 INFO     729/9270 Traitement de /home/zic/BO/Lalo Schifrin - Unicorn S Head.mp3
+2024-08-27 16:42:06 INFO     Deezer query artist:"Lalo Schifrin" album:"Dirty Harry: Music From the Motion Pictures"
+2024-08-27 16:42:06 INFO     Deezer album non trouvé
+2024-08-27 16:42:06 INFO     Deezer query artist:"Lalo Schifrin" track:"Unicorn’s Head"
+2024-08-27 16:42:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/51c3935c1210a721d2ece22bfda088c8/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:10 INFO     730/9270 Traitement de /home/zic/BO/Ennio Morricone - Once Upon A Time In The West Suite (Finale).mp3
+2024-08-27 16:42:10 INFO     Deezer query artist:"Ennio Morricone" album:"Once Upon a Time in the West"
+2024-08-27 16:42:10 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/1efbed8a219c46394ed8747a6a4f1667/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:13 INFO     731/9270 Traitement de /home/zic/BO/Ennio Morricone - Placcaggio.mp3
+2024-08-27 16:42:13 INFO     Deezer query artist:"Ennio Morricone" album:"Il gatto a nove code"
+2024-08-27 16:42:13 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/eacc93288a378cc65772b7ae42e99210/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:16 INFO     732/9270 Traitement de /home/zic/BO/Stelvio Cipriani - L Attesa.mp3
+2024-08-27 16:42:16 INFO     Deezer query artist:"Stelvio Cipriani" album:"Incubo sulla città contaminata"
+2024-08-27 16:42:17 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/570e0c64fefa9288ae77baee829b8cb1/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:20 INFO     733/9270 Traitement de /home/zic/BO/Lalo Schifrin - The Pendulu.mp3
+2024-08-27 16:42:20 INFO     Deezer query artist:"Lalo Schifrin" album:"Murderer's Row"
+2024-08-27 16:42:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/35ea3b99e4cb42e322f09f8995bf16a9/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:23 INFO     734/9270 Traitement de /home/zic/BO/Ennio Morricone - Revolver (Lounge Music 1).mp3
+2024-08-27 16:42:23 INFO     Deezer query artist:"Ennio Morricone" album:"Molto MondoMorricone: even more thrilling cult movie themes by Ennio Morricone: Volume 3"
+2024-08-27 16:42:23 INFO     Deezer album non trouvé
+2024-08-27 16:42:23 INFO     Deezer query artist:"Ennio Morricone" track:"Revolver (lounge music 1)"
+2024-08-27 16:42:23 INFO     Deezer titre non trouvé
+2024-08-27 16:42:23 INFO     Deezer - query artist:"Ennio Morricone" track:"Revolver (Lounge Music 1)"
+2024-08-27 16:42:24 INFO     Deezer titre non trouvé
+2024-08-27 16:42:24 INFO     Spotify - query artist:Ennio Morricone album:Molto MondoMorricone: even more thrilling cult movie themes by Ennio Morricone: Volume 3
+2024-08-27 16:42:24 INFO     Spotify - query artist:Ennio Morricone track:Revolver (lounge music 1)
+2024-08-27 16:42:24 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b2733ef938046f8ec38eee5f1a69
+2024-08-27 16:42:28 INFO     735/9270 Traitement de /home/zic/BO/Ennio Morricone - Ritratto D Autore.mp3
+2024-08-27 16:42:28 INFO     Deezer query artist:"Ennio Morricone" album:"MondoMorricone revisited: irresistable cult movie themes by Ennio Morricone: Volume 1"
+2024-08-27 16:42:28 INFO     Deezer album non trouvé
+2024-08-27 16:42:28 INFO     Deezer query artist:"Ennio Morricone" track:"Ritratto d’autore"
+2024-08-27 16:42:28 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/46841ee6dcb04b2c6d9c6ba8c0116d4f/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:31 INFO     736/9270 Traitement de /home/zic/BO/Lalo Schifrin - Black Widow.mp3
+2024-08-27 16:42:31 INFO     Deezer query artist:"Lalo Schifrin" album:"Black Widow"
+2024-08-27 16:42:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f38d6af9255eebf3f7de4450d52d675f/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:34 INFO     737/9270 Traitement de /home/zic/BO/Quincy Jones - Snow Creatures.mp3
+2024-08-27 16:42:34 INFO     Deezer query artist:"Quincy Jones" album:"Dusty Fingers, Volume 2"
+2024-08-27 16:42:34 INFO     Deezer album non trouvé
+2024-08-27 16:42:34 INFO     Deezer query artist:"Quincy Jones" track:"Snow Creatures"
+2024-08-27 16:42:35 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/a7db69fc048a593dbc320a6fdbe8f033/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:38 INFO     738/9270 Traitement de /home/zic/BO/Lalo Schifrin - Cab Drive.mp3
+2024-08-27 16:42:38 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:42:38 INFO     Deezer album non trouvé
+2024-08-27 16:42:38 INFO     Deezer query artist:"Lalo Schifrin" track:"Cab Drive"
+2024-08-27 16:42:38 INFO     Deezer titre non trouvé
+2024-08-27 16:42:38 INFO     Deezer - query artist:"Lalo Schifrin" track:"Cab Drive"
+2024-08-27 16:42:38 INFO     Deezer titre non trouvé
+2024-08-27 16:42:38 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:42:38 INFO     Spotify - query artist:Lalo Schifrin track:Cab Drive
+2024-08-27 16:42:38 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:38 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Cab Drive.mp3
+2024-08-27 16:42:38 INFO     739/9270 Traitement de /home/zic/BO/Lalo Schifrin - Baia (Alt. Take).mp3
+2024-08-27 16:42:38 INFO     Deezer query artist:"Lalo Schifrin" album:"Black Widow"
+2024-08-27 16:42:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f38d6af9255eebf3f7de4450d52d675f/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:42 INFO     740/9270 Traitement de /home/zic/BO/Ennio Morricone - Seduction And Magic.mp3
+2024-08-27 16:42:42 INFO     Deezer query artist:"Ennio Morricone" album:"Exorcist II: The Heretic"
+2024-08-27 16:42:42 INFO     Deezer album non trouvé
+2024-08-27 16:42:42 INFO     Deezer query artist:"Ennio Morricone" track:"Seduction and Magic"
+2024-08-27 16:42:42 INFO     Deezer titre non trouvé
+2024-08-27 16:42:42 INFO     Deezer - query artist:"Ennio Morricone" track:"Seduction And Magic"
+2024-08-27 16:42:42 INFO     Deezer titre non trouvé
+2024-08-27 16:42:42 INFO     Spotify - query artist:Ennio Morricone album:Exorcist II: The Heretic
+2024-08-27 16:42:42 INFO     Spotify - query artist:Ennio Morricone track:Seduction and Magic
+2024-08-27 16:42:43 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:43 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Seduction And Magic.mp3
+2024-08-27 16:42:43 INFO     741/9270 Traitement de /home/zic/BO/Ennio Morricone - Sensi.mp3
+2024-08-27 16:42:43 INFO     Deezer query artist:"Ennio Morricone" album:"Il grande silenzio / Un bellissimo novembre"
+2024-08-27 16:42:43 INFO     Deezer album non trouvé
+2024-08-27 16:42:43 INFO     Deezer query artist:"Ennio Morricone" track:"Un bellissimo novembre: Sensi"
+2024-08-27 16:42:43 INFO     Deezer titre non trouvé
+2024-08-27 16:42:43 INFO     Deezer - query artist:"Ennio Morricone" track:"Sensi"
+2024-08-27 16:42:43 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:42:43 INFO     Spotify - query artist:Ennio Morricone album:Il grande silenzio / Un bellissimo novembre
+2024-08-27 16:42:43 INFO     Spotify - query artist:Ennio Morricone track:Un bellissimo novembre: Sensi
+2024-08-27 16:42:43 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:43 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Sensi.mp3
+2024-08-27 16:42:43 INFO     742/9270 Traitement de /home/zic/BO/Ennio Morricone - Raptus Omicida 5.mp3
+2024-08-27 16:42:43 INFO     Deezer query artist:"Ennio Morricone" album:"Milano odia: la polizia non può sparare"
+2024-08-27 16:42:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2850cec6c6fa175f25ab8b522e8ae9f3/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:47 INFO     743/9270 Traitement de /home/zic/BO/Lalo Schifrin - Gang War.mp3
+2024-08-27 16:42:47 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:42:47 INFO     Deezer album non trouvé
+2024-08-27 16:42:47 INFO     Deezer query artist:"Lalo Schifrin" track:"Gang War"
+2024-08-27 16:42:47 INFO     Deezer titre non trouvé
+2024-08-27 16:42:47 INFO     Deezer - query artist:"Lalo Schifrin" track:"Gang War"
+2024-08-27 16:42:47 INFO     Deezer titre non trouvé
+2024-08-27 16:42:47 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:42:47 INFO     Spotify - query artist:Lalo Schifrin track:Gang War
+2024-08-27 16:42:47 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:47 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Gang War.mp3
+2024-08-27 16:42:47 INFO     744/9270 Traitement de /home/zic/BO/Ennio Morricone - The Good The Bad And The Ugly (Main Title).mp3
+2024-08-27 16:42:47 INFO     Deezer query artist:"Ennio Morricone" album:"The Very Best Of"
+2024-08-27 16:42:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d174dd3683a4092f92bf290cea4f8940/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:51 INFO     745/9270 Traitement de /home/zic/BO/Guidoand Maurizio De Angelis - Gangster Story.mp3
+2024-08-27 16:42:51 INFO     Deezer query artist:"Guido e Maurizio De Angelis" album:"Piombo rovente"
+2024-08-27 16:42:51 INFO     Deezer album non trouvé
+2024-08-27 16:42:51 INFO     Deezer query artist:"Guido e Maurizio De Angelis" track:"Gangster Story"
+2024-08-27 16:42:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/859bee6b43c9ed04d678a76cd8474621/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:54 INFO     746/9270 Traitement de /home/zic/BO/Lalo Schifrin - Gold Exhibit.mp3
+2024-08-27 16:42:54 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:42:54 INFO     Deezer album non trouvé
+2024-08-27 16:42:54 INFO     Deezer query artist:"Lalo Schifrin" track:"Gold Exhibit"
+2024-08-27 16:42:54 INFO     Deezer titre non trouvé
+2024-08-27 16:42:54 INFO     Deezer - query artist:"Lalo Schifrin" track:"Gold Exhibit"
+2024-08-27 16:42:54 INFO     Deezer titre non trouvé
+2024-08-27 16:42:54 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:42:55 INFO     Spotify - query artist:Lalo Schifrin track:Gold Exhibit
+2024-08-27 16:42:55 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:55 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Gold Exhibit.mp3
+2024-08-27 16:42:55 INFO     747/9270 Traitement de /home/zic/BO/Francesco De Masi - The Stranger Lady.mp3
+2024-08-27 16:42:55 INFO     Deezer query artist:"Francesco De Masi" album:"Roma violenta / Napoli violenta / Napoli spara! / Italia a mano armata"
+2024-08-27 16:42:55 INFO     Deezer album non trouvé
+2024-08-27 16:42:55 INFO     Deezer query artist:"Francesco De Masi" track:"Napoli spara!: Innocent"
+2024-08-27 16:42:55 INFO     Deezer titre non trouvé
+2024-08-27 16:42:55 INFO     Deezer - query artist:"Francesco De Masi" track:"The Stranger Lady"
+2024-08-27 16:42:55 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:42:55 INFO     Spotify - query artist:Francesco De Masi album:Roma violenta / Napoli violenta / Napoli spara! / Italia a mano armata
+2024-08-27 16:42:55 INFO     Spotify - query artist:Francesco De Masi track:Napoli spara!: Innocent
+2024-08-27 16:42:55 INFO     Spotify - titre non trouvé
+2024-08-27 16:42:55 INFO     Image non trouvée pour /home/zic/BO/Francesco De Masi - The Stranger Lady.mp3
+2024-08-27 16:42:55 INFO     748/9270 Traitement de /home/zic/BO/Ennio Moricone - My Name Is Nobody.mp3
+2024-08-27 16:42:55 INFO     Deezer query artist:"Ennio Morricone" album:"The Very Best Of"
+2024-08-27 16:42:55 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d174dd3683a4092f92bf290cea4f8940/500x500-000000-80-0-0.jpg
+2024-08-27 16:42:59 INFO     749/9270 Traitement de /home/zic/BO/Lalo Schifrin - Horror Montage And The Harvester Ant Communit.mp3
+2024-08-27 16:42:59 INFO     Deezer query artist:"Lalo Schifrin" album:"The Hellstrom Chronicle"
+2024-08-27 16:42:59 INFO     Deezer album non trouvé
+2024-08-27 16:42:59 INFO     Deezer query artist:"Lalo Schifrin" track:"Horror Montage and the Harvester Ant Community"
+2024-08-27 16:42:59 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5eeea643c6112b3ec186f0c6793e00ce/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:02 INFO     750/9270 Traitement de /home/zic/BO/Brian Bennett - Flying South.mp3
+2024-08-27 16:43:02 INFO     Deezer query artist:"Brian Bennett" album:"Shut It! The Music of the Sweeney"
+2024-08-27 16:43:02 INFO     Deezer album non trouvé
+2024-08-27 16:43:02 INFO     Deezer query artist:"Brian Bennett" track:"Flying Squad"
+2024-08-27 16:43:02 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e3f9d4d711248f31cb0ca8771fba1f79/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:05 INFO     751/9270 Traitement de /home/zic/BO/The JB S - Dirty Harry.mp3
+2024-08-27 16:43:05 INFO     Deezer query artist:"Fred Wesley and The J.B.’s" album:"The Singles, Volume 8: 1972-1973"
+2024-08-27 16:43:06 INFO     Deezer album non trouvé
+2024-08-27 16:43:06 INFO     Deezer query artist:"Fred Wesley and The J.B.’s" track:"Dirty Harri"
+2024-08-27 16:43:06 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f665b01ab9efb886be3173a211365e4f/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:09 INFO     752/9270 Traitement de /home/zic/BO/Lalo Schifrin - Creepy Shadow.mp3
+2024-08-27 16:43:09 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:09 INFO     Deezer album non trouvé
+2024-08-27 16:43:09 INFO     Deezer query artist:"Lalo Schifrin" track:"Creepy Shadow"
+2024-08-27 16:43:09 INFO     Deezer titre non trouvé
+2024-08-27 16:43:09 INFO     Deezer - query artist:"Lalo Schifrin" track:"Creepy Shadow"
+2024-08-27 16:43:09 INFO     Deezer titre non trouvé
+2024-08-27 16:43:09 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:09 INFO     Spotify - query artist:Lalo Schifrin track:Creepy Shadow
+2024-08-27 16:43:10 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:10 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Creepy Shadow.mp3
+2024-08-27 16:43:10 INFO     753/9270 Traitement de /home/zic/BO/Lalo Schifrin - Sickel S Fall.mp3
+2024-08-27 16:43:10 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:10 INFO     Deezer album non trouvé
+2024-08-27 16:43:10 INFO     Deezer query artist:"Lalo Schifrin" track:"Sickel’s Fall"
+2024-08-27 16:43:10 INFO     Deezer titre non trouvé
+2024-08-27 16:43:10 INFO     Deezer - query artist:"Lalo Schifrin" track:"Sickel S Fall"
+2024-08-27 16:43:10 INFO     Deezer titre non trouvé
+2024-08-27 16:43:10 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:10 INFO     Spotify - query artist:Lalo Schifrin track:Sickel’s Fall
+2024-08-27 16:43:10 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:10 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Sickel S Fall.mp3
+2024-08-27 16:43:10 INFO     754/9270 Traitement de /home/zic/BO/Lalo Schifrin - Starsky And Hutch Main Them.mp3
+2024-08-27 16:43:10 INFO     Deezer query artist:"Lalo Schifrin" album:"OST Starsky & Hutch (TV Serie)"
+2024-08-27 16:43:10 INFO     Deezer album non trouvé
+2024-08-27 16:43:10 INFO     Deezer query artist:"Lalo Schifrin" track:"01 .Starsky & Hutch Main Theme"
+2024-08-27 16:43:11 INFO     Deezer titre non trouvé
+2024-08-27 16:43:11 INFO     Deezer - query artist:"Lalo Schifrin" track:"Starsky And Hutch Main Them"
+2024-08-27 16:43:11 INFO     Deezer titre non trouvé
+2024-08-27 16:43:11 INFO     Spotify - query artist:Lalo Schifrin album:OST Starsky & Hutch (TV Serie)
+2024-08-27 16:43:11 INFO     Spotify - query artist:Lalo Schifrin track:01 .Starsky & Hutch Main Theme
+2024-08-27 16:43:11 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:11 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Starsky And Hutch Main Them.mp3
+2024-08-27 16:43:11 INFO     755/9270 Traitement de /home/zic/BO/Don Davis - Meeting The Merovingian.mp3
+2024-08-27 16:43:11 INFO     Deezer query artist:"Don Davis" album:"The Matrix Reloaded: The Complete Score"
+2024-08-27 16:43:11 INFO     Deezer album non trouvé
+2024-08-27 16:43:11 INFO     Deezer query artist:"Don Davis" track:"Meeting Merovingian"
+2024-08-27 16:43:11 INFO     Deezer titre non trouvé
+2024-08-27 16:43:11 INFO     Deezer - query artist:"Don Davis" track:"Meeting The Merovingian"
+2024-08-27 16:43:11 INFO     Deezer titre non trouvé
+2024-08-27 16:43:11 INFO     Spotify - query artist:Don Davis album:The Matrix Reloaded: The Complete Score
+2024-08-27 16:43:12 INFO     Spotify - query artist:Don Davis track:Meeting Merovingian
+2024-08-27 16:43:12 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:12 INFO     Image non trouvée pour /home/zic/BO/Don Davis - Meeting The Merovingian.mp3
+2024-08-27 16:43:12 INFO     756/9270 Traitement de /home/zic/BO/Quincy Jones - No You Won T.mp3
+2024-08-27 16:43:12 INFO     Deezer query artist:"Quincy Jones" album:"In the Heat of the Night"
+2024-08-27 16:43:12 INFO     Deezer album non trouvé
+2024-08-27 16:43:12 INFO     Deezer query artist:"Quincy Jones" track:"No You Won't"
+2024-08-27 16:43:12 INFO     Deezer titre non trouvé
+2024-08-27 16:43:12 INFO     Deezer - query artist:"Quincy Jones" track:"No You Won T"
+2024-08-27 16:43:12 INFO     Deezer titre non trouvé
+2024-08-27 16:43:12 INFO     Spotify - query artist:Quincy Jones album:In the Heat of the Night
+2024-08-27 16:43:12 INFO     Spotify - query artist:Quincy Jones track:No You Won't
+2024-08-27 16:43:13 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:13 INFO     Image non trouvée pour /home/zic/BO/Quincy Jones - No You Won T.mp3
+2024-08-27 16:43:13 INFO     757/9270 Traitement de /home/zic/BO/Ennio Morricone - Un Bacio.mp3
+2024-08-27 16:43:13 INFO     Deezer query artist:"Ennio Morricone" album:"More MondoMorricone revisited: more elegant and exquisite cult movie themes by Ennio Morricone: Volume 2"
+2024-08-27 16:43:13 INFO     Deezer album non trouvé
+2024-08-27 16:43:13 INFO     Deezer query artist:"Ennio Morricone" track:"Un bacio"
+2024-08-27 16:43:13 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/88b3d34c3da68d8d129d924971017425/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:16 INFO     758/9270 Traitement de /home/zic/BO/Lalo Schifrin - Alfred The Goat.mp3
+2024-08-27 16:43:16 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:16 INFO     Deezer album non trouvé
+2024-08-27 16:43:16 INFO     Deezer query artist:"Lalo Schifrin" track:"Alfred the Goat"
+2024-08-27 16:43:16 INFO     Deezer titre non trouvé
+2024-08-27 16:43:16 INFO     Deezer - query artist:"Lalo Schifrin" track:"Alfred The Goat"
+2024-08-27 16:43:17 INFO     Deezer titre non trouvé
+2024-08-27 16:43:17 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:17 INFO     Spotify - query artist:Lalo Schifrin track:Alfred the Goat
+2024-08-27 16:43:17 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:17 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Alfred The Goat.mp3
+2024-08-27 16:43:17 INFO     759/9270 Traitement de /home/zic/BO/Ennio Morricone - Nel Vuoto.mp3
+2024-08-27 16:43:17 INFO     Deezer query artist:"Ennio Morricone" album:"Le foto proibite di una signora per bene"
+2024-08-27 16:43:17 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6950cb8380588c74bccb46ded9fe8792/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:20 WARNING  Lame tag CRC check failed
+2024-08-27 16:43:20 INFO     760/9270 Traitement de /home/zic/BO/Jack Arel - Land Of Marlene.mp3
+2024-08-27 16:43:20 INFO     Deezer query artist:"Jack Arel" album:"Gravure Universelle"
+2024-08-27 16:43:20 INFO     Deezer album non trouvé
+2024-08-27 16:43:20 INFO     Deezer query artist:"Jack Arel" track:"Land of Marlene"
+2024-08-27 16:43:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/76fb7f7806773a0e1c94f8fe911c6913/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:24 INFO     761/9270 Traitement de /home/zic/BO/Ennio Morricone - Raptus Omicida.mp3
+2024-08-27 16:43:24 INFO     Deezer query artist:"Ennio Morricone" album:"Milano odia: la polizia non può sparare"
+2024-08-27 16:43:24 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2850cec6c6fa175f25ab8b522e8ae9f3/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:27 INFO     762/9270 Traitement de /home/zic/BO/Lalo Schifrin -  Cab Drive.mp3
+2024-08-27 16:43:27 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:27 INFO     Deezer album non trouvé
+2024-08-27 16:43:27 INFO     Deezer query artist:"Lalo Schifrin" track:"Cab Drive"
+2024-08-27 16:43:27 INFO     Deezer titre non trouvé
+2024-08-27 16:43:27 INFO     Deezer - query artist:"Lalo Schifrin" track:"Cab Drive"
+2024-08-27 16:43:27 INFO     Deezer titre non trouvé
+2024-08-27 16:43:27 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:27 INFO     Spotify - query artist:Lalo Schifrin track:Cab Drive
+2024-08-27 16:43:27 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:27 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin -  Cab Drive.mp3
+2024-08-27 16:43:27 INFO     763/9270 Traitement de /home/zic/BO/Ennio Morricone - Poesia Di Una Donna.mp3
+2024-08-27 16:43:27 INFO     Deezer query artist:"Ennio Morricone" album:"Veruschka"
+2024-08-27 16:43:28 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/088a82e05273b01101f441231196061f/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:31 INFO     764/9270 Traitement de /home/zic/BO/Jeff Mills - 4 Art (Blue Potential Version).mp3
+2024-08-27 16:43:31 INFO     Deezer query artist:"Jeff Mills" album:"Blue Potential"
+2024-08-27 16:43:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d3b4ac8bb99e8576ded7c65e96a06a4f/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:34 INFO     765/9270 Traitement de /home/zic/BO/Lalo Schifrin - The First Goat Incident.mp3
+2024-08-27 16:43:34 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:34 INFO     Deezer album non trouvé
+2024-08-27 16:43:34 INFO     Deezer query artist:"Lalo Schifrin" track:"The First Goat Incident"
+2024-08-27 16:43:34 INFO     Deezer titre non trouvé
+2024-08-27 16:43:34 INFO     Deezer - query artist:"Lalo Schifrin" track:"The First Goat Incident"
+2024-08-27 16:43:34 INFO     Deezer titre non trouvé
+2024-08-27 16:43:34 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:34 INFO     Spotify - query artist:Lalo Schifrin track:The First Goat Incident
+2024-08-27 16:43:35 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:35 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - The First Goat Incident.mp3
+2024-08-27 16:43:35 INFO     766/9270 Traitement de /home/zic/BO/Ennio Morricone - Man With The Harmonica.mp3
+2024-08-27 16:43:35 INFO     Deezer query artist:"Ennio Morricone" album:"Il était une fois dans l'ouest"
+2024-08-27 16:43:35 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/02c1b97feca2345e5fbd8842589ec06c/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:38 WARNING  Lame tag CRC check failed
+2024-08-27 16:43:38 INFO     767/9270 Traitement de /home/zic/BO/Ennio Morricone - Per Un Pugno Di Dollari-20.mp3
+2024-08-27 16:43:38 INFO     Deezer query artist:"Ennio Morricone" album:"Per un pugno di dollari (complete score)"
+2024-08-27 16:43:38 INFO     Deezer album non trouvé
+2024-08-27 16:43:38 INFO     Deezer query artist:"Ennio Morricone" track:"Per un pugno di dollari (version 4)"
+2024-08-27 16:43:38 INFO     Deezer titre non trouvé
+2024-08-27 16:43:38 INFO     Spotify - query artist:Ennio Morricone album:Per un pugno di dollari (complete score)
+2024-08-27 16:43:38 INFO     Spotify - query artist:Ennio Morricone track:Per un pugno di dollari (version 4)
+2024-08-27 16:43:39 INFO     Spotify - titre non trouvé
+2024-08-27 16:43:39 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Per Un Pugno Di Dollari-20.mp3
+2024-08-27 16:43:39 INFO     768/9270 Traitement de /home/zic/BO/Ennio Morricone - Spiriti.mp3
+2024-08-27 16:43:39 INFO     Deezer query artist:"Ennio Morricone" album:"Crime and Dissonance"
+2024-08-27 16:43:39 INFO     Deezer album non trouvé
+2024-08-27 16:43:39 INFO     Deezer query artist:"Ennio Morricone" track:"Spiriti"
+2024-08-27 16:43:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/31aa1ba7d6910d15cbaeefa6308ea540/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:42 INFO     769/9270 Traitement de /home/zic/BO/Lalo Schifrin -  Yo Yo.mp3
+2024-08-27 16:43:42 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:42 INFO     Deezer album non trouvé
+2024-08-27 16:43:42 INFO     Deezer query artist:"Lalo Schifrin" track:"Yo Yo"
+2024-08-27 16:43:42 INFO     Deezer titre non trouvé
+2024-08-27 16:43:42 INFO     Deezer - query artist:"Lalo Schifrin" track:"Yo Yo"
+2024-08-27 16:43:43 INFO     Deezer titre non trouvé
+2024-08-27 16:43:43 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:43:43 INFO     Spotify - query artist:Lalo Schifrin track:Yo Yo
+2024-08-27 16:43:43 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27305ce5635b20abb1b54c4a3d3
+2024-08-27 16:43:46 INFO     770/9270 Traitement de /home/zic/BO/Lalo Schifrin - Incantation.mp3
+2024-08-27 16:43:46 INFO     Deezer query artist:"Lalo Schifrin" album:"Free ride"
+2024-08-27 16:43:46 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/a34ab42792c25926db580d1b428b77bf/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:49 WARNING  Lame tag CRC check failed
+2024-08-27 16:43:49 INFO     771/9270 Traitement de /home/zic/BO/Quincy Jones - The Days Of Wine And Roses.mp3
+2024-08-27 16:43:49 INFO     Deezer query artist:"Quincy Jones" album:"Quincy Jones Explores the Music of Henry Mancini"
+2024-08-27 16:43:50 INFO     Deezer album non trouvé
+2024-08-27 16:43:50 INFO     Deezer query artist:"Quincy Jones" track:"The Days of Wine and Roses"
+2024-08-27 16:43:50 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/8046bb3bb8c595283e76a661595a8e5c/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:53 INFO     772/9270 Traitement de /home/zic/BO/The Chemical Brothers - Car Chase (Arp Worship).mp3
+2024-08-27 16:43:53 INFO     Deezer query artist:"The Chemical Brothers" album:"Hanna"
+2024-08-27 16:43:53 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6eb0a46b75485bae70d04b58d9a63ce2/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:56 INFO     773/9270 Traitement de /home/zic/BO/Ennio Morricone - Come Un Madrigale.mp3
+2024-08-27 16:43:56 INFO     Deezer query artist:"Ennio Morricone" album:"Quattro mosche di velluto grigio"
+2024-08-27 16:43:56 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/20cd44e185344c57efbf4293ac388c5f/500x500-000000-80-0-0.jpg
+2024-08-27 16:43:59 INFO     774/9270 Traitement de /home/zic/BO/Lalo Schifrin - Flashes Of Light.mp3
+2024-08-27 16:43:59 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:43:59 INFO     Deezer album non trouvé
+2024-08-27 16:43:59 INFO     Deezer query artist:"Lalo Schifrin" track:"Flashes of Light"
+2024-08-27 16:44:00 INFO     Deezer titre non trouvé
+2024-08-27 16:44:00 INFO     Deezer - query artist:"Lalo Schifrin" track:"Flashes Of Light"
+2024-08-27 16:44:00 INFO     Deezer titre non trouvé
+2024-08-27 16:44:00 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:44:00 INFO     Spotify - query artist:Lalo Schifrin track:Flashes of Light
+2024-08-27 16:44:00 INFO     Spotify - titre non trouvé
+2024-08-27 16:44:00 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Flashes Of Light.mp3
+2024-08-27 16:44:00 INFO     775/9270 Traitement de /home/zic/BO/Franco Micalizzi - Detecting The Boss.mp3
+2024-08-27 16:44:00 INFO     Deezer query artist:"Franco Micalizzi" album:"Piombo rovente"
+2024-08-27 16:44:00 INFO     Deezer album non trouvé
+2024-08-27 16:44:00 INFO     Deezer query artist:"Franco Micalizzi" track:"Detecting the Boss"
+2024-08-27 16:44:00 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/859bee6b43c9ed04d678a76cd8474621/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:03 INFO     776/9270 Traitement de /home/zic/BO/Riz Ortolani - Il Consigliori.mp3
+2024-08-27 16:44:03 INFO     Deezer query artist:"Riz Ortolani" album:"Piombo rovente"
+2024-08-27 16:44:04 INFO     Deezer album non trouvé
+2024-08-27 16:44:04 INFO     Deezer query artist:"Riz Ortolani" track:"Il consigliori"
+2024-08-27 16:44:04 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/859bee6b43c9ed04d678a76cd8474621/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:07 WARNING  Invalid date: 105
+2024-08-27 16:44:07 INFO     777/9270 Traitement de /home/zic/BO/Dj Muggs - Dead End.mp3
+2024-08-27 16:44:07 INFO     Deezer query artist:"DJ Muggs" album:"Death Valley (Original Motion Picture Score)"
+2024-08-27 16:44:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/982cb56d8db01c4d43bcb3a62ba47bf1/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:10 INFO     778/9270 Traitement de /home/zic/BO/Lalo Schifrin - Runnin.mp3
+2024-08-27 16:44:10 INFO     Deezer query artist:"Lalo Schifrin" album:"OST Starsky & Hutch (TV Serie)"
+2024-08-27 16:44:10 INFO     Deezer album non trouvé
+2024-08-27 16:44:10 INFO     Deezer query artist:"Lalo Schifrin" track:"05. Running"
+2024-08-27 16:44:10 INFO     Deezer titre non trouvé
+2024-08-27 16:44:10 INFO     Deezer - query artist:"Lalo Schifrin" track:"Runnin"
+2024-08-27 16:44:11 INFO     Deezer titre non trouvé
+2024-08-27 16:44:11 INFO     Spotify - query artist:Lalo Schifrin album:OST Starsky & Hutch (TV Serie)
+2024-08-27 16:44:11 INFO     Spotify - query artist:Lalo Schifrin track:05. Running
+2024-08-27 16:44:11 INFO     Spotify - titre non trouvé
+2024-08-27 16:44:11 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Runnin.mp3
+2024-08-27 16:44:11 INFO     779/9270 Traitement de /home/zic/BO/Ennio Morricone - Una Donna Di Ricordare.mp3
+2024-08-27 16:44:11 INFO     Deezer query artist:"Ennio Morricone" album:"Molto MondoMorricone: even more thrilling cult movie themes by Ennio Morricone: Volume 3"
+2024-08-27 16:44:11 INFO     Deezer album non trouvé
+2024-08-27 16:44:11 INFO     Deezer query artist:"Ennio Morricone" track:"Una donna di ricordare"
+2024-08-27 16:44:11 INFO     Deezer titre non trouvé
+2024-08-27 16:44:11 INFO     Deezer - query artist:"Ennio Morricone" track:"Una Donna Di Ricordare"
+2024-08-27 16:44:11 INFO     Deezer titre non trouvé
+2024-08-27 16:44:11 INFO     Spotify - query artist:Ennio Morricone album:Molto MondoMorricone: even more thrilling cult movie themes by Ennio Morricone: Volume 3
+2024-08-27 16:44:11 INFO     Spotify - query artist:Ennio Morricone track:Una donna di ricordare
+2024-08-27 16:44:12 INFO     Spotify - titre non trouvé
+2024-08-27 16:44:12 INFO     Image non trouvée pour /home/zic/BO/Ennio Morricone - Una Donna Di Ricordare.mp3
+2024-08-27 16:44:12 INFO     780/9270 Traitement de /home/zic/BO/Ennio Morricone - La Fotografie.mp3
+2024-08-27 16:44:12 INFO     Deezer query artist:"Ennio Morricone" album:"Crime and Dissonance"
+2024-08-27 16:44:12 INFO     Deezer album non trouvé
+2024-08-27 16:44:12 INFO     Deezer query artist:"Ennio Morricone" track:"Le fotografie"
+2024-08-27 16:44:12 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/088a82e05273b01101f441231196061f/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:15 INFO     781/9270 Traitement de /home/zic/BO/The Chemical Brothers - Hanna S Theme.mp3
+2024-08-27 16:44:15 INFO     Deezer query artist:"The Chemical Brothers" album:"Hanna"
+2024-08-27 16:44:15 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6eb0a46b75485bae70d04b58d9a63ce2/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:18 INFO     782/9270 Traitement de /home/zic/BO/Ennio Morricone - Gli Intoccabli (Titoli).mp3
+2024-08-27 16:44:18 INFO     Deezer query artist:"Ennio Morricone" album:"Crime and Dissonance"
+2024-08-27 16:44:19 INFO     Deezer album non trouvé
+2024-08-27 16:44:19 INFO     Deezer query artist:"Ennio Morricone" track:"Gli intoccabili (Titoli)"
+2024-08-27 16:44:19 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/defdffb55ca7d316a54c141b7c1d8756/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:22 INFO     783/9270 Traitement de /home/zic/BO/Lalo Schifrin - Dazzler.mp3
+2024-08-27 16:44:22 INFO     Deezer query artist:"Lalo Schifrin" album:"Return from Witch Mountain"
+2024-08-27 16:44:22 INFO     Deezer album non trouvé
+2024-08-27 16:44:22 INFO     Deezer query artist:"Lalo Schifrin" track:"Dazzler"
+2024-08-27 16:44:22 INFO     Deezer titre non trouvé
+2024-08-27 16:44:22 INFO     Deezer - query artist:"Lalo Schifrin" track:"Dazzler"
+2024-08-27 16:44:22 INFO     Deezer titre non trouvé
+2024-08-27 16:44:22 INFO     Spotify - query artist:Lalo Schifrin album:Return from Witch Mountain
+2024-08-27 16:44:22 INFO     Spotify - query artist:Lalo Schifrin track:Dazzler
+2024-08-27 16:44:22 INFO     Spotify - titre non trouvé
+2024-08-27 16:44:22 INFO     Image non trouvée pour /home/zic/BO/Lalo Schifrin - Dazzler.mp3
+2024-08-27 16:44:22 INFO     784/9270 Traitement de /home/zic/BO/El Michels Affair - Protect Ya Neck.mp3
+2024-08-27 16:44:22 INFO     Deezer query artist:"El Michels Affair" album:"Enter the 37th Chamber"
+2024-08-27 16:44:23 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6830d4662ba1c5473559dd6d0aa258e8/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:26 INFO     785/9270 Traitement de /home/zic/BO/The Herbaliser - March Of The Bad Things.mp3
+2024-08-27 16:44:26 INFO     Deezer query artist:"The Herbaliser" album:"Herbal Tonic"
+2024-08-27 16:44:26 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/24d46b4a74dd37770a3f12f67c849e25/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:29 WARNING  Lame tag CRC check failed
+2024-08-27 16:44:29 INFO     786/9270 Traitement de /home/zic/BO/Lalo Schifrin - Towering Toccata.mp3
+2024-08-27 16:44:29 INFO     Deezer query artist:"Lalo Schifrin" album:"Towering Toccata"
+2024-08-27 16:44:29 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b7e2a614688f18b69ffd30fb2972a7bf/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:32 INFO     787/9270 Traitement de /home/zic/BO/Marvin Gaye - T Plays It Cool.mp3
+2024-08-27 16:44:32 INFO     Deezer query artist:"Marvin Gaye" album:"Trouble Man"
+2024-08-27 16:44:32 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/875e84800337bbcf93275f432235546f/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:35 WARNING  Invalid date: 806
+2024-08-27 16:44:35 INFO     788/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Roy....mp3
+2024-08-27 16:44:35 INFO     Deezer query artist:"Gaël Horellou" album:"Roy"
+2024-08-27 16:44:36 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9a9dd37c88fe46e17782ff6820f4debe/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:39 WARNING  Invalid date: 705
+2024-08-27 16:44:39 INFO     789/9270 Traitement de /home/zic/JazzWorld/Alan Braufman - Morning Bazaar.mp3
+2024-08-27 16:44:39 INFO     Deezer query artist:"Alan Braufman" album:"The Fire Still Burns"
+2024-08-27 16:44:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/393d667e70d0efad8c0578d5b6d6ccf7/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:42 INFO     790/9270 Traitement de /home/zic/JazzWorld/Miles Davis - It Ain T Necessarily So.mp3
+2024-08-27 16:44:42 INFO     Deezer query artist:"Miles Davis" album:"Porgy and Bess"
+2024-08-27 16:44:42 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0b298830ceeddfca22507ba284fe36d1/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:45 INFO     791/9270 Traitement de /home/zic/JazzWorld/Arthur Lyman - Caravan.mp3
+2024-08-27 16:44:45 INFO     Deezer query artist:"Arthur Lyman" album:"Ocean's Eleven"
+2024-08-27 16:44:46 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/41c28ad40ebbfe205c98cac716869dd7/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:49 INFO     792/9270 Traitement de /home/zic/JazzWorld/Charles Mingus - Love Chant.mp3
+2024-08-27 16:44:49 INFO     Deezer query artist:"Charles Mingus" album:"Pithecanthropus Erectus"
+2024-08-27 16:44:49 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9ffe24f0c03f6d6058ea1d2c94373bb9/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:52 INFO     793/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Afro Blue.mp3
+2024-08-27 16:44:52 INFO     Deezer query artist:"John Coltrane" album:"The Very Best of John Coltrane"
+2024-08-27 16:44:52 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f49234ce2db0a93905246d9306cb34e4/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:55 WARNING  Lame tag CRC check failed
+2024-08-27 16:44:55 INFO     794/9270 Traitement de /home/zic/JazzWorld/Guem - Foret Vierge.mp3
+2024-08-27 16:44:55 INFO     Deezer query artist:"Guem" album:"Percussions - Le Serpent"
+2024-08-27 16:44:56 INFO     Deezer album non trouvé
+2024-08-27 16:44:56 INFO     Deezer query artist:"Guem" track:"Forêt vierge"
+2024-08-27 16:44:56 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/df13a0c5a0b823b0a69d837bb15dd07f/500x500-000000-80-0-0.jpg
+2024-08-27 16:44:59 INFO     795/9270 Traitement de /home/zic/JazzWorld/Bobby Hutcherson - Subtle Neptune (Remastered).mp3
+2024-08-27 16:44:59 INFO     Deezer query artist:"Bobby Hutcherson" album:"Oblique"
+2024-08-27 16:44:59 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aee31ddf438de7e32e45004546bf45b0/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:02 INFO     796/9270 Traitement de /home/zic/JazzWorld/Ishkero - Chaum.mp3
+2024-08-27 16:45:02 INFO     Deezer query artist:"Ishkero" album:"Kyun"
+2024-08-27 16:45:02 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6408f80f470e16aca042a0ea262b4cbe/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:05 INFO     797/9270 Traitement de /home/zic/JazzWorld/Jack De Johnette And Foday Musa - Party.mp3
+2024-08-27 16:45:05 INFO     Deezer query artist:"Jack DeJohnette & Foday Musa Suso" album:"Music From the Hearts of the Masters"
+2024-08-27 16:45:06 INFO     Deezer album non trouvé
+2024-08-27 16:45:06 INFO     Deezer query artist:"Jack DeJohnette & Foday Musa Suso" track:"Party"
+2024-08-27 16:45:06 INFO     Deezer titre non trouvé
+2024-08-27 16:45:06 INFO     Deezer - query artist:"Jack De Johnette And Foday Musa" track:"Party"
+2024-08-27 16:45:06 INFO     Deezer titre non trouvé
+2024-08-27 16:45:06 INFO     Spotify - query artist:Jack DeJohnette & Foday Musa Suso album:Music From the Hearts of the Masters
+2024-08-27 16:45:06 INFO     Spotify - query artist:Jack DeJohnette & Foday Musa Suso track:Party
+2024-08-27 16:45:06 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:06 INFO     Image non trouvée pour /home/zic/JazzWorld/Jack De Johnette And Foday Musa - Party.mp3
+2024-08-27 16:45:06 INFO     798/9270 Traitement de /home/zic/JazzWorld/Marc Moulin - Bosso.mp3
+2024-08-27 16:45:06 INFO     Deezer query artist:"Marc Moulin" album:"Placebo Sessions 1971-1974"
+2024-08-27 16:45:06 INFO     Deezer album non trouvé
+2024-08-27 16:45:06 INFO     Deezer query artist:"Marc Moulin" track:"Bosso"
+2024-08-27 16:45:06 INFO     Deezer titre non trouvé
+2024-08-27 16:45:06 INFO     Deezer - query artist:"Marc Moulin" track:"Bosso"
+2024-08-27 16:45:06 INFO     Deezer titre non trouvé
+2024-08-27 16:45:06 INFO     Spotify - query artist:Marc Moulin album:Placebo Sessions 1971-1974
+2024-08-27 16:45:07 INFO     Spotify - query artist:Marc Moulin track:Bosso
+2024-08-27 16:45:07 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:07 INFO     Image non trouvée pour /home/zic/JazzWorld/Marc Moulin - Bosso.mp3
+2024-08-27 16:45:07 INFO     799/9270 Traitement de /home/zic/JazzWorld/Afro-Cuban All Stars - Fiesta De La Rumba.mp3
+2024-08-27 16:45:07 INFO     Deezer query artist:"Afro-Cuban All Stars" album:"A Toda Cuba Le Gusta"
+2024-08-27 16:45:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/814674cf40e924ac3a9eaa2fd873b1c9/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:10 INFO     800/9270 Traitement de /home/zic/JazzWorld/Ravi Shankar - Raga Sindhi Bhairavi.mp3
+2024-08-27 16:45:10 INFO     Deezer query artist:"Ravi Shankar & Ali Akbar Khan" album:"In Concert 1972"
+2024-08-27 16:45:10 INFO     Deezer album non trouvé
+2024-08-27 16:45:10 INFO     Deezer query artist:"Ravi Shankar & Ali Akbar Khan" track:"Raga - Sindhi Bhairavi"
+2024-08-27 16:45:10 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/20d7cd4b5d604e2b0277c13dc7577d02/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:13 INFO     801/9270 Traitement de /home/zic/JazzWorld/Eddie Henderson - Prince Of Darkness.mp3
+2024-08-27 16:45:13 INFO     Deezer query artist:"Eddie Henderson" album:"So What"
+2024-08-27 16:45:13 INFO     Deezer album non trouvé
+2024-08-27 16:45:13 INFO     Deezer query artist:"Eddie Henderson" track:"Prince Of Darkness"
+2024-08-27 16:45:14 INFO     Deezer titre non trouvé
+2024-08-27 16:45:14 INFO     Deezer - query artist:"Eddie Henderson" track:"Prince Of Darkness"
+2024-08-27 16:45:14 INFO     Deezer titre non trouvé
+2024-08-27 16:45:14 INFO     Spotify - query artist:Eddie Henderson album:So What
+2024-08-27 16:45:14 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27367768c04f7ef9941d558753c
+2024-08-27 16:45:18 WARNING  Invalid date: 806
+2024-08-27 16:45:18 INFO     802/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Palace Special....mp3
+2024-08-27 16:45:18 INFO     Deezer query artist:"Gaël Horellou" album:"Roy"
+2024-08-27 16:45:18 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9a9dd37c88fe46e17782ff6820f4debe/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:21 INFO     803/9270 Traitement de /home/zic/JazzWorld/Leon Spencer Jr - Louisiana Slim.mp3
+2024-08-27 16:45:21 INFO     Deezer query artist:"Leon Spencer" album:"Jazz Dance Classics"
+2024-08-27 16:45:21 INFO     Deezer album non trouvé
+2024-08-27 16:45:21 INFO     Deezer query artist:"Leon Spencer" track:"Louisiana slim"
+2024-08-27 16:45:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9bdecaa2f8d2f0ddfbe0e0b2489c66b1/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:24 INFO     804/9270 Traitement de /home/zic/JazzWorld/Mach 2.mp3
+2024-08-27 16:45:24 INFO     Deezer query artist:" " album:"rodha "
+2024-08-27 16:45:24 INFO     Deezer album non trouvé
+2024-08-27 16:45:24 INFO     Deezer query artist:" " track:"mach 2"
+2024-08-27 16:45:25 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2e2d7679201bebeaac1a1a3992fd4bd1/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:28 INFO     805/9270 Traitement de /home/zic/JazzWorld/Snowboy And The Latin Section - Mister P.C.mp3
+2024-08-27 16:45:28 INFO     Deezer query artist:"Snowboy & The Latin Section" album:"Ritmo Snowbo"
+2024-08-27 16:45:28 INFO     Deezer album non trouvé
+2024-08-27 16:45:28 INFO     Deezer query artist:"Snowboy & The Latin Section" track:"Mambo Teresa"
+2024-08-27 16:45:28 INFO     Deezer titre non trouvé
+2024-08-27 16:45:28 INFO     Deezer - query artist:"Snowboy And The Latin Section" track:"Mister P.C"
+2024-08-27 16:45:28 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:45:28 INFO     Spotify - query artist:Snowboy & The Latin Section album:Ritmo Snowbo
+2024-08-27 16:45:28 INFO     Spotify - query artist:Snowboy & The Latin Section track:Mambo Teresa
+2024-08-27 16:45:28 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:28 INFO     Image non trouvée pour /home/zic/JazzWorld/Snowboy And The Latin Section - Mister P.C.mp3
+2024-08-27 16:45:28 INFO     806/9270 Traitement de /home/zic/JazzWorld/Laurent De Wilde - Move On.mp3
+2024-08-27 16:45:28 INFO     Deezer query artist:"Laurent de Wilde" album:"The Present"
+2024-08-27 16:45:29 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/1d6f60e5e59d9a44ab4812bbd1ed22f7/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:32 INFO     807/9270 Traitement de /home/zic/JazzWorld/Sonny Rollins - Nice Lady.mp3
+2024-08-27 16:45:32 INFO     Deezer query artist:"Sonny Rollins" album:"Road Shows, Volume 1"
+2024-08-27 16:45:32 INFO     Deezer album non trouvé
+2024-08-27 16:45:32 INFO     Deezer query artist:"Sonny Rollins" track:"Nice Lady"
+2024-08-27 16:45:32 INFO     Deezer titre non trouvé
+2024-08-27 16:45:32 INFO     Deezer - query artist:"Sonny Rollins" track:"Nice Lady"
+2024-08-27 16:45:32 INFO     Deezer titre non trouvé
+2024-08-27 16:45:32 INFO     Spotify - query artist:Sonny Rollins album:Road Shows, Volume 1
+2024-08-27 16:45:32 INFO     Spotify - query artist:Sonny Rollins track:Nice Lady
+2024-08-27 16:45:33 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:33 INFO     Image non trouvée pour /home/zic/JazzWorld/Sonny Rollins - Nice Lady.mp3
+2024-08-27 16:45:33 INFO     808/9270 Traitement de /home/zic/JazzWorld/Kenny Drew - Undrecurrent.mp3
+2024-08-27 16:45:33 INFO     Deezer query artist:"Kenny Drew" album:"Undercurrent"
+2024-08-27 16:45:33 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/44e74446d58be2b8698260a36376cf22/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:36 INFO     809/9270 Traitement de /home/zic/JazzWorld/Eddie Henderson - On Green Dolphin Street.mp3
+2024-08-27 16:45:36 INFO     Deezer query artist:"Eddie Henderson" album:"So What"
+2024-08-27 16:45:36 INFO     Deezer album non trouvé
+2024-08-27 16:45:36 INFO     Deezer query artist:"Eddie Henderson" track:"On Green Dolphin Street"
+2024-08-27 16:45:37 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/38e34d39d671f1b305411d26852fd450/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:40 INFO     810/9270 Traitement de /home/zic/JazzWorld/Kokoroko - Age Of Ascent.mp3
+2024-08-27 16:45:40 INFO     Deezer query artist:"KOKOROKO" album:"Could We Be More"
+2024-08-27 16:45:40 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/8e6259806901ef76b3d0ae49b1398745/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:43 INFO     811/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Oleo.mp3
+2024-08-27 16:45:43 INFO     Deezer query artist:"Miles Davis" album:"Bags' Groove"
+2024-08-27 16:45:43 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/01e5eb95f1ca4cddf8307b96693509cf/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:47 INFO     812/9270 Traitement de /home/zic/JazzWorld/Salif Keita - Nakana.mp3
+2024-08-27 16:45:47 INFO     Deezer query artist:"Salif Keita & Kante Manfila" album:"The Lost Album"
+2024-08-27 16:45:47 INFO     Deezer album non trouvé
+2024-08-27 16:45:47 INFO     Deezer query artist:"Salif Keita & Kante Manfila" track:"Nkana"
+2024-08-27 16:45:47 INFO     Deezer titre non trouvé
+2024-08-27 16:45:47 INFO     Deezer - query artist:"Salif Keita" track:"Nakana"
+2024-08-27 16:45:47 INFO     Deezer titre non trouvé
+2024-08-27 16:45:47 INFO     Spotify - query artist:Salif Keita & Kante Manfila album:The Lost Album
+2024-08-27 16:45:47 INFO     Spotify - query artist:Salif Keita & Kante Manfila track:Nkana
+2024-08-27 16:45:47 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:47 INFO     Image non trouvée pour /home/zic/JazzWorld/Salif Keita - Nakana.mp3
+2024-08-27 16:45:47 INFO     813/9270 Traitement de /home/zic/JazzWorld/Crimson Jazz Trio - I Talk To The Wind.mp3
+2024-08-27 16:45:47 INFO     Deezer query artist:"The Crimson Jazz Trio" album:"King Crimson Songbook, Volume 1"
+2024-08-27 16:45:48 INFO     Deezer album non trouvé
+2024-08-27 16:45:48 INFO     Deezer query artist:"The Crimson Jazz Trio" track:"I Talk to the Wind"
+2024-08-27 16:45:48 INFO     Deezer titre non trouvé
+2024-08-27 16:45:48 INFO     Deezer - query artist:"Crimson Jazz Trio" track:"I Talk To The Wind"
+2024-08-27 16:45:48 INFO     Deezer titre non trouvé
+2024-08-27 16:45:48 INFO     Spotify - query artist:The Crimson Jazz Trio album:King Crimson Songbook, Volume 1
+2024-08-27 16:45:48 INFO     Spotify - query artist:The Crimson Jazz Trio track:I Talk to the Wind
+2024-08-27 16:45:48 INFO     Spotify - titre non trouvé
+2024-08-27 16:45:48 INFO     Image non trouvée pour /home/zic/JazzWorld/Crimson Jazz Trio - I Talk To The Wind.mp3
+2024-08-27 16:45:48 INFO     814/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Jean-Pierre.mp3
+2024-08-27 16:45:48 INFO     Deezer query artist:"Miles Davis" album:"Fat Time"
+2024-08-27 16:45:48 INFO     Deezer album non trouvé
+2024-08-27 16:45:48 INFO     Deezer query artist:"Miles Davis" track:"Jean-Pierre"
+2024-08-27 16:45:48 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/81f194dfee108accdb089a3ac077dc1c/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:52 INFO     815/9270 Traitement de /home/zic/JazzWorld/Orchestre Poly Rythmo De Cotonou - Adjro Mi (Cavacha Fon).mp3
+2024-08-27 16:45:52 INFO     Deezer query artist:"Orchestre Poly-Rythmo De Cotonou" album:"The Skeletal Essences of Afro Funk 1969-1980"
+2024-08-27 16:45:52 INFO     Deezer album non trouvé
+2024-08-27 16:45:52 INFO     Deezer query artist:"Orchestre Poly-Rythmo De Cotonou" track:"Adjro Mi"
+2024-08-27 16:45:52 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/def4beeee14ce38eb955b69a6ea5fe20/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:55 INFO     816/9270 Traitement de /home/zic/JazzWorld/The Har You Percussion Group - Welcome To The Party.mp3
+2024-08-27 16:45:55 INFO     Deezer query artist:"Har-You Percussion Group" album:"¡Sabroso! The Afro-Latin Groove"
+2024-08-27 16:45:55 INFO     Deezer album non trouvé
+2024-08-27 16:45:55 INFO     Deezer query artist:"Har-You Percussion Group" track:"Welcome to the Party"
+2024-08-27 16:45:55 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/1f2fd4f4c9014d808c1ea047cba26672/500x500-000000-80-0-0.jpg
+2024-08-27 16:45:59 INFO     817/9270 Traitement de /home/zic/JazzWorld/Zuco 103 - Duele Le Le (Feat. Dani Macaco).mp3
+2024-08-27 16:45:59 INFO     Deezer query artist:"Zuco 103 feat. Dani Macaco" album:"Whaa!"
+2024-08-27 16:45:59 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0704660969096a4c4ac2f237c753e4a2/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:02 INFO     818/9270 Traitement de /home/zic/JazzWorld/Gogo Penguin - Home.mp3
+2024-08-27 16:46:02 INFO     Deezer query artist:"GoGo Penguin" album:"v2.0"
+2024-08-27 16:46:02 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/51a95d50c6976b6feceb0b31ae6bc882/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:05 WARNING  Lame tag CRC check failed
+2024-08-27 16:46:05 INFO     819/9270 Traitement de /home/zic/JazzWorld/Super Rail Band - Silanide.mp3
+2024-08-27 16:46:05 INFO     Deezer query artist:"Super Rail Band" album:"Mansa"
+2024-08-27 16:46:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d135da0f42dc050b72f328f3e0fa9828/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:08 WARNING  Invalid date: 5
+2024-08-27 16:46:08 INFO     820/9270 Traitement de /home/zic/JazzWorld/Chip Wickham - Red Planet.mp3
+2024-08-27 16:46:08 INFO     Deezer query artist:"Chip Wickham" album:"La Sombra"
+2024-08-27 16:46:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/4a340864862355f37f7cb2945f002624/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:12 INFO     821/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Summertime.mp3
+2024-08-27 16:46:12 INFO     Deezer query artist:"Miles Davis" album:"Porgy and Bess"
+2024-08-27 16:46:12 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0b298830ceeddfca22507ba284fe36d1/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:15 WARNING  Lame tag CRC check failed
+2024-08-27 16:46:15 INFO     822/9270 Traitement de /home/zic/JazzWorld/Miles Davis And Chet Baker - Round Midnight.mp3
+2024-08-27 16:46:15 INFO     Deezer query artist:"Miles Davis & Chet Baker" album:"Miles Davis & Chet Baker"
+2024-08-27 16:46:15 INFO     Deezer album non trouvé
+2024-08-27 16:46:15 INFO     Deezer query artist:"Miles Davis & Chet Baker" track:"Round Midnight"
+2024-08-27 16:46:15 INFO     Deezer titre non trouvé
+2024-08-27 16:46:15 INFO     Deezer - query artist:"Miles Davis And Chet Baker" track:"Round Midnight"
+2024-08-27 16:46:16 INFO     Deezer titre non trouvé
+2024-08-27 16:46:16 INFO     Spotify - query artist:Miles Davis & Chet Baker album:Miles Davis & Chet Baker
+2024-08-27 16:46:16 INFO     Spotify - query artist:Miles Davis & Chet Baker track:Round Midnight
+2024-08-27 16:46:16 INFO     Spotify - titre non trouvé
+2024-08-27 16:46:16 INFO     Image non trouvée pour /home/zic/JazzWorld/Miles Davis And Chet Baker - Round Midnight.mp3
+2024-08-27 16:46:16 INFO     823/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Bo.mp3
+2024-08-27 16:46:16 INFO     Deezer query artist:"Donald Byrd" album:"Byrd in Flight"
+2024-08-27 16:46:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/143cc18851847f8bd93d07187428098a/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:19 INFO     824/9270 Traitement de /home/zic/JazzWorld/Avishai Cohen - Reunion Of The Souls.mp3
+2024-08-27 16:46:19 INFO     Deezer query artist:"Avishai Cohen" album:"Adama"
+2024-08-27 16:46:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/c3fe023a6c6662c84eaafa0bb08dffb2/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:23 INFO     825/9270 Traitement de /home/zic/JazzWorld/Morogoro Jazz Band - Livu.mp3
+2024-08-27 16:46:23 INFO     Deezer query artist:"Various Artists" album:"Zanzibara 3"
+2024-08-27 16:46:23 INFO     Deezer album non trouvé
+2024-08-27 16:46:23 INFO     Deezer query artist:"Various Artists" track:"15 - Livu _ Morogoro Jazz Band"
+2024-08-27 16:46:23 INFO     Deezer titre non trouvé
+2024-08-27 16:46:23 INFO     Deezer - query artist:"Morogoro Jazz Band" track:"Livu"
+2024-08-27 16:46:23 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:46:23 INFO     Spotify - query artist:Various Artists album:Zanzibara 3
+2024-08-27 16:46:23 INFO     Spotify - query artist:Various Artists track:15 - Livu _ Morogoro Jazz Band
+2024-08-27 16:46:23 INFO     Spotify - titre non trouvé
+2024-08-27 16:46:23 INFO     Image non trouvée pour /home/zic/JazzWorld/Morogoro Jazz Band - Livu.mp3
+2024-08-27 16:46:23 WARNING  Invalid date: 806
+2024-08-27 16:46:23 INFO     826/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - 3 And 4....mp3
+2024-08-27 16:46:23 INFO     Deezer query artist:"Gaël Horellou" album:"Moral De Fer"
+2024-08-27 16:46:24 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/dc25f51baadae4ecf4d7f333f7a2716d/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:27 INFO     827/9270 Traitement de /home/zic/JazzWorld/Bobby Hutcherson - Oblique (Remastered).mp3
+2024-08-27 16:46:27 INFO     Deezer query artist:"Bobby Hutcherson" album:"Oblique"
+2024-08-27 16:46:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aee31ddf438de7e32e45004546bf45b0/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:30 INFO     828/9270 Traitement de /home/zic/JazzWorld/Miles Davis - The Ghetto Walk.mp3
+2024-08-27 16:46:30 INFO     Deezer query artist:"Miles Davis" album:"The Complete In a Silent Way Sessions"
+2024-08-27 16:46:30 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/db633a75bb1a9a0daaf18a85e1746450/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:33 INFO     829/9270 Traitement de /home/zic/JazzWorld/Jaron Marshall - Water Flows.mp3
+2024-08-27 16:46:33 INFO     Deezer query artist:"JaRon Marshall" album:"earth sounds"
+2024-08-27 16:46:33 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/06f1cf3fac3b0075718c44d799bf0b55/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:36 INFO     830/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - Rock Your Soul.mp3
+2024-08-27 16:46:36 INFO     Deezer query artist:"Herbie Hancock" album:"Jammin’ With Herbie"
+2024-08-27 16:46:37 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/c1596d9acc124169616ce030bd598414/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:40 INFO     831/9270 Traitement de /home/zic/JazzWorld/John Coltrane And Red Garland - Russian Lullaby.mp3
+2024-08-27 16:46:40 INFO     Deezer query artist:"John Coltrane" album:"Soultrane"
+2024-08-27 16:46:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/54d015d52c7413669c3fc1efafd77a94/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:44 INFO     832/9270 Traitement de /home/zic/JazzWorld/Ronnie Laws - Tidal Wave.mp3
+2024-08-27 16:46:44 INFO     Deezer query artist:"Ronnie Laws" album:"Madlib: The Crates"
+2024-08-27 16:46:44 INFO     Deezer album non trouvé
+2024-08-27 16:46:44 INFO     Deezer query artist:"Ronnie Laws" track:"Tidal Wave"
+2024-08-27 16:46:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/3d0371766d90504908949882fc959547/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:47 WARNING  Lame tag CRC check failed
+2024-08-27 16:46:47 INFO     833/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Tempus Fugit.mp3
+2024-08-27 16:46:47 INFO     Deezer query artist:"Miles Davis" album:"Miles Davis, Volume 2"
+2024-08-27 16:46:48 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/df0344fec6b0324dea2d1b793df1c9b7/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:51 INFO     834/9270 Traitement de /home/zic/JazzWorld/Ron Carter  Herbie Hancock  Tony Williams - Dolphin Dance.mp3
+2024-08-27 16:46:51 INFO     Deezer query artist:"Ron Carter" album:"Third Plane"
+2024-08-27 16:46:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5460ec1d268e50e4bd70d8086710c04b/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:54 INFO     835/9270 Traitement de /home/zic/JazzWorld/Balkan Beat Box - Bulgarian Chicks.mp3
+2024-08-27 16:46:54 INFO     Deezer query artist:"Balkan Beat Box" album:"Bucovina Club, Volume 2"
+2024-08-27 16:46:54 INFO     Deezer album non trouvé
+2024-08-27 16:46:54 INFO     Deezer query artist:"Balkan Beat Box" track:"Bulgarian Chicks"
+2024-08-27 16:46:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/774119f7747e1c7d285f4ebf862ec5bd/500x500-000000-80-0-0.jpg
+2024-08-27 16:46:57 INFO     836/9270 Traitement de /home/zic/JazzWorld/Romano Vignolo Trotignon - Valse De Melody.mp3
+2024-08-27 16:46:57 INFO     Deezer query artist:"Aldo Romano - Rémi Vignolo - Baptiste Trotignon" album:"Flower Power"
+2024-08-27 16:46:58 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b92e7f8aab7e58d01e902b9f0026224b/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:01 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-27 16:47:01 INFO     /home/zic/JazzWorld/Trio Populaire - Rumba Du Parc.mp3 No Tag Album
+2024-08-27 16:47:01 INFO     837/9270 Traitement de /home/zic/JazzWorld/Trio Populaire - Rumba Du Parc.mp3
+2024-08-27 16:47:01 INFO     Deezer query artist:"Trio Populaire" album:"None"
+2024-08-27 16:47:01 INFO     Deezer album non trouvé
+2024-08-27 16:47:01 INFO     Deezer query artist:"Trio Populaire" track:"Rumba Du Parc"
+2024-08-27 16:47:01 INFO     Deezer titre non trouvé
+2024-08-27 16:47:01 INFO     Deezer - query artist:"Trio Populaire" track:"Rumba Du Parc"
+2024-08-27 16:47:01 INFO     Deezer titre non trouvé
+2024-08-27 16:47:01 INFO     Spotify - query artist:Trio Populaire album:None
+2024-08-27 16:47:01 INFO     Spotify - query artist:Trio Populaire track:Rumba Du Parc
+2024-08-27 16:47:02 INFO     Spotify - titre non trouvé
+2024-08-27 16:47:02 INFO     Image non trouvée pour /home/zic/JazzWorld/Trio Populaire - Rumba Du Parc.mp3
+2024-08-27 16:47:02 INFO     838/9270 Traitement de /home/zic/JazzWorld/Billy Cobham - Red Baron.mp3
+2024-08-27 16:47:02 INFO     Deezer query artist:"Billy Cobham" album:"Spectrum"
+2024-08-27 16:47:02 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d5cd44e3c120c95b2351bf1f8f030d39/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:05 WARNING  Lame tag CRC check failed
+2024-08-27 16:47:05 INFO     839/9270 Traitement de /home/zic/JazzWorld/Ahmad Jamal - Footprints.mp3
+2024-08-27 16:47:05 INFO     Deezer query artist:"Ahmad Jamal" album:"Live at the Montreal Jazz Festival 1985"
+2024-08-27 16:47:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f08c2dca95606d09f544195da400b523/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:08 WARNING  Lame tag CRC check failed
+2024-08-27 16:47:08 INFO     840/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Espace.mp3
+2024-08-27 16:47:08 INFO     Deezer query artist:"Gaël Horellou" album:"Explorations"
+2024-08-27 16:47:08 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0348a7c01a6fbb6bda1c3ad792c3288c/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:11 INFO     841/9270 Traitement de /home/zic/JazzWorld/Le Super Biton National De Segou - Siseni.mp3
+2024-08-27 16:47:11 INFO     Deezer query artist:"Le Super Biton National de Ségou" album:"Mali 70: Electric Mali"
+2024-08-27 16:47:12 INFO     Deezer album non trouvé
+2024-08-27 16:47:12 INFO     Deezer query artist:"Le Super Biton National de Ségou" track:"Sisèni"
+2024-08-27 16:47:12 INFO     Deezer titre non trouvé
+2024-08-27 16:47:12 INFO     Deezer - query artist:"Le Super Biton National De Segou" track:"Siseni"
+2024-08-27 16:47:12 INFO     Deezer titre non trouvé
+2024-08-27 16:47:12 INFO     Spotify - query artist:Le Super Biton National de Ségou album:Mali 70: Electric Mali
+2024-08-27 16:47:12 INFO     Spotify - query artist:Le Super Biton National de Ségou track:Sisèni
+2024-08-27 16:47:12 INFO     Spotify - titre non trouvé
+2024-08-27 16:47:12 INFO     Image non trouvée pour /home/zic/JazzWorld/Le Super Biton National De Segou - Siseni.mp3
+2024-08-27 16:47:12 WARNING  Lame tag CRC check failed
+2024-08-27 16:47:12 INFO     842/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Dear Old Stockholm.mp3
+2024-08-27 16:47:12 INFO     Deezer query artist:"Miles Davis" album:"Miles Davis, Volume 1"
+2024-08-27 16:47:12 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/49b40480bb9ebfbb310d9e71884f1c08/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:15 INFO     843/9270 Traitement de /home/zic/JazzWorld/Hank Mobley - Speak Low (alternate Take).mp3
+2024-08-27 16:47:15 INFO     Deezer query artist:"Hank Mobley" album:"Peckin' Time"
+2024-08-27 16:47:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e4c74e31081a353c24a5ad452a2b2c39/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:19 WARNING  Lame tag CRC check failed
+2024-08-27 16:47:19 INFO     844/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - Tiny S Tempo.mp3
+2024-08-27 16:47:19 INFO     Deezer query artist:"Tiny Grimes Quintet" album:"Boss Bird (Studio Recordings 1944-1951)"
+2024-08-27 16:47:19 INFO     Deezer album non trouvé
+2024-08-27 16:47:19 INFO     Deezer query artist:"Tiny Grimes Quintet" track:"Tiny's Tempo"
+2024-08-27 16:47:19 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/03aa488cb419b644e8b1cbeb67103cac/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:22 INFO     845/9270 Traitement de /home/zic/JazzWorld/Tito Puente - Donde Vas.mp3
+2024-08-27 16:47:22 INFO     Deezer query artist:"Tito Puente" album:"Live at Birdland"
+2024-08-27 16:47:22 INFO     Deezer album non trouvé
+2024-08-27 16:47:22 INFO     Deezer query artist:"Tito Puente" track:"A donde vas"
+2024-08-27 16:47:23 INFO     Deezer titre non trouvé
+2024-08-27 16:47:23 INFO     Deezer - query artist:"Tito Puente" track:"Donde Vas"
+2024-08-27 16:47:23 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:47:23 INFO     Spotify - query artist:Tito Puente album:Live at Birdland
+2024-08-27 16:47:23 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27305abb535443440b2b61dfc71
+2024-08-27 16:47:27 INFO     846/9270 Traitement de /home/zic/JazzWorld/Manu Dibango - Descarga Aound Sango RKK.mp3
+2024-08-27 16:47:27 INFO     Deezer query artist:"Manu Dibango" album:"Nova 24h"
+2024-08-27 16:47:27 INFO     Deezer album non trouvé
+2024-08-27 16:47:27 INFO     Deezer query artist:"Manu Dibango" track:"Descarga Around Sango RKK"
+2024-08-27 16:47:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/771d14db7a685adedb64f39a2e4733f3/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:30 INFO     847/9270 Traitement de /home/zic/JazzWorld/Talvin Singh - Soni.mp3
+2024-08-27 16:47:30 INFO     Deezer query artist:"Talvin Singh" album:"OK"
+2024-08-27 16:47:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bdc538010a4383093ea1cf925957521c/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:34 INFO     848/9270 Traitement de /home/zic/JazzWorld/Les Babacools - Lluvia Sol.mp3
+2024-08-27 16:47:34 INFO     Deezer query artist:"Les Babacools" album:"Brazilectro: Session 7"
+2024-08-27 16:47:34 INFO     Deezer album non trouvé
+2024-08-27 16:47:34 INFO     Deezer query artist:"Les Babacools" track:"Lluvia Sol"
+2024-08-27 16:47:34 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/746a7b1767bd7b48729a5b579428b4d2/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:37 WARNING  Lame tag CRC check failed
+2024-08-27 16:47:37 INFO     849/9270 Traitement de /home/zic/JazzWorld/Harvey Mason - Modaji.mp3
+2024-08-27 16:47:37 INFO     Deezer query artist:"Harvey Mason" album:"Marching in the Street"
+2024-08-27 16:47:37 INFO     Deezer album non trouvé
+2024-08-27 16:47:37 INFO     Deezer query artist:"Harvey Mason" track:"Modaji"
+2024-08-27 16:47:38 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b53a389558a5c8d1bee456e81628086b/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:41 INFO     850/9270 Traitement de /home/zic/JazzWorld/Ahmad Jamal - Autumn Leaves.mp3
+2024-08-27 16:47:41 INFO     Deezer query artist:"Ahmad Jamal" album:"Marseille"
+2024-08-27 16:47:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e15e2874f496887866335cebcb575d6d/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:44 INFO     851/9270 Traitement de /home/zic/JazzWorld/Goran Bregovic - Kustino Oro.mp3
+2024-08-27 16:47:44 INFO     Deezer query artist:"Goran Bregović" album:"Le Temps des Gitans / Kuduz"
+2024-08-27 16:47:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e35d22696c5f39acaff66ff83cd46a62/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:47 INFO     852/9270 Traitement de /home/zic/JazzWorld/Avishai Cohen Trio - Eleven Wives.mp3
+2024-08-27 16:47:47 INFO     Deezer query artist:"Avishai Cohen" album:"Gently Disturbed"
+2024-08-27 16:47:48 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/23924a09304adfbe643c85f1bc4da754/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:51 INFO     853/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Some Day My Prince Will Come.mp3
+2024-08-27 16:47:51 INFO     Deezer query artist:"Miles Davis" album:"Jazz Moods: Cool"
+2024-08-27 16:47:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e27894211b0030de80a01ce73529263b/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:54 INFO     854/9270 Traitement de /home/zic/JazzWorld/Mongo Santamaria - Que Maravilloso (Pachanga).mp3
+2024-08-27 16:47:54 INFO     Deezer query artist:"Mongo Santamaría" album:"Fantasy: Original Jazz Classics Sampler"
+2024-08-27 16:47:54 INFO     Deezer album non trouvé
+2024-08-27 16:47:54 INFO     Deezer query artist:"Mongo Santamaría" track:"Que Maravilloso"
+2024-08-27 16:47:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/927f664cdf2150a17f99601e9edb5764/500x500-000000-80-0-0.jpg
+2024-08-27 16:47:57 INFO     855/9270 Traitement de /home/zic/JazzWorld/Ali Farka Toure - Arsany.mp3
+2024-08-27 16:47:57 INFO     Deezer query artist:"Ali Farka Touré" album:"Radio Mali"
+2024-08-27 16:47:58 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/379f4e5d43b26b41cef7fcaa95e6a467/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:01 INFO     856/9270 Traitement de /home/zic/JazzWorld/The Headhunters - Kongo Square.mp3
+2024-08-27 16:48:01 INFO     Deezer query artist:"The Headhunters feat. Scott Roberts & Fodé Sissoko" album:"Speakers In the House"
+2024-08-27 16:48:01 INFO     Deezer album non trouvé
+2024-08-27 16:48:01 INFO     Deezer query artist:"The Headhunters feat. Scott Roberts & Fodé Sissoko" track:"Kongo Square"
+2024-08-27 16:48:01 INFO     Deezer titre non trouvé
+2024-08-27 16:48:01 INFO     Deezer - query artist:"The Headhunters" track:"Kongo Square"
+2024-08-27 16:48:01 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:48:01 INFO     Spotify - query artist:The Headhunters feat. Scott Roberts & Fodé Sissoko album:Speakers In the House
+2024-08-27 16:48:01 INFO     Spotify - query artist:The Headhunters feat. Scott Roberts & Fodé Sissoko track:Kongo Square
+2024-08-27 16:48:02 INFO     Spotify - titre non trouvé
+2024-08-27 16:48:02 INFO     Image non trouvée pour /home/zic/JazzWorld/The Headhunters - Kongo Square.mp3
+2024-08-27 16:48:02 WARNING  Invalid date: 805
+2024-08-27 16:48:02 INFO     857/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Kisa Larive.mp3
+2024-08-27 16:48:02 INFO     Deezer query artist:"Gaël Horellou" album:"Dalonaz"
+2024-08-27 16:48:02 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f9e6bcf6d8166531f8e29d2343f3b221/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:05 INFO     858/9270 Traitement de /home/zic/JazzWorld/Pucho And His Latin Soul Brother - Strange Thing Mambo.mp3
+2024-08-27 16:48:05 INFO     Deezer query artist:"Pucho & The Latin Soul Brothers" album:"Best of Pucho And The Latin Soul Brothers"
+2024-08-27 16:48:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/315750229a082be3ac2b9ca284e4c981/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:08 INFO     859/9270 Traitement de /home/zic/JazzWorld/Nextmen Ft. Dynamite Mc - Spin It Round.mp3
+2024-08-27 16:48:08 INFO     Deezer query artist:"The Nextmen feat. Dynamite MC" album:"FabricLive 26: The Herbaliser"
+2024-08-27 16:48:08 INFO     Deezer album non trouvé
+2024-08-27 16:48:08 INFO     Deezer query artist:"The Nextmen feat. Dynamite MC" track:"Spin It Round"
+2024-08-27 16:48:08 INFO     Deezer titre non trouvé
+2024-08-27 16:48:08 INFO     Deezer - query artist:"Nextmen Ft. Dynamite Mc" track:"Spin It Round"
+2024-08-27 16:48:08 INFO     Deezer titre non trouvé
+2024-08-27 16:48:08 INFO     Spotify - query artist:The Nextmen feat. Dynamite MC album:FabricLive 26: The Herbaliser
+2024-08-27 16:48:09 INFO     Spotify - query artist:The Nextmen feat. Dynamite MC track:Spin It Round
+2024-08-27 16:48:09 INFO     Spotify - titre non trouvé
+2024-08-27 16:48:09 INFO     Image non trouvée pour /home/zic/JazzWorld/Nextmen Ft. Dynamite Mc - Spin It Round.mp3
+2024-08-27 16:48:09 INFO     860/9270 Traitement de /home/zic/JazzWorld/Orchestre Poly Rythmo De Cotonou - Karateka (Sato).mp3
+2024-08-27 16:48:09 INFO     Deezer query artist:"Orchestre Poly-Rythmo De Cotonou" album:"The Skeletal Essences of Afro Funk 1969-1980"
+2024-08-27 16:48:09 INFO     Deezer album non trouvé
+2024-08-27 16:48:09 INFO     Deezer query artist:"Orchestre Poly-Rythmo De Cotonou" track:"Karateka"
+2024-08-27 16:48:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/def4beeee14ce38eb955b69a6ea5fe20/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:12 INFO     861/9270 Traitement de /home/zic/JazzWorld/Eric Le Lann - C Est La Nuit Lola.mp3
+2024-08-27 16:48:12 INFO     Deezer query artist:"Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss" album:"Le Lann, Kikosky, Foster, Weiss"
+2024-08-27 16:48:12 INFO     Deezer album non trouvé
+2024-08-27 16:48:12 INFO     Deezer query artist:"Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss" track:"C'est la nuit Lola"
+2024-08-27 16:48:12 INFO     Deezer titre non trouvé
+2024-08-27 16:48:12 INFO     Deezer - query artist:"Eric Le Lann" track:"C Est La Nuit Lola"
+2024-08-27 16:48:13 INFO     Deezer titre non trouvé
+2024-08-27 16:48:13 INFO     Spotify - query artist:Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss album:Le Lann, Kikosky, Foster, Weiss
+2024-08-27 16:48:13 INFO     Spotify - query artist:Eric Le Lann, Al Foster, David Kikoski & Douglas Weiss track:C'est la nuit Lola
+2024-08-27 16:48:13 INFO     Spotify - titre non trouvé
+2024-08-27 16:48:13 INFO     Image non trouvée pour /home/zic/JazzWorld/Eric Le Lann - C Est La Nuit Lola.mp3
+2024-08-27 16:48:13 INFO     862/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - Jammin With Herbie.mp3
+2024-08-27 16:48:13 INFO     Deezer query artist:"Herbie Hancock" album:"Jammin’ With Herbie"
+2024-08-27 16:48:13 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/c1596d9acc124169616ce030bd598414/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:16 WARNING  Lame tag CRC check failed
+2024-08-27 16:48:16 INFO     863/9270 Traitement de /home/zic/JazzWorld/Weather Report - Birdland.mp3
+2024-08-27 16:48:16 INFO     Deezer query artist:"Weather Report" album:"Punk Jazz: The Jaco Pastorius Anthology"
+2024-08-27 16:48:16 INFO     Deezer album non trouvé
+2024-08-27 16:48:16 INFO     Deezer query artist:"Weather Report" track:"Birdland"
+2024-08-27 16:48:17 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f8349e0c4204dd74cf97841309ebbfbf/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:20 INFO     864/9270 Traitement de /home/zic/JazzWorld/Aldo Romano - Cita Soleil.mp3
+2024-08-27 16:48:20 INFO     Deezer query artist:"Aldo Romano" album:"Just Jazz"
+2024-08-27 16:48:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5a0113f8ea3c717581150b50c80b32a8/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:23 INFO     865/9270 Traitement de /home/zic/JazzWorld/Marc Ribot Y Los Cubanos Postizos - Dame Un Cachito Pahuele.mp3
+2024-08-27 16:48:23 INFO     Deezer query artist:"Marc Ribot y Los cubanos postizos" album:"¡Muy Divertido!"
+2024-08-27 16:48:23 INFO     Deezer album non trouvé
+2024-08-27 16:48:23 INFO     Deezer query artist:"Marc Ribot y Los cubanos postizos" track:"Dame un cachito pa'huele"
+2024-08-27 16:48:23 INFO     Deezer titre non trouvé
+2024-08-27 16:48:23 INFO     Deezer - query artist:"Marc Ribot Y Los Cubanos Postizos" track:"Dame Un Cachito Pahuele"
+2024-08-27 16:48:23 INFO     Deezer titre non trouvé
+2024-08-27 16:48:23 INFO     Spotify - query artist:Marc Ribot y Los cubanos postizos album:¡Muy Divertido!
+2024-08-27 16:48:24 INFO     Spotify - query artist:Marc Ribot y Los cubanos postizos track:Dame un cachito pa'huele
+2024-08-27 16:48:24 INFO     Spotify - titre non trouvé
+2024-08-27 16:48:24 INFO     Image non trouvée pour /home/zic/JazzWorld/Marc Ribot Y Los Cubanos Postizos - Dame Un Cachito Pahuele.mp3
+2024-08-27 16:48:24 INFO     866/9270 Traitement de /home/zic/JazzWorld/Kenny Drew - Groovin  The Blues.mp3
+2024-08-27 16:48:24 INFO     Deezer query artist:"Kenny Drew" album:"Undercurrent"
+2024-08-27 16:48:24 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/44e74446d58be2b8698260a36376cf22/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:27 INFO     867/9270 Traitement de /home/zic/JazzWorld/Kenny Drew - The Pots On.mp3
+2024-08-27 16:48:27 INFO     Deezer query artist:"Kenny Drew" album:"Undercurrent"
+2024-08-27 16:48:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/44e74446d58be2b8698260a36376cf22/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:30 WARNING  Invalid date: 806
+2024-08-27 16:48:30 INFO     868/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Etang Sale....mp3
+2024-08-27 16:48:30 INFO     Deezer query artist:"Gaël Horellou" album:"Roy"
+2024-08-27 16:48:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9a9dd37c88fe46e17782ff6820f4debe/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:34 INFO     869/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Grand Brile.mp3
+2024-08-27 16:48:34 INFO     Deezer query artist:"GAEL HORELLOU" album:"IDENTIT￉"
+2024-08-27 16:48:34 INFO     Deezer album non trouvé
+2024-08-27 16:48:34 INFO     Deezer query artist:"GAEL HORELLOU" track:"GRAND BRILE"
+2024-08-27 16:48:34 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f9f8a0dd33688b95b1cbd6ca3dfe440b/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:37 INFO     870/9270 Traitement de /home/zic/JazzWorld/Wayne Shorter - Virgo.mp3
+2024-08-27 16:48:37 INFO     Deezer query artist:"Wayne Shorter" album:"The Best of Wayne Shorter: The Blue Note Years"
+2024-08-27 16:48:37 INFO     Deezer album non trouvé
+2024-08-27 16:48:37 INFO     Deezer query artist:"Wayne Shorter" track:"Virgo"
+2024-08-27 16:48:38 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9c77bf46ca80368dd4211ed95b5cef01/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:41 INFO     871/9270 Traitement de /home/zic/JazzWorld/Lonnie Liston Smith The Cosmic Echoes - Astral Traveling.mp3
+2024-08-27 16:48:41 INFO     Deezer query artist:"Lonnie Liston Smith" album:"Astral Traveling"
+2024-08-27 16:48:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/3f20d444e71b5d83d856008a9986bc7d/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:44 INFO     872/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Gigue Creole.mp3
+2024-08-27 16:48:44 INFO     Deezer query artist:"Gaël Horellou" album:"Tous les peuples"
+2024-08-27 16:48:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ad7a39c38a18eac6ccc5778fcb76e05c/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:47 INFO     873/9270 Traitement de /home/zic/JazzWorld/Monty Alexander - Brown Skin Girl.mp3
+2024-08-27 16:48:47 INFO     Deezer query artist:"Monty Alexander" album:"Here Comes the Sun"
+2024-08-27 16:48:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e4b3b1dd396567d6f09522621e61ae56/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:50 INFO     874/9270 Traitement de /home/zic/JazzWorld/Hancock Brecker Hargrove - My Ship.mp3
+2024-08-27 16:48:50 INFO     Deezer query artist:"Herbie Hancock, Michael Brecker & Roy Hargrove" album:"Directions in Music: Live at Massey Hall"
+2024-08-27 16:48:51 INFO     Deezer album non trouvé
+2024-08-27 16:48:51 INFO     Deezer query artist:"Herbie Hancock, Michael Brecker & Roy Hargrove" track:"My Ship"
+2024-08-27 16:48:51 INFO     Deezer titre non trouvé
+2024-08-27 16:48:51 INFO     Deezer - query artist:"Hancock Brecker Hargrove" track:"My Ship"
+2024-08-27 16:48:51 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:48:51 INFO     Spotify - query artist:Herbie Hancock, Michael Brecker & Roy Hargrove album:Directions in Music: Live at Massey Hall
+2024-08-27 16:48:51 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b273eed446ddc37a9f2f938c411e
+2024-08-27 16:48:54 INFO     875/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Wheelin.mp3
+2024-08-27 16:48:54 INFO     Deezer query artist:"John Coltrane / Frank Wess" album:"Wheelin’ & Dealin’"
+2024-08-27 16:48:55 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fbb271640b6cfaa77d855f2eb2986228/500x500-000000-80-0-0.jpg
+2024-08-27 16:48:58 INFO     876/9270 Traitement de /home/zic/JazzWorld/Tantra Lounge - Shashkin (Hefner Remix).mp3
+2024-08-27 16:48:58 INFO     Deezer query artist:"Helix" album:"Trance"
+2024-08-27 16:48:58 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/707d8178e6f3abf37c1a54aae2d5a1c1/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:01 INFO     877/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Springsville.mp3
+2024-08-27 16:49:01 INFO     Deezer query artist:"Miles Davis Quintet" album:"Miles Away"
+2024-08-27 16:49:01 INFO     Deezer album non trouvé
+2024-08-27 16:49:01 INFO     Deezer query artist:"Miles Davis Quintet" track:"Springsville"
+2024-08-27 16:49:02 INFO     Deezer titre non trouvé
+2024-08-27 16:49:02 INFO     Deezer - query artist:"Miles Davis" track:"Springsville"
+2024-08-27 16:49:02 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:49:02 INFO     Spotify - query artist:Miles Davis Quintet album:Miles Away
+2024-08-27 16:49:02 INFO     Spotify - query artist:Miles Davis Quintet track:Springsville
+2024-08-27 16:49:02 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b273d2ab5f67d6c7957708a61726
+2024-08-27 16:49:06 WARNING  Lame tag CRC check failed
+2024-08-27 16:49:06 INFO     878/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Jorgie S.mp3
+2024-08-27 16:49:06 INFO     Deezer query artist:"Donald Byrd" album:"Royal Flush"
+2024-08-27 16:49:06 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fc9dd0154a0a3e71c8b3283d4cef2b74/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:09 INFO     879/9270 Traitement de /home/zic/JazzWorld/Nubya Garcia - Stand With Each Other.mp3
+2024-08-27 16:49:09 INFO     Deezer query artist:"Nubya Garcia featuring Ms MAURICE, Cassie Kinoshi, Richie Seivwright" album:"SOURCE"
+2024-08-27 16:49:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6fc2ee805969f8444cf9723933e711a1/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:13 INFO     880/9270 Traitement de /home/zic/JazzWorld/Miles Davis - In A Silent Way It s About That Time.mp3
+2024-08-27 16:49:13 INFO     Deezer query artist:"Miles Davis" album:"The Complete In a Silent Way Sessions"
+2024-08-27 16:49:13 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/db633a75bb1a9a0daaf18a85e1746450/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:16 INFO     881/9270 Traitement de /home/zic/JazzWorld/Headhunters - Pp Head.mp3
+2024-08-27 16:49:16 INFO     Deezer query artist:"The Headhunters" album:"Downtown"
+2024-08-27 16:49:16 INFO     Deezer album non trouvé
+2024-08-27 16:49:16 INFO     Deezer query artist:"The Headhunters" track:"PP Head"
+2024-08-27 16:49:16 INFO     Deezer titre non trouvé
+2024-08-27 16:49:16 INFO     Deezer - query artist:"Headhunters" track:"Pp Head"
+2024-08-27 16:49:16 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:49:16 INFO     Spotify - query artist:The Headhunters album:Downtown
+2024-08-27 16:49:17 INFO     Spotify - query artist:The Headhunters track:PP Head
+2024-08-27 16:49:17 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b273d066012077fa65a57a852028
+2024-08-27 16:49:20 WARNING  Lame tag CRC check failed
+2024-08-27 16:49:20 INFO     /home/zic/JazzWorld/Mongo Santamaria - O Mishango.mp3 No Tag Album
+2024-08-27 16:49:20 INFO     882/9270 Traitement de /home/zic/JazzWorld/Mongo Santamaria - O Mishango.mp3
+2024-08-27 16:49:20 INFO     Deezer query artist:"Mongo Santamaria" album:"None"
+2024-08-27 16:49:20 INFO     Deezer album non trouvé
+2024-08-27 16:49:20 INFO     Deezer query artist:"Mongo Santamaria" track:"O Mishango"
+2024-08-27 16:49:20 INFO     Deezer titre non trouvé
+2024-08-27 16:49:20 INFO     Deezer - query artist:"Mongo Santamaria" track:"O Mishango"
+2024-08-27 16:49:20 INFO     Deezer titre non trouvé
+2024-08-27 16:49:20 INFO     Spotify - query artist:Mongo Santamaria album:None
+2024-08-27 16:49:21 INFO     Spotify - query artist:Mongo Santamaria track:O Mishango
+2024-08-27 16:49:21 INFO     Spotify - titre non trouvé
+2024-08-27 16:49:21 INFO     Image non trouvée pour /home/zic/JazzWorld/Mongo Santamaria - O Mishango.mp3
+2024-08-27 16:49:21 INFO     883/9270 Traitement de /home/zic/JazzWorld/Afro-Cuban All Stars - Habana Del Este.mp3
+2024-08-27 16:49:21 INFO     Deezer query artist:"Afro-Cuban All Stars" album:"A Toda Cuba Le Gusta"
+2024-08-27 16:49:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/814674cf40e924ac3a9eaa2fd873b1c9/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:24 INFO     884/9270 Traitement de /home/zic/JazzWorld/Henri Salvador - Chambre Avec Vue.mp3
+2024-08-27 16:49:24 INFO     Deezer query artist:"Henri Salvador" album:"Chambre avec vue"
+2024-08-27 16:49:24 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e17859591b1d58dbed6d4ff94d8e8d31/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:27 INFO     885/9270 Traitement de /home/zic/JazzWorld/Onb - Lemouima.mp3
+2024-08-27 16:49:27 INFO     Deezer query artist:"Orchestre National de Barbès" album:"Poulina"
+2024-08-27 16:49:27 INFO     Deezer album non trouvé
+2024-08-27 16:49:27 INFO     Deezer query artist:"Orchestre National de Barbès" track:"Lemouima"
+2024-08-27 16:49:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/c2103cb585f34cf7abb56e060aa73923/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:31 INFO     886/9270 Traitement de /home/zic/JazzWorld/BadBadNotGood - Confessions.mp3
+2024-08-27 16:49:31 INFO     Deezer query artist:"BADBADNOTGOOD" album:"III"
+2024-08-27 16:49:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bdc0a44b7ae9d56edc2ebee462ecc58e/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:34 INFO     887/9270 Traitement de /home/zic/JazzWorld/Marc Ribot Y Los Cubanos Postizos - El Gaucho Rojo.mp3
+2024-08-27 16:49:34 INFO     Deezer query artist:"Marc Ribot y Los cubanos postizos" album:"¡Muy Divertido!"
+2024-08-27 16:49:34 INFO     Deezer album non trouvé
+2024-08-27 16:49:34 INFO     Deezer query artist:"Marc Ribot y Los cubanos postizos" track:"El gaucho rojo"
+2024-08-27 16:49:34 INFO     Deezer titre non trouvé
+2024-08-27 16:49:34 INFO     Deezer - query artist:"Marc Ribot Y Los Cubanos Postizos" track:"El Gaucho Rojo"
+2024-08-27 16:49:34 INFO     Deezer titre non trouvé
+2024-08-27 16:49:34 INFO     Spotify - query artist:Marc Ribot y Los cubanos postizos album:¡Muy Divertido!
+2024-08-27 16:49:34 INFO     Spotify - query artist:Marc Ribot y Los cubanos postizos track:El gaucho rojo
+2024-08-27 16:49:35 INFO     Spotify - titre non trouvé
+2024-08-27 16:49:35 INFO     Image non trouvée pour /home/zic/JazzWorld/Marc Ribot Y Los Cubanos Postizos - El Gaucho Rojo.mp3
+2024-08-27 16:49:35 INFO     888/9270 Traitement de /home/zic/JazzWorld/Ray Brown Trio - When I Fall In Love.mp3
+2024-08-27 16:49:35 INFO     Deezer query artist:"The Ray Brown Trio" album:"Live at Starbucks"
+2024-08-27 16:49:35 INFO     Deezer album non trouvé
+2024-08-27 16:49:35 INFO     Deezer query artist:"The Ray Brown Trio" track:"When I Fall in Love"
+2024-08-27 16:49:35 INFO     Deezer titre non trouvé
+2024-08-27 16:49:35 INFO     Deezer - query artist:"Ray Brown Trio" track:"When I Fall In Love"
+2024-08-27 16:49:35 INFO     Deezer titre non trouvé
+2024-08-27 16:49:35 INFO     Spotify - query artist:The Ray Brown Trio album:Live at Starbucks
+2024-08-27 16:49:35 INFO     Spotify - query artist:The Ray Brown Trio track:When I Fall in Love
+2024-08-27 16:49:35 INFO     Spotify - titre non trouvé
+2024-08-27 16:49:35 INFO     Image non trouvée pour /home/zic/JazzWorld/Ray Brown Trio - When I Fall In Love.mp3
+2024-08-27 16:49:35 INFO     889/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Wise One.mp3
+2024-08-27 16:49:35 INFO     Deezer query artist:"John Coltrane" album:"The Classic Quartet: The Complete Impulse! Studio Recordings"
+2024-08-27 16:49:35 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/28cb97502255ff27fff765a71a166251/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:38 WARNING  Invalid date: 502
+2024-08-27 16:49:38 INFO     890/9270 Traitement de /home/zic/JazzWorld/Red Baraat - Baraat To Nowhere....mp3
+2024-08-27 16:49:38 INFO     Deezer query artist:"Red Baraat" album:"Big Talk"
+2024-08-27 16:49:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/a1056184955962b907a3933891aa1e00/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:42 INFO     891/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Shhh Peaceful.mp3
+2024-08-27 16:49:42 INFO     Deezer query artist:"Miles Davis" album:"The Complete In a Silent Way Sessions"
+2024-08-27 16:49:42 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/db633a75bb1a9a0daaf18a85e1746450/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:45 INFO     892/9270 Traitement de /home/zic/JazzWorld/Orchestre Regional De Sikasso - Labankan.mp3
+2024-08-27 16:49:45 INFO     Deezer query artist:"Orchestre régional de Sikasso" album:"Mali 70: Electric Mali"
+2024-08-27 16:49:45 INFO     Deezer album non trouvé
+2024-08-27 16:49:45 INFO     Deezer query artist:"Orchestre régional de Sikasso" track:"Labankan"
+2024-08-27 16:49:45 INFO     Deezer titre non trouvé
+2024-08-27 16:49:45 INFO     Deezer - query artist:"Orchestre Regional De Sikasso" track:"Labankan"
+2024-08-27 16:49:46 INFO     Deezer titre non trouvé
+2024-08-27 16:49:46 INFO     Spotify - query artist:Orchestre régional de Sikasso album:Mali 70: Electric Mali
+2024-08-27 16:49:46 INFO     Spotify - query artist:Orchestre régional de Sikasso track:Labankan
+2024-08-27 16:49:46 INFO     Spotify - titre non trouvé
+2024-08-27 16:49:46 INFO     Image non trouvée pour /home/zic/JazzWorld/Orchestre Regional De Sikasso - Labankan.mp3
+2024-08-27 16:49:46 INFO     893/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Sky High.mp3
+2024-08-27 16:49:46 INFO     Deezer query artist:"Donald Byrd" album:"Black Byrd"
+2024-08-27 16:49:46 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/4a6923a1468de474e4453bfb701cadc7/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:49 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-27 16:49:49 INFO     894/9270 Traitement de /home/zic/JazzWorld/Trio Populaire - Mix 4.mp3
+2024-08-27 16:49:49 INFO     Deezer query artist:" " album:"TRIO POP"
+2024-08-27 16:49:49 INFO     Deezer album non trouvé
+2024-08-27 16:49:49 INFO     Deezer query artist:" " track:"  / trio pop mastering mix 4"
+2024-08-27 16:49:49 INFO     Deezer titre non trouvé
+2024-08-27 16:49:49 INFO     Deezer - query artist:"Trio Populaire" track:"Mix 4"
+2024-08-27 16:49:50 INFO     Deezer titre non trouvé
+2024-08-27 16:49:50 INFO     Spotify - query artist:  album:TRIO POP
+2024-08-27 16:49:50 INFO     Spotify - query artist:  track:  / trio pop mastering mix 4
+2024-08-27 16:49:50 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b2739ef9c308c2590a7d0df7ad3f
+2024-08-27 16:49:53 INFO     895/9270 Traitement de /home/zic/JazzWorld/Sonny Rollins - Decision.mp3
+2024-08-27 16:49:53 INFO     Deezer query artist:"Sonny Rollins" album:"Sonny Rollins, Volume 1"
+2024-08-27 16:49:53 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fa42c7a097d014b65e83fe9cd32638eb/500x500-000000-80-0-0.jpg
+2024-08-27 16:49:57 INFO     896/9270 Traitement de /home/zic/JazzWorld/Reuben Wilson - Bambu.mp3
+2024-08-27 16:49:57 INFO     Deezer query artist:"Reuben Wilson" album:"Blue Funk"
+2024-08-27 16:49:57 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d7afed631ac536d0da7fd106138822f9/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:00 WARNING  Lame tag CRC check failed
+2024-08-27 16:50:00 INFO     897/9270 Traitement de /home/zic/JazzWorld/Quincy Jones - Black Cherry.mp3
+2024-08-27 16:50:00 INFO     Deezer query artist:"Quincy Jones" album:"In the Heat of the Night / They Call Me Mister Tibbs"
+2024-08-27 16:50:00 INFO     Deezer album non trouvé
+2024-08-27 16:50:00 INFO     Deezer query artist:"Quincy Jones" track:"Black Cherry"
+2024-08-27 16:50:00 INFO     Deezer titre non trouvé
+2024-08-27 16:50:00 INFO     Deezer - query artist:"Quincy Jones" track:"Black Cherry"
+2024-08-27 16:50:00 INFO     Deezer titre non trouvé
+2024-08-27 16:50:00 INFO     Spotify - query artist:Quincy Jones album:In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-27 16:50:00 INFO     Spotify - query artist:Quincy Jones track:Black Cherry
+2024-08-27 16:50:01 INFO     Spotify - titre non trouvé
+2024-08-27 16:50:01 INFO     Image non trouvée pour /home/zic/JazzWorld/Quincy Jones - Black Cherry.mp3
+2024-08-27 16:50:01 WARNING  Lame tag CRC check failed
+2024-08-27 16:50:01 INFO     898/9270 Traitement de /home/zic/JazzWorld/Kora Jazz Trio - Djanya.mp3
+2024-08-27 16:50:01 INFO     Deezer query artist:"Kora Jazz Trio" album:"Part Two"
+2024-08-27 16:50:01 INFO     Deezer album non trouvé
+2024-08-27 16:50:01 INFO     Deezer query artist:"Kora Jazz Trio" track:"Djanya"
+2024-08-27 16:50:01 INFO     Deezer titre non trouvé
+2024-08-27 16:50:01 INFO     Deezer - query artist:"Kora Jazz Trio" track:"Djanya"
+2024-08-27 16:50:01 INFO     Deezer titre non trouvé
+2024-08-27 16:50:01 INFO     Spotify - query artist:Kora Jazz Trio album:Part Two
+2024-08-27 16:50:01 INFO     Spotify - query artist:Kora Jazz Trio track:Djanya
+2024-08-27 16:50:01 INFO     Spotify - titre non trouvé
+2024-08-27 16:50:01 INFO     Image non trouvée pour /home/zic/JazzWorld/Kora Jazz Trio - Djanya.mp3
+2024-08-27 16:50:01 INFO     899/9270 Traitement de /home/zic/JazzWorld/Kenny Barron - Madman.mp3
+2024-08-27 16:50:01 INFO     Deezer query artist:"Kenny Barron with Roy Haynes and Charlie Haden" album:"Wanton Spirit"
+2024-08-27 16:50:02 INFO     Deezer album non trouvé
+2024-08-27 16:50:02 INFO     Deezer query artist:"Kenny Barron with Roy Haynes and Charlie Haden" track:"Madman"
+2024-08-27 16:50:02 INFO     Deezer titre non trouvé
+2024-08-27 16:50:02 INFO     Deezer - query artist:"Kenny Barron" track:"Madman"
+2024-08-27 16:50:02 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:50:02 INFO     Spotify - query artist:Kenny Barron with Roy Haynes and Charlie Haden album:Wanton Spirit
+2024-08-27 16:50:02 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b2730ac43f97d188452f4b35330f
+2024-08-27 16:50:05 INFO     900/9270 Traitement de /home/zic/JazzWorld/Bill Evans Trio - My Romance - (Take 1).mp3
+2024-08-27 16:50:05 INFO     Deezer query artist:"Bill Evans Trio" album:"Waltz for Debby"
+2024-08-27 16:50:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/38e73cf63604f2465e23d8c48fdaf07e/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:08 INFO     901/9270 Traitement de /home/zic/JazzWorld/Post Image - Pulse.mp3
+2024-08-27 16:50:08 INFO     Deezer query artist:"Post Image" album:"Roots"
+2024-08-27 16:50:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/db5526133436d09daf38c27d7f3ac60b/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:12 INFO     902/9270 Traitement de /home/zic/JazzWorld/Theolonious Monk Quartet - Nutty.mp3
+2024-08-27 16:50:12 INFO     Deezer query artist:"Thelonious Monk" album:"Kind Of Monk"
+2024-08-27 16:50:12 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/de1bd58924b4fe4525e451db9629569c/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:16 INFO     903/9270 Traitement de /home/zic/JazzWorld/Gabrielle Koehlhoeffer - Telo.mp3
+2024-08-27 16:50:16 INFO     Deezer query artist:"GABRIELLE KOEHLHOEFFER" album:"GASY JAZZ PROJECT"
+2024-08-27 16:50:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/7f70cba0d62d892fed5a927cc16a1aa5/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:19 INFO     904/9270 Traitement de /home/zic/JazzWorld/Duke Ellington And John Coltrane - Stevie.mp3
+2024-08-27 16:50:19 INFO     Deezer query artist:"Duke Ellington & John Coltrane" album:"The Impulse! Albums: Volume One"
+2024-08-27 16:50:19 INFO     Deezer album non trouvé
+2024-08-27 16:50:19 INFO     Deezer query artist:"Duke Ellington & John Coltrane" track:"Stevie"
+2024-08-27 16:50:19 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/4b9b9e345791d561054e471079dc0f2d/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:22 INFO     905/9270 Traitement de /home/zic/JazzWorld/Aldo Romano - Black And Blue.mp3
+2024-08-27 16:50:22 INFO     Deezer query artist:"Aldo Romano" album:"Just Jazz"
+2024-08-27 16:50:22 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5a0113f8ea3c717581150b50c80b32a8/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:25 INFO     906/9270 Traitement de /home/zic/JazzWorld/Gael Horellou Sexet - Le Foetus.mp3
+2024-08-27 16:50:25 INFO     Deezer query artist:"GAEL HORELLOU SEXTET" album:"LIVE !"
+2024-08-27 16:50:26 INFO     Deezer album non trouvé
+2024-08-27 16:50:26 INFO     Deezer query artist:"GAEL HORELLOU SEXTET" track:"GAEL HORELLOU SEXTET / LE FOETUS"
+2024-08-27 16:50:26 INFO     Deezer titre non trouvé
+2024-08-27 16:50:26 INFO     Deezer - query artist:"Gael Horellou Sexet" track:"Le Foetus"
+2024-08-27 16:50:26 INFO     Deezer titre non trouvé
+2024-08-27 16:50:26 INFO     Spotify - query artist:GAEL HORELLOU SEXTET album:LIVE !
+2024-08-27 16:50:26 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27333e01d5aa134766bcae203c9
+2024-08-27 16:50:29 INFO     907/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Bitches Brew.mp3
+2024-08-27 16:50:29 INFO     Deezer query artist:"Miles Davis" album:"Bitches Brew"
+2024-08-27 16:50:30 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bbc96da10e597caa2cb32e98f9af037a/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:33 WARNING  Invalid date: 405
+2024-08-27 16:50:33 INFO     908/9270 Traitement de /home/zic/JazzWorld/Chip Wickham - Blue To Red.mp3
+2024-08-27 16:50:33 INFO     Deezer query artist:"Chip Wickham" album:"Blue to Red"
+2024-08-27 16:50:33 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ec49234235a4256012f2e719cdd3721e/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:36 INFO     909/9270 Traitement de /home/zic/JazzWorld/Ernest Ranglin - Ala Walee.mp3
+2024-08-27 16:50:36 INFO     Deezer query artist:"Ernest Ranglin" album:"In Search of the Lost Riddim"
+2024-08-27 16:50:36 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ddfe8f07e20da55fff0bbcdc3f418d98/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:39 INFO     910/9270 Traitement de /home/zic/JazzWorld/Hank Mobley Al Cohn John Coltrane And Zoot Sims - How Deep Is The Ocean_.mp3
+2024-08-27 16:50:39 INFO     Deezer query artist:"Hank Mobley, Al Cohn, John Coltrane & Zoot Sims" album:"Tenor Conclave"
+2024-08-27 16:50:39 INFO     Deezer album non trouvé
+2024-08-27 16:50:39 INFO     Deezer query artist:"Hank Mobley, Al Cohn, John Coltrane & Zoot Sims" track:"How Deep Is the Ocean?"
+2024-08-27 16:50:40 INFO     Deezer titre non trouvé
+2024-08-27 16:50:40 INFO     Deezer - query artist:"Hank Mobley Al Cohn John Coltrane And Zoot Sims" track:"How Deep Is The Ocean_"
+2024-08-27 16:50:40 INFO     Deezer titre non trouvé
+2024-08-27 16:50:40 INFO     Spotify - query artist:Hank Mobley, Al Cohn, John Coltrane & Zoot Sims album:Tenor Conclave
+2024-08-27 16:50:40 INFO     Spotify - query artist:Hank Mobley, Al Cohn, John Coltrane & Zoot Sims track:How Deep Is the Ocean?
+2024-08-27 16:50:40 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b2738d32671533fa64136138c125
+2024-08-27 16:50:44 INFO     911/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Gate City.mp3
+2024-08-27 16:50:44 INFO     Deezer query artist:"Donald Byrd" album:"Byrd in Flight"
+2024-08-27 16:50:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/143cc18851847f8bd93d07187428098a/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:47 INFO     912/9270 Traitement de /home/zic/JazzWorld/Staff Benda Bilili - Jamais De La Vie.mp3
+2024-08-27 16:50:47 INFO     Deezer query artist:"Staff Benda Bilili" album:"Effacer le tableau"
+2024-08-27 16:50:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/eec6d358b32378837f0e573ddf0c307c/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:50 WARNING  Lame tag CRC check failed
+2024-08-27 16:50:50 INFO     913/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - Little Melonae.mp3
+2024-08-27 16:50:50 INFO     Deezer query artist:"The Jazz Messengers" album:"Hard Bop"
+2024-08-27 16:50:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/65238d872da2ba25a5047a71da1b3514/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:54 INFO     914/9270 Traitement de /home/zic/JazzWorld/Gene Harris And The Three Sounds - Put On Train.mp3
+2024-08-27 16:50:54 INFO     Deezer query artist:"Gene Harris & The Three Sounds" album:"Blue Break Beats, Volume 3"
+2024-08-27 16:50:54 INFO     Deezer album non trouvé
+2024-08-27 16:50:54 INFO     Deezer query artist:"Gene Harris & The Three Sounds" track:"Put on Train"
+2024-08-27 16:50:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ad0e2c9b8e02166209794275c79d5c7b/500x500-000000-80-0-0.jpg
+2024-08-27 16:50:57 WARNING  Lame tag CRC check failed
+2024-08-27 16:50:57 INFO     915/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Shangri-La.mp3
+2024-08-27 16:50:57 INFO     Deezer query artist:"Donald Byrd" album:"Royal Flush"
+2024-08-27 16:50:57 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fc9dd0154a0a3e71c8b3283d4cef2b74/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:00 INFO     916/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - Afrique.mp3
+2024-08-27 16:51:00 INFO     Deezer query artist:"Art Blakey & The Jazz Messengers" album:"The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers"
+2024-08-27 16:51:00 INFO     Deezer album non trouvé
+2024-08-27 16:51:00 INFO     Deezer query artist:"Art Blakey & The Jazz Messengers" track:"Afrique"
+2024-08-27 16:51:01 INFO     Deezer titre non trouvé
+2024-08-27 16:51:01 INFO     Deezer - query artist:"Art Blakey And The Jazz Messengers" track:"Afrique"
+2024-08-27 16:51:01 INFO     Deezer titre non trouvé
+2024-08-27 16:51:01 INFO     Spotify - query artist:Art Blakey & The Jazz Messengers album:The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-27 16:51:01 INFO     Spotify - query artist:Art Blakey & The Jazz Messengers track:Afrique
+2024-08-27 16:51:01 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b273c519937f1b83a185b1980428
+2024-08-27 16:51:05 INFO     917/9270 Traitement de /home/zic/JazzWorld/Kyle Eastwood - LuxOr.mp3
+2024-08-27 16:51:05 INFO     Deezer query artist:"Kyle Eastwood" album:"The View From Here"
+2024-08-27 16:51:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/435064034e1fbf487ebe5f31626688ca/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:08 INFO     918/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Airegin.mp3
+2024-08-27 16:51:08 INFO     Deezer query artist:"Miles Davis" album:"Bags' Groove"
+2024-08-27 16:51:08 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/01e5eb95f1ca4cddf8307b96693509cf/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:11 INFO     919/9270 Traitement de /home/zic/JazzWorld/Dorothy Ashby - Wax And Wane.mp3
+2024-08-27 16:51:11 INFO     Deezer query artist:"Dorothy Ashby" album:"The Rubáiyát of Dorothy Ashby"
+2024-08-27 16:51:11 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/545159e78436b3ec89bb4e9417a1a087/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:15 INFO     920/9270 Traitement de /home/zic/JazzWorld/Weather Report - Heavy Weather - Birdland.mp3
+2024-08-27 16:51:15 INFO     Deezer query artist:"Weather Report" album:"The Perfect Jazz Collection"
+2024-08-27 16:51:15 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b74e6f15d306ad10372725a5bee0ca64/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:18 INFO     921/9270 Traitement de /home/zic/JazzWorld/Takuya Kuroda - Abc.mp3
+2024-08-27 16:51:18 INFO     Deezer query artist:"Takuya Kuroda" album:"Fly Moon Die Soon"
+2024-08-27 16:51:18 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6b0feacd6410d74480c9361304c4c16b/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:21 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-27 16:51:21 INFO     /home/zic/JazzWorld/Trio Populaire - Mar De Fuego.mp3 No Tag Album
+2024-08-27 16:51:21 INFO     922/9270 Traitement de /home/zic/JazzWorld/Trio Populaire - Mar De Fuego.mp3
+2024-08-27 16:51:21 INFO     Deezer query artist:"Trio Populaire" album:"None"
+2024-08-27 16:51:21 INFO     Deezer album non trouvé
+2024-08-27 16:51:21 INFO     Deezer query artist:"Trio Populaire" track:"Mar De Fuego"
+2024-08-27 16:51:21 INFO     Deezer titre non trouvé
+2024-08-27 16:51:21 INFO     Deezer - query artist:"Trio Populaire" track:"Mar De Fuego"
+2024-08-27 16:51:22 INFO     Deezer titre non trouvé
+2024-08-27 16:51:22 INFO     Spotify - query artist:Trio Populaire album:None
+2024-08-27 16:51:22 INFO     Spotify - query artist:Trio Populaire track:Mar De Fuego
+2024-08-27 16:51:22 INFO     Spotify - titre non trouvé
+2024-08-27 16:51:22 INFO     Image non trouvée pour /home/zic/JazzWorld/Trio Populaire - Mar De Fuego.mp3
+2024-08-27 16:51:22 INFO     923/9270 Traitement de /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 16:51:22 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album:"A Tribute to Miles"
+2024-08-27 16:51:22 INFO     Deezer album non trouvé
+2024-08-27 16:51:22 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" track:"Elegy"
+2024-08-27 16:51:22 INFO     Deezer titre non trouvé
+2024-08-27 16:51:22 INFO     Deezer - query artist:"A Tribute To Miles" track:"Elegy"
+2024-08-27 16:51:22 INFO     Deezer titre non trouvé
+2024-08-27 16:51:22 INFO     Spotify - query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams album:A Tribute to Miles
+2024-08-27 16:51:23 INFO     Spotify - query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams track:Elegy
+2024-08-27 16:51:23 INFO     Spotify - titre non trouvé
+2024-08-27 16:51:23 INFO     Image non trouvée pour /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 16:51:23 INFO     924/9270 Traitement de /home/zic/JazzWorld/Freddie Hubbard - Birdlike (Remastered).mp3
+2024-08-27 16:51:23 INFO     Deezer query artist:"Freddie Hubbard" album:"5 Original Albums"
+2024-08-27 16:51:23 INFO     Deezer album non trouvé
+2024-08-27 16:51:23 INFO     Deezer query artist:"Freddie Hubbard" track:"Birdlike"
+2024-08-27 16:51:23 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b245828d492d682bbc5d1459e3639365/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:26 INFO     925/9270 Traitement de /home/zic/JazzWorld/Dorothy Ashby - Action Line.mp3
+2024-08-27 16:51:26 INFO     Deezer query artist:"Dorothy Ashby" album:"Afro‐Harping"
+2024-08-27 16:51:27 INFO     Deezer album non trouvé
+2024-08-27 16:51:27 INFO     Deezer query artist:"Dorothy Ashby" track:"Action Line"
+2024-08-27 16:51:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e387d7d1b83ff0d293c62b7594e635cd/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:30 WARNING  Lame tag CRC check failed
+2024-08-27 16:51:30 INFO     926/9270 Traitement de /home/zic/JazzWorld/David Sanchez - Urban Frequency.mp3
+2024-08-27 16:51:30 INFO     Deezer query artist:"David Sánchez" album:"Street Scenes"
+2024-08-27 16:51:30 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f7eed4c0485a83a91ae9901efef9c694/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:33 INFO     927/9270 Traitement de /home/zic/JazzWorld/Atomic Jazz Band - Salamu Zako Nimezipata.mp3
+2024-08-27 16:51:33 INFO     Deezer query artist:"Various Artists" album:"Zanzibara 3"
+2024-08-27 16:51:34 INFO     Deezer album non trouvé
+2024-08-27 16:51:34 INFO     Deezer query artist:"Various Artists" track:"12 - Salamu Zako Nimezipata _ Atomic Jazz Band"
+2024-08-27 16:51:34 INFO     Deezer titre non trouvé
+2024-08-27 16:51:34 INFO     Deezer - query artist:"Atomic Jazz Band" track:"Salamu Zako Nimezipata"
+2024-08-27 16:51:34 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:51:34 INFO     Spotify - query artist:Various Artists album:Zanzibara 3
+2024-08-27 16:51:34 INFO     Spotify - query artist:Various Artists track:12 - Salamu Zako Nimezipata _ Atomic Jazz Band
+2024-08-27 16:51:34 INFO     Spotify - titre non trouvé
+2024-08-27 16:51:34 INFO     Image non trouvée pour /home/zic/JazzWorld/Atomic Jazz Band - Salamu Zako Nimezipata.mp3
+2024-08-27 16:51:34 WARNING  Lame tag CRC check failed
+2024-08-27 16:51:34 INFO     928/9270 Traitement de /home/zic/JazzWorld/Laurent De Wilde - Prelude To A Kiss.mp3
+2024-08-27 16:51:34 INFO     Deezer query artist:"Laurent de Wilde" album:"Over the Clouds"
+2024-08-27 16:51:34 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/266a8ee922e4770f00d3e4dd13fa57e9/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:37 INFO     929/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - I Have A Dream.mp3
+2024-08-27 16:51:37 INFO     Deezer query artist:"Herbie Hancock" album:"The Prisoner"
+2024-08-27 16:51:38 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/a3b716ca4fca41d0ab3ce08adbd84189/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:41 INFO     930/9270 Traitement de /home/zic/JazzWorld/Joe Henderson - Lazy Afternoon.mp3
+2024-08-27 16:51:41 INFO     Deezer query artist:"Joe Henderson" album:"Power to the People"
+2024-08-27 16:51:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f3c6b401a0a49bfe6865580215f179d8/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:44 INFO     931/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Moral De Fer.mp3
+2024-08-27 16:51:44 INFO     Deezer query artist:"Gael Horellou" album:"Coup de vent"
+2024-08-27 16:51:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/dfbdd8bec5d8f764e2875e502bcde715/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:47 INFO     932/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Elmina.mp3
+2024-08-27 16:51:47 INFO     Deezer query artist:"Donald Byrd" album:"Kofi"
+2024-08-27 16:51:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/4fc8ec5fc42191d0ef60a7c16e804ca2/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:51 WARNING  Invalid date: 302
+2024-08-27 16:51:51 INFO     933/9270 Traitement de /home/zic/JazzWorld/Ustad Vilayat Khan - The Begum S Lament.mp3
+2024-08-27 16:51:51 INFO     Deezer query artist:"Ustad Vilayat Khan" album:"The Guru (Original Soundtrack Recording)"
+2024-08-27 16:51:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/71b21be2872947419bf581f5a789c559/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:54 INFO     934/9270 Traitement de /home/zic/JazzWorld/Afro Cuban All Stars - Elube Chango.mp3
+2024-08-27 16:51:54 INFO     Deezer query artist:"Afro-Cuban All Stars" album:"A toda Cuba le gusta"
+2024-08-27 16:51:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/814674cf40e924ac3a9eaa2fd873b1c9/500x500-000000-80-0-0.jpg
+2024-08-27 16:51:57 WARNING  Lame tag CRC check failed
+2024-08-27 16:51:57 INFO     935/9270 Traitement de /home/zic/JazzWorld/Dave Weckl Band - Down on the Corner.mp3
+2024-08-27 16:51:57 INFO     Deezer query artist:"Dave Weckl Band" album:"Multiplicity"
+2024-08-27 16:51:57 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5da44df39a16b1e9ec127c5bc0870733/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:00 INFO     936/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Black Byrd.mp3
+2024-08-27 16:52:00 INFO     Deezer query artist:"Donald Byrd" album:"Black Byrd"
+2024-08-27 16:52:00 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/4a6923a1468de474e4453bfb701cadc7/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:04 INFO     937/9270 Traitement de /home/zic/JazzWorld/Pierre Marcus - Bulgarian Time.mp3
+2024-08-27 16:52:04 INFO     Deezer query artist:"Pierre Marcus" album:"Following the Right Way"
+2024-08-27 16:52:04 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/660447dd3c51d00cab8cc005fd04bfd0/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:07 INFO     938/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Miles Runs The Voodoo Down.mp3
+2024-08-27 16:52:07 INFO     Deezer query artist:"Miles Davis" album:"Bitches Brew"
+2024-08-27 16:52:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bbc96da10e597caa2cb32e98f9af037a/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:10 WARNING  Lame tag CRC check failed
+2024-08-27 16:52:10 INFO     939/9270 Traitement de /home/zic/JazzWorld/Acoustic Jazz Quartet - Fragrance of rythm.mp3
+2024-08-27 16:52:10 INFO     Deezer query artist:"Acoustic Jazz Quartet" album:"Acoustic Jazz Quartet"
+2024-08-27 16:52:10 INFO     Deezer album non trouvé
+2024-08-27 16:52:10 INFO     Deezer query artist:"Acoustic Jazz Quartet" track:"Fragrance of Rhythm (I Smell Rhythm)"
+2024-08-27 16:52:10 INFO     Deezer titre non trouvé
+2024-08-27 16:52:10 INFO     Deezer - query artist:"Acoustic Jazz Quartet" track:"Fragrance of rythm"
+2024-08-27 16:52:11 INFO     Deezer titre non trouvé
+2024-08-27 16:52:11 INFO     Spotify - query artist:Acoustic Jazz Quartet album:Acoustic Jazz Quartet
+2024-08-27 16:52:11 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27310e111d3874159995b50858a
+2024-08-27 16:52:15 INFO     940/9270 Traitement de /home/zic/JazzWorld/The Jazz Quintet.mp3
+2024-08-27 16:52:15 INFO     Deezer query artist:"Richard Eldwyn" album:"Jazz pour l'action"
+2024-08-27 16:52:15 INFO     Deezer album non trouvé
+2024-08-27 16:52:15 INFO     Deezer query artist:"Richard Eldwyn" track:"Binairement"
+2024-08-27 16:52:15 INFO     Deezer titre non trouvé
+2024-08-27 16:52:15 INFO     Spotify - query artist:Richard Eldwyn album:Jazz pour l'action
+2024-08-27 16:52:15 INFO     Spotify - query artist:Richard Eldwyn track:Binairement
+2024-08-27 16:52:15 INFO     Spotify - titre non trouvé
+2024-08-27 16:52:15 INFO     Image non trouvée pour /home/zic/JazzWorld/The Jazz Quintet.mp3
+2024-08-27 16:52:15 WARNING  Lame tag CRC check failed
+2024-08-27 16:52:15 INFO     941/9270 Traitement de /home/zic/JazzWorld/Dave Weckl - Skipper.mp3
+2024-08-27 16:52:15 INFO     Deezer query artist:"Dave Weckl Band" album:"Perpetual Motion"
+2024-08-27 16:52:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/048ad32766ef65080922885ccbdb213c/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:19 WARNING  Lame tag CRC check failed
+2024-08-27 16:52:19 INFO     942/9270 Traitement de /home/zic/JazzWorld/Super Rail Band - Kamalimba.mp3
+2024-08-27 16:52:19 INFO     Deezer query artist:"Super Rail Band" album:"Mansa"
+2024-08-27 16:52:19 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d135da0f42dc050b72f328f3e0fa9828/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:22 INFO     943/9270 Traitement de /home/zic/JazzWorld/Nusrat Fateh Ali Khan - Tracery.mp3
+2024-08-27 16:52:22 INFO     Deezer query artist:"Nusrat Fateh Ali Khan" album:"Mustt Mustt"
+2024-08-27 16:52:22 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/414f821a47c43daa224b53f5eeee757a/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:25 INFO     944/9270 Traitement de /home/zic/JazzWorld/Charles Mingus - Pithecanthropus Erectus.mp3
+2024-08-27 16:52:25 INFO     Deezer query artist:"Charles Mingus" album:"Pithecanthropus Erectus"
+2024-08-27 16:52:25 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9ffe24f0c03f6d6058ea1d2c94373bb9/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:28 INFO     945/9270 Traitement de /home/zic/JazzWorld/Theolonious Monk Quartet - In Walked Bud.mp3
+2024-08-27 16:52:28 INFO     Deezer query artist:"Thelonious Monk Quartet" album:"Misterioso"
+2024-08-27 16:52:29 INFO     Deezer album non trouvé
+2024-08-27 16:52:29 INFO     Deezer query artist:"Thelonious Monk Quartet" track:"In Walked Bud"
+2024-08-27 16:52:29 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/68fa8d81ebaf1262e31b1aaa15da4be7/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:32 WARNING  Invalid date: 6
+2024-08-27 16:52:32 INFO     946/9270 Traitement de /home/zic/JazzWorld/Jiro Inagaki And His Soul Media - Funky Stuff....mp3
+2024-08-27 16:52:32 INFO     Deezer query artist:"Jiro Inagaki and His Soul Media" album:"Funky Stuff"
+2024-08-27 16:52:32 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/67b86e647f938d732b526a3eef1d042e/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:35 INFO     947/9270 Traitement de /home/zic/JazzWorld/Lalo Schifrin - Shifting Gears.mp3
+2024-08-27 16:52:35 INFO     Deezer query artist:"Lalo Schifrin" album:"Bullitt"
+2024-08-27 16:52:35 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fe748b7bf880624162555457e6e10e1a/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:38 WARNING  Invalid date: 302
+2024-08-27 16:52:38 INFO     948/9270 Traitement de /home/zic/JazzWorld/Kenny Garrett - Du-Wo-Mo....mp3
+2024-08-27 16:52:38 INFO     Deezer query artist:"Kenny Garrett" album:"Seeds from the Underground"
+2024-08-27 16:52:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cfe991fc96842f4477ca774d472b2891/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:42 INFO     949/9270 Traitement de /home/zic/JazzWorld/Francis Bebey - Mon Amour Pour Toi.mp3
+2024-08-27 16:52:42 INFO     Deezer query artist:"Francis Bebey" album:"La Condition masculine"
+2024-08-27 16:52:42 INFO     Deezer album non trouvé
+2024-08-27 16:52:42 INFO     Deezer query artist:"Francis Bebey" track:"Mon amour pour toi"
+2024-08-27 16:52:42 INFO     Deezer titre non trouvé
+2024-08-27 16:52:42 INFO     Deezer - query artist:"Francis Bebey" track:"Mon Amour Pour Toi"
+2024-08-27 16:52:42 INFO     Deezer titre non trouvé
+2024-08-27 16:52:42 INFO     Spotify - query artist:Francis Bebey album:La Condition masculine
+2024-08-27 16:52:42 INFO     Spotify - query artist:Francis Bebey track:Mon amour pour toi
+2024-08-27 16:52:43 INFO     Spotify - titre non trouvé
+2024-08-27 16:52:43 INFO     Image non trouvée pour /home/zic/JazzWorld/Francis Bebey - Mon Amour Pour Toi.mp3
+2024-08-27 16:52:43 WARNING  Lame tag CRC check failed
+2024-08-27 16:52:43 INFO     950/9270 Traitement de /home/zic/JazzWorld/Thad Jones - If I Love Again.mp3
+2024-08-27 16:52:43 INFO     Deezer query artist:"Thad Jones" album:"The Magnificent Thad Jones"
+2024-08-27 16:52:43 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/af79e558e9b597476994ee14fe561834/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:46 INFO     951/9270 Traitement de /home/zic/JazzWorld/Tito Puente - Lullaby Of Birdland.mp3
+2024-08-27 16:52:46 INFO     Deezer query artist:"Tito Puente" album:"Live at Birdland"
+2024-08-27 16:52:46 INFO     Deezer album non trouvé
+2024-08-27 16:52:46 INFO     Deezer query artist:"Tito Puente" track:"Lullaby of Birdland"
+2024-08-27 16:52:46 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/07926322c8fb77bb0605281f289d360a/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:50 INFO     952/9270 Traitement de /home/zic/JazzWorld/Afro-Cuban All Stars - Maria Caracoles.mp3
+2024-08-27 16:52:50 INFO     Deezer query artist:"Afro-Cuban All Stars" album:"A toda Cuba le gusta"
+2024-08-27 16:52:50 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/814674cf40e924ac3a9eaa2fd873b1c9/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:53 INFO     953/9270 Traitement de /home/zic/JazzWorld/Manu Dibango - Wema.mp3
+2024-08-27 16:52:53 INFO     Deezer query artist:"Manu Dibango" album:"Live '91"
+2024-08-27 16:52:53 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/6fbec8ba9a4db1267a45b3ef8b267043/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:56 INFO     954/9270 Traitement de /home/zic/JazzWorld/Afro Cuban All Stars - Alto Songo.mp3
+2024-08-27 16:52:56 INFO     Deezer query artist:"Afro-Cuban All Stars" album:"A toda Cuba le gusta"
+2024-08-27 16:52:56 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/814674cf40e924ac3a9eaa2fd873b1c9/500x500-000000-80-0-0.jpg
+2024-08-27 16:52:59 WARNING  Lame tag CRC check failed
+2024-08-27 16:52:59 INFO     955/9270 Traitement de /home/zic/JazzWorld/Konono Nr. 1 - Couleur Cafe.mp3
+2024-08-27 16:52:59 INFO     Deezer query artist:"Konono Nº1" album:"Congotronics 2: Buzz'n'Rumble From the Urb'n'Jungle"
+2024-08-27 16:52:59 INFO     Deezer album non trouvé
+2024-08-27 16:52:59 INFO     Deezer query artist:"Konono Nº1" track:"T.P. couleur café"
+2024-08-27 16:53:00 INFO     Deezer titre non trouvé
+2024-08-27 16:53:00 INFO     Deezer - query artist:"Konono Nr. 1" track:"Couleur Cafe"
+2024-08-27 16:53:00 INFO     Deezer titre non trouvé
+2024-08-27 16:53:00 INFO     Spotify - query artist:Konono Nº1 album:Congotronics 2: Buzz'n'Rumble From the Urb'n'Jungle
+2024-08-27 16:53:00 INFO     Spotify - query artist:Konono Nº1 track:T.P. couleur café
+2024-08-27 16:53:00 INFO     Spotify - album url : https://i.scdn.co/image/ab67616d0000b27312b790f0f748dbfec2400e79
+2024-08-27 16:53:04 INFO     956/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Water Babies.mp3
+2024-08-27 16:53:04 INFO     Deezer query artist:"Miles Davis" album:"Water Babies"
+2024-08-27 16:53:04 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/7ec94026a8af7e0b04efa7a345638f8e/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:08 INFO     957/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - He Who Lives In Fear.mp3
+2024-08-27 16:53:08 INFO     Deezer query artist:"Herbie Hancock" album:"Herbie Hancock: Hits & Rarities"
+2024-08-27 16:53:08 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/c9d2ff1ddc11fe1e32db68dddba53734/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:11 INFO     958/9270 Traitement de /home/zic/JazzWorld/Nubya Garcia - Contemplation.mp3
+2024-08-27 16:53:11 INFO     Deezer query artist:"Nubya Garcia" album:"Nubya’s 5ive"
+2024-08-27 16:53:11 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/739fcc47c099236e5c0fa76ce4aa5c31/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:14 INFO     959/9270 Traitement de /home/zic/JazzWorld/Salif Keita - Just.mp3
+2024-08-27 16:53:14 INFO     Deezer query artist:"Salif Keita & Kante Manfila" album:"The Lost Album"
+2024-08-27 16:53:14 INFO     Deezer album non trouvé
+2024-08-27 16:53:14 INFO     Deezer query artist:"Salif Keita & Kante Manfila" track:"Djigui"
+2024-08-27 16:53:14 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/1f3afc9d129a604aa6da48294fac63ff/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:18 INFO     960/9270 Traitement de /home/zic/JazzWorld/Ray Baretto - Descarga La Moderna.mp3
+2024-08-27 16:53:18 INFO     Deezer query artist:"Ray Barretto" album:"Warner Jazz - Incontournables - Ray Barretto"
+2024-08-27 16:53:18 INFO     Deezer album non trouvé
+2024-08-27 16:53:18 INFO     Deezer query artist:"Ray Barretto" track:"Descarga la Moderna"
+2024-08-27 16:53:18 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/27fd73e61d1bc2a53e5cc09ba349db2f/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:21 INFO     961/9270 Traitement de /home/zic/JazzWorld/Nuyorican Soul - Shoshana.mp3
+2024-08-27 16:53:21 INFO     Deezer query artist:"Nuyorican Soul" album:"Nuyorican Soul"
+2024-08-27 16:53:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bd0e99e9b27aa30adf37da6db3304ad9/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:24 INFO     962/9270 Traitement de /home/zic/JazzWorld/Boogaloo Assassins - No No No.mp3
+2024-08-27 16:53:24 INFO     Deezer query artist:"Boogaloo Assassins" album:"Old Love Dies Hard"
+2024-08-27 16:53:25 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cf38c32a4942714457ebbe633ae97af5/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:28 INFO     963/9270 Traitement de /home/zic/JazzWorld/Staff Benda Bilili - Bolamu.mp3
+2024-08-27 16:53:28 INFO     Deezer query artist:"Staff Benda Bilili" album:"Effacer le tableau"
+2024-08-27 16:53:28 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/eec6d358b32378837f0e573ddf0c307c/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:31 INFO     964/9270 Traitement de /home/zic/JazzWorld/Cal Tjader - Agua Dulce (Cool-Ade) (Album Version).mp3
+2024-08-27 16:53:31 INFO     Deezer query artist:"Cal Tjader" album:"Agua Dulce"
+2024-08-27 16:53:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/35f3140cf727bdc15de5e81ba83ec10b/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:34 INFO     965/9270 Traitement de /home/zic/JazzWorld/Nuyorican Soul  - Shoshana.mp3
+2024-08-27 16:53:34 INFO     Deezer query artist:"Nuyorican Soul" album:"Nuyorican Soul"
+2024-08-27 16:53:34 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/bd0e99e9b27aa30adf37da6db3304ad9/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:37 INFO     966/9270 Traitement de /home/zic/JazzWorld/Hiromi - Dancando No Paraiso.mp3
+2024-08-27 16:53:37 INFO     Deezer query artist:"Hiromi" album:"Another Mind"
+2024-08-27 16:53:38 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/f55d5b6c3e7f30c3b646185139fc955a/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:41 INFO     967/9270 Traitement de /home/zic/JazzWorld/Talvin Singh Niladri Kumar - Threads.mp3
+2024-08-27 16:53:41 INFO     Deezer query artist:"Talvin Singh & Niladri Kumar" album:"Together"
+2024-08-27 16:53:41 INFO     Deezer album non trouvé
+2024-08-27 16:53:41 INFO     Deezer query artist:"Talvin Singh & Niladri Kumar" track:"Threads"
+2024-08-27 16:53:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/5fca375bd58fe1e61ebb5b0636f1baa8/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:44 INFO     968/9270 Traitement de /home/zic/JazzWorld/Magic Malic Minino Garay Jaime Torres - Zumba Que Zumba.mp3
+2024-08-27 16:53:44 INFO     Deezer query artist:"Magic Malik, Minino Garay, Jaime Torres" album:"Altiplano"
+2024-08-27 16:53:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b19a948e1f052e9e952dc5783cdd0e24/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:47 INFO     969/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - Driftin.mp3
+2024-08-27 16:53:47 INFO     Deezer query artist:"Herbie Hancock" album:"Complete Blue Note Sixties Sessions"
+2024-08-27 16:53:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/048682327be782e9529a6bc7b54a8a52/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:51 INFO     970/9270 Traitement de /home/zic/JazzWorld/Salif Keita - Inigiche.mp3
+2024-08-27 16:53:51 INFO     Deezer query artist:"Salif Keita" album:"Moffou"
+2024-08-27 16:53:51 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/442e436364b69510ff39a25ab0209775/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:54 INFO     971/9270 Traitement de /home/zic/JazzWorld/Donald Byrd - Estavanico.mp3
+2024-08-27 16:53:54 INFO     Deezer query artist:"Donald Byrd" album:"Electric Byrd"
+2024-08-27 16:53:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/161d0cffc42cbbb7f73a85672077365b/500x500-000000-80-0-0.jpg
+2024-08-27 16:53:57 INFO     972/9270 Traitement de /home/zic/JazzWorld/Avishai Cohen - Shuffle.mp3
+2024-08-27 16:53:57 INFO     Deezer query artist:"Avishai Cohen" album:"Colors"
+2024-08-27 16:53:57 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/a2851802a59f245dbcb477b2f164544b/500x500-000000-80-0-0.jpg
+2024-08-27 16:54:00 INFO     973/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Two Bass Hit.mp3
+2024-08-27 16:54:00 INFO     Deezer query artist:"Miles Davis" album:"Live at Newport 1958 & 1963"
+2024-08-27 16:54:00 INFO     Deezer album non trouvé
+2024-08-27 16:54:00 INFO     Deezer query artist:"Miles Davis" track:"Two Bass Hit"
+2024-08-27 16:54:01 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/53b001b1b78a43c16d358d41c633e120/500x500-000000-80-0-0.jpg
+2024-08-27 16:54:04 INFO     974/9270 Traitement de /home/zic/JazzWorld/Snowboy - The Bell That Makes You Dance.mp3
+2024-08-27 16:54:04 INFO     Deezer query artist:"Snowboy & The Latin Section" album:"Ritmo Snowbo"
+2024-08-27 16:54:04 INFO     Deezer album non trouvé
+2024-08-27 16:54:04 INFO     Deezer query artist:"Snowboy & The Latin Section" track:"The Bell That Makes You Dance"
+2024-08-27 16:54:04 INFO     Deezer titre non trouvé
+2024-08-27 16:54:04 INFO     Deezer - query artist:"Snowboy" track:"The Bell That Makes You Dance"
+2024-08-27 16:54:04 INFO     Deezer - Erreur lors de la récupération du nom du titre avec Deezer 'cover_big'
+2024-08-27 16:54:04 INFO     Spotify - query artist:Snowboy & The Latin Section album:Ritmo Snowbo
+2024-08-27 16:54:05 INFO     Spotify - query artist:Snowboy & The Latin Section track:The Bell That Makes You Dance
+2024-08-27 16:54:05 INFO     Spotify - titre non trouvé
+2024-08-27 16:54:05 INFO     Image non trouvée pour /home/zic/JazzWorld/Snowboy - The Bell That Makes You Dance.mp3
+2024-08-27 16:54:05 WARNING  Lame tag CRC check failed
+2024-08-27 16:54:05 INFO     975/9270 Traitement de /home/zic/JazzWorld/Pink Martini - Andalucia.mp3
+2024-08-27 16:54:05 INFO     Deezer query artist:"Pink Martini" album:"Sympathique"
+2024-08-27 16:54:05 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/04cb4bc242d261765069663b3745bcd6/500x500-000000-80-0-0.jpg
+2024-08-27 16:54:08 INFO     976/9270 Traitement de /home/zic/JazzWorld/Squarepusher - Theme From Sprite.mp3
+2024-08-27 16:54:08 INFO     Deezer query artist:"Squarepusher" album:"Hello Everything"
+2024-08-27 16:54:08 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/d5ebd92ce8072e3d7c800619866027c8/500x500-000000-80-0-0.jpg

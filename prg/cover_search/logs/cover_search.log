@@ -1,0 +1,1311 @@
+2024-08-31 22:56:51 INFO     Cropping image /home/web/bonnezic.com/album/Gainsbourg - Javanaise Dub.jpg from 500x456 to square
+2024-08-31 22:56:51 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:56:51 INFO     Cover found for /home/zic/Reggae/Gainsbourg - Javanaise Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:51 INFO     9150/9270 Traitement de /home/zic/Reggae/King Tubby - Casanova Dub.mp3 - artist : The Observer All Stars title : Casanova Dub album : Trojan Dub Box Set, Volume 2
+2024-08-31 22:56:51 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Casanova Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Casanova Dub.jpg
+2024-08-31 22:56:51 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Casanova Dub.jpg
+2024-08-31 22:56:51 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Casanova Dub.jpg
+2024-08-31 22:56:51 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Casanova Dub.jpg
+2024-08-31 22:56:51 INFO     Image dimensions: 490x500
+2024-08-31 22:56:51 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Casanova Dub.jpg
+2024-08-31 22:56:51 INFO     Cover found for /home/zic/Reggae/King Tubby - Casanova Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:51 INFO     9151/9270 Traitement de /home/zic/Reggae/Tiken Jah Fakoly - Allah.mp3 - artist : Tiken Jah Fakoly title : Allah album : Coup de gueule
+2024-08-31 22:56:51 INFO     Image extraite depuis /home/zic/Reggae/Tiken Jah Fakoly - Allah.mp3 vers /home/web/bonnezic.com/album/Tiken Jah Fakoly - Allah.jpg
+2024-08-31 22:56:51 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Tiken Jah Fakoly - Allah.jpg
+2024-08-31 22:56:51 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Tiken Jah Fakoly - Allah.jpg
+2024-08-31 22:56:51 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Tiken Jah Fakoly - Allah.jpg
+2024-08-31 22:56:51 INFO     Image dimensions: 500x495
+2024-08-31 22:56:51 INFO     Image already squared: /home/web/bonnezic.com/album/Tiken Jah Fakoly - Allah.jpg
+2024-08-31 22:56:51 INFO     Cover found for /home/zic/Reggae/Tiken Jah Fakoly - Allah.mp3, not adding to no_cover.txt
+2024-08-31 22:56:51 INFO     9152/9270 Traitement de /home/zic/Reggae/Finley Quaye - The Way Of The Explosive.mp3 - artist : Finley Quaye title : The Way of the Explosive album : Maverick a Strike
+2024-08-31 22:56:51 INFO     Image extraite depuis /home/zic/Reggae/Finley Quaye - The Way Of The Explosive.mp3 vers /home/web/bonnezic.com/album/Finley Quaye - The Way Of The Explosive.jpg
+2024-08-31 22:56:51 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Finley Quaye - The Way Of The Explosive.jpg
+2024-08-31 22:56:51 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Finley Quaye - The Way Of The Explosive.jpg
+2024-08-31 22:56:51 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Finley Quaye - The Way Of The Explosive.jpg
+2024-08-31 22:56:51 INFO     Image dimensions: 500x500
+2024-08-31 22:56:51 INFO     Image already squared: /home/web/bonnezic.com/album/Finley Quaye - The Way Of The Explosive.jpg
+2024-08-31 22:56:51 INFO     Cover found for /home/zic/Reggae/Finley Quaye - The Way Of The Explosive.mp3, not adding to no_cover.txt
+2024-08-31 22:56:51 INFO     9153/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Duppy Conqueror.mp3 - artist : The Wailers title : Duppy Conqueror album : Burnin’
+2024-08-31 22:56:51 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Duppy Conqueror.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Duppy Conqueror.jpg
+2024-08-31 22:56:51 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Duppy Conqueror.jpg
+2024-08-31 22:56:51 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Duppy Conqueror.jpg
+2024-08-31 22:56:51 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Duppy Conqueror.jpg
+2024-08-31 22:56:51 INFO     Image dimensions: 500x500
+2024-08-31 22:56:51 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Duppy Conqueror.jpg
+2024-08-31 22:56:51 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Duppy Conqueror.mp3, not adding to no_cover.txt
+2024-08-31 22:56:51 INFO     9154/9270 Traitement de /home/zic/Reggae/Singers And Players - Matter Of Time.mp3 - artist : Singers & Players title : Matter Of Time album : Golden Greats Volume 2
+2024-08-31 22:56:51 INFO     Spotify - Début de la recherche pour l'artiste: Singers & Players, album: Golden Greats Volume 2
+2024-08-31 22:56:51 INFO     Spotify - Requête envoyée : artist:Singers & Players album:Golden Greats Volume 2
+2024-08-31 22:56:51 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:56:51 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:56:51 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:56:51 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:56:51 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e /home/web/bonnezic.com/spotify
+2024-08-31 22:56:51 INFO     Image /home/web/bonnezic.com/spotify/Singers And Players - Matter Of Time.jpg does not exist
+2024-08-31 22:56:55 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:55 INFO     Image dimensions: 640x636
+2024-08-31 22:56:55 INFO     Image already squared: /home/web/bonnezic.com/spotify/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:55 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:55 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:56:55 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:56:55 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:56:55 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:56:55 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:56:55 INFO     Image /home/web/bonnezic.com/deezer/Singers And Players - Matter Of Time.jpg does not exist
+2024-08-31 22:56:58 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:58 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:58 INFO     Image dimensions: 1000x1000
+2024-08-31 22:56:58 INFO     Image already squared: /home/web/bonnezic.com/deezer/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:58 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Singers And Players - Matter Of Time.jpg
+2024-08-31 22:56:58 INFO     Cover found for /home/zic/Reggae/Singers And Players - Matter Of Time.mp3, not adding to no_cover.txt
+2024-08-31 22:56:58 WARNING  Lame tag CRC check failed
+2024-08-31 22:56:58 INFO     9155/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Three Little Birds.mp3 - artist : Bob Marley & The Wailers title : Three Little Birds album : Legend: The Best of Bob Marley & The Wailers
+2024-08-31 22:56:58 WARNING  Lame tag CRC check failed
+2024-08-31 22:56:58 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Three Little Birds.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Three Little Birds.jpg
+2024-08-31 22:56:58 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Three Little Birds.jpg
+2024-08-31 22:56:58 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Three Little Birds.jpg
+2024-08-31 22:56:58 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Three Little Birds.jpg
+2024-08-31 22:56:58 INFO     Image dimensions: 500x499
+2024-08-31 22:56:58 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Three Little Birds.jpg
+2024-08-31 22:56:58 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Three Little Birds.mp3, not adding to no_cover.txt
+2024-08-31 22:56:58 INFO     9157/9270 Traitement de /home/zic/Reggae/The Gladiators - Let Jah Be Praised.mp3 - artist : The Gladiators title : Let Jah Be Praised album : Front Line Presents: Roots - 37 Classic Roots Cuts
+2024-08-31 22:56:58 INFO     Spotify - Début de la recherche pour l'artiste: The Gladiators, album: Front Line Presents: Roots - 37 Classic Roots Cuts
+2024-08-31 22:56:58 INFO     Spotify - Requête envoyée : artist:The Gladiators album:Front Line Presents: Roots - 37 Classic Roots Cuts
+2024-08-31 22:56:59 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2737fa4481eaf1b3f2ca0d68ba8
+2024-08-31 22:56:59 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2737fa4481eaf1b3f2ca0d68ba8
+2024-08-31 22:56:59 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2737fa4481eaf1b3f2ca0d68ba8
+2024-08-31 22:56:59 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2737fa4481eaf1b3f2ca0d68ba8
+2024-08-31 22:56:59 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b2737fa4481eaf1b3f2ca0d68ba8 /home/web/bonnezic.com/spotify
+2024-08-31 22:56:59 INFO     Image /home/web/bonnezic.com/spotify/The Gladiators - Let Jah Be Praised.jpg does not exist
+2024-08-31 22:57:02 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:02 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:02 INFO     Image dimensions: 640x640
+2024-08-31 22:57:02 INFO     Image already squared: /home/web/bonnezic.com/spotify/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:02 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:03 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:03 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/2ae029852c38ecc807b73491495e3296/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:03 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/2ae029852c38ecc807b73491495e3296/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:03 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/2ae029852c38ecc807b73491495e3296/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:57:03 INFO     Image /home/web/bonnezic.com/deezer/The Gladiators - Let Jah Be Praised.jpg does not exist
+2024-08-31 22:57:06 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:06 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:06 INFO     Image dimensions: 1000x1000
+2024-08-31 22:57:06 INFO     Image already squared: /home/web/bonnezic.com/deezer/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:06 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/The Gladiators - Let Jah Be Praised.jpg
+2024-08-31 22:57:06 INFO     Cover found for /home/zic/Reggae/The Gladiators - Let Jah Be Praised.mp3, not adding to no_cover.txt
+2024-08-31 22:57:06 INFO     9158/9270 Traitement de /home/zic/Reggae/King Tubby - Bag A Wire Dub.mp3 - artist : King Tubby title : Bag a Wire Dub album : X-ray Music
+2024-08-31 22:57:06 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Bag A Wire Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Bag A Wire Dub.jpg
+2024-08-31 22:57:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Bag A Wire Dub.jpg
+2024-08-31 22:57:06 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Bag A Wire Dub.jpg
+2024-08-31 22:57:06 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Bag A Wire Dub.jpg
+2024-08-31 22:57:06 INFO     Image dimensions: 480x477
+2024-08-31 22:57:06 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Bag A Wire Dub.jpg
+2024-08-31 22:57:06 INFO     Cover found for /home/zic/Reggae/King Tubby - Bag A Wire Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:06 INFO     9159/9270 Traitement de /home/zic/Reggae/Lkj - Historic Dub.mp3 - artist : Linton Kwesi Johnson title : Historic Dub album : LKJ in Dub, Volume Two
+2024-08-31 22:57:06 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Historic Dub.mp3 vers /home/web/bonnezic.com/album/Lkj - Historic Dub.jpg
+2024-08-31 22:57:06 INFO     Image /home/web/bonnezic.com/album/Lkj - Historic Dub.jpg trop petite (300x300)
+2024-08-31 22:57:06 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:06 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: LKJ in Dub, Volume Two
+2024-08-31 22:57:06 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:LKJ in Dub, Volume Two
+2024-08-31 22:57:06 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:06 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:06 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:06 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:06 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6 /home/web/bonnezic.com/spotify
+2024-08-31 22:57:06 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Historic Dub.jpg does not exist
+2024-08-31 22:57:10 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Historic Dub.jpg
+2024-08-31 22:57:10 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Historic Dub.jpg
+2024-08-31 22:57:10 INFO     Image dimensions: 640x640
+2024-08-31 22:57:10 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Historic Dub.jpg
+2024-08-31 22:57:10 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Historic Dub.jpg
+2024-08-31 22:57:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:11 INFO     Cover found for /home/zic/Reggae/Lkj - Historic Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:11 INFO     9160/9270 Traitement de /home/zic/Reggae/Mato - Psycho Dub.mp3 - artist : Mato title : Psycho Dub album : Hollywoo Dub
+2024-08-31 22:57:11 INFO     Image extraite depuis /home/zic/Reggae/Mato - Psycho Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Psycho Dub.jpg
+2024-08-31 22:57:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Psycho Dub.jpg
+2024-08-31 22:57:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Psycho Dub.jpg
+2024-08-31 22:57:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Psycho Dub.jpg
+2024-08-31 22:57:11 INFO     Image dimensions: 500x500
+2024-08-31 22:57:11 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Psycho Dub.jpg
+2024-08-31 22:57:11 INFO     Cover found for /home/zic/Reggae/Mato - Psycho Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:11 INFO     9161/9270 Traitement de /home/zic/Reggae/Lkj - Forces Of Viktry.mp3 - artist : Linton Kwesi Johnson title : Forces of Viktry album : Forces of Victory
+2024-08-31 22:57:11 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Forces Of Viktry.mp3 vers /home/web/bonnezic.com/album/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:11 INFO     Image /home/web/bonnezic.com/album/Lkj - Forces Of Viktry.jpg trop petite (350x350)
+2024-08-31 22:57:11 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:11 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: Forces of Victory
+2024-08-31 22:57:11 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:Forces of Victory
+2024-08-31 22:57:11 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:11 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:11 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:11 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:11 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f /home/web/bonnezic.com/spotify
+2024-08-31 22:57:11 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Forces Of Viktry.jpg does not exist
+2024-08-31 22:57:14 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:14 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:14 INFO     Image dimensions: 640x640
+2024-08-31 22:57:14 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:14 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:14 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:14 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:14 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:57:14 INFO     Image /home/web/bonnezic.com/deezer/Lkj - Forces Of Viktry.jpg does not exist
+2024-08-31 22:57:17 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:17 INFO     Image dimensions: 1000x1000
+2024-08-31 22:57:17 INFO     Image already squared: /home/web/bonnezic.com/deezer/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:17 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Lkj - Forces Of Viktry.jpg
+2024-08-31 22:57:17 INFO     Cover found for /home/zic/Reggae/Lkj - Forces Of Viktry.mp3, not adding to no_cover.txt
+2024-08-31 22:57:17 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:17 INFO     9162/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Dub Maousse.mp3 - artist : Serge Gainsbourg title : Dub Maousse album : Mauvaises nouvelles des étoiles
+2024-08-31 22:57:17 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:17 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Dub Maousse.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Maousse.jpg
+2024-08-31 22:57:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Maousse.jpg
+2024-08-31 22:57:17 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Maousse.jpg
+2024-08-31 22:57:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Maousse.jpg
+2024-08-31 22:57:17 INFO     Image dimensions: 500x500
+2024-08-31 22:57:17 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Maousse.jpg
+2024-08-31 22:57:17 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Dub Maousse.mp3, not adding to no_cover.txt
+2024-08-31 22:57:17 INFO     9163/9270 Traitement de /home/zic/Reggae/Abyssinians - This Land Is For Everyone.mp3 - artist : The Abyssinians title : This Land Is for Everyone album : Arise
+2024-08-31 22:57:17 INFO     Image extraite depuis /home/zic/Reggae/Abyssinians - This Land Is For Everyone.mp3 vers /home/web/bonnezic.com/album/Abyssinians - This Land Is For Everyone.jpg
+2024-08-31 22:57:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Abyssinians - This Land Is For Everyone.jpg
+2024-08-31 22:57:17 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Abyssinians - This Land Is For Everyone.jpg
+2024-08-31 22:57:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Abyssinians - This Land Is For Everyone.jpg
+2024-08-31 22:57:17 INFO     Image dimensions: 491x500
+2024-08-31 22:57:17 INFO     Image already squared: /home/web/bonnezic.com/album/Abyssinians - This Land Is For Everyone.jpg
+2024-08-31 22:57:17 INFO     Cover found for /home/zic/Reggae/Abyssinians - This Land Is For Everyone.mp3, not adding to no_cover.txt
+2024-08-31 22:57:17 INFO     9164/9270 Traitement de /home/zic/Reggae/Brooklyn Funk Essentials - Wendell Wedding.mp3 - artist : Brooklyn Funk Essentials title : Wendell Wedding album : Watcha Playin'
+2024-08-31 22:57:17 INFO     Image extraite depuis /home/zic/Reggae/Brooklyn Funk Essentials - Wendell Wedding.mp3 vers /home/web/bonnezic.com/album/Brooklyn Funk Essentials - Wendell Wedding.jpg
+2024-08-31 22:57:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Brooklyn Funk Essentials - Wendell Wedding.jpg
+2024-08-31 22:57:17 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Brooklyn Funk Essentials - Wendell Wedding.jpg
+2024-08-31 22:57:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Brooklyn Funk Essentials - Wendell Wedding.jpg
+2024-08-31 22:57:17 INFO     Image dimensions: 500x500
+2024-08-31 22:57:17 INFO     Image already squared: /home/web/bonnezic.com/album/Brooklyn Funk Essentials - Wendell Wedding.jpg
+2024-08-31 22:57:17 INFO     Cover found for /home/zic/Reggae/Brooklyn Funk Essentials - Wendell Wedding.mp3, not adding to no_cover.txt
+2024-08-31 22:57:17 INFO     9165/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).mp3 - artist : Serge Gainsbourg title : Dub Rastaquouère album : Aux armes et cætera
+2024-08-31 22:57:17 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg
+2024-08-31 22:57:17 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg
+2024-08-31 22:57:17 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg
+2024-08-31 22:57:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg
+2024-08-31 22:57:17 INFO     Image dimensions: 500x456
+2024-08-31 22:57:17 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg
+2024-08-31 22:57:17 INFO     Cropping image /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).jpg from 500x456 to square
+2024-08-31 22:57:17 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:57:17 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Dub Rastaquouare (Versions Dub).mp3, not adding to no_cover.txt
+2024-08-31 22:57:17 INFO     9166/9270 Traitement de /home/zic/Reggae/King Tubby - Jam Down.mp3 - artist : King Tubby title : Jam Down album : King Tubby's Special: 1973-1976
+2024-08-31 22:57:17 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Jam Down.mp3 vers /home/web/bonnezic.com/album/King Tubby - Jam Down.jpg
+2024-08-31 22:57:17 INFO     Image /home/web/bonnezic.com/album/King Tubby - Jam Down.jpg trop petite (200x200)
+2024-08-31 22:57:17 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:17 INFO     Spotify - Début de la recherche pour l'artiste: King Tubby, album: King Tubby's Special: 1973-1976
+2024-08-31 22:57:17 INFO     Spotify - Requête envoyée : artist:King Tubby album:King Tubby's Special: 1973-1976
+2024-08-31 22:57:18 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:57:18 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:57:18 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:57:18 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:57:18 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400 /home/web/bonnezic.com/spotify
+2024-08-31 22:57:18 INFO     Image /home/web/bonnezic.com/spotify/King Tubby - Jam Down.jpg does not exist
+2024-08-31 22:57:21 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/King Tubby - Jam Down.jpg
+2024-08-31 22:57:21 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/King Tubby - Jam Down.jpg
+2024-08-31 22:57:21 INFO     Image dimensions: 640x640
+2024-08-31 22:57:21 INFO     Image already squared: /home/web/bonnezic.com/spotify/King Tubby - Jam Down.jpg
+2024-08-31 22:57:21 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/King Tubby - Jam Down.jpg
+2024-08-31 22:57:21 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:22 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:22 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:22 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:22 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:57:22 INFO     Image /home/web/bonnezic.com/deezer/King Tubby - Jam Down.jpg does not exist
+2024-08-31 22:57:25 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/King Tubby - Jam Down.jpg
+2024-08-31 22:57:25 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/King Tubby - Jam Down.jpg
+2024-08-31 22:57:25 INFO     Image dimensions: 1000x1000
+2024-08-31 22:57:25 INFO     Image already squared: /home/web/bonnezic.com/deezer/King Tubby - Jam Down.jpg
+2024-08-31 22:57:25 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/King Tubby - Jam Down.jpg
+2024-08-31 22:57:25 INFO     Cover found for /home/zic/Reggae/King Tubby - Jam Down.mp3, not adding to no_cover.txt
+2024-08-31 22:57:25 INFO     9167/9270 Traitement de /home/zic/Reggae/Sly Dunbar - Mr Music.mp3 - artist : Lowell “Sly” Dunbar title : Mr Music album : Sly, Wicked and Slick
+2024-08-31 22:57:25 INFO     Image extraite depuis /home/zic/Reggae/Sly Dunbar - Mr Music.mp3 vers /home/web/bonnezic.com/album/Sly Dunbar - Mr Music.jpg
+2024-08-31 22:57:25 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Sly Dunbar - Mr Music.jpg
+2024-08-31 22:57:25 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Sly Dunbar - Mr Music.jpg
+2024-08-31 22:57:25 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Sly Dunbar - Mr Music.jpg
+2024-08-31 22:57:25 INFO     Image dimensions: 500x500
+2024-08-31 22:57:25 INFO     Image already squared: /home/web/bonnezic.com/album/Sly Dunbar - Mr Music.jpg
+2024-08-31 22:57:25 INFO     Cover found for /home/zic/Reggae/Sly Dunbar - Mr Music.mp3, not adding to no_cover.txt
+2024-08-31 22:57:25 INFO     9168/9270 Traitement de /home/zic/Reggae/King Tubby - Salty Dub.mp3 - artist : King Tubby and Soul Syndicate title : Salty Dub album : Freedom Sounds in Dub
+2024-08-31 22:57:25 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Salty Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Salty Dub.jpg
+2024-08-31 22:57:25 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Salty Dub.jpg
+2024-08-31 22:57:25 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Salty Dub.jpg
+2024-08-31 22:57:25 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Salty Dub.jpg
+2024-08-31 22:57:25 INFO     Image dimensions: 500x497
+2024-08-31 22:57:25 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Salty Dub.jpg
+2024-08-31 22:57:25 INFO     Cover found for /home/zic/Reggae/King Tubby - Salty Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:25 INFO     9169/9270 Traitement de /home/zic/Reggae/Lkj - Independant Intavenshan.mp3 - artist : Linton Kwesi Johnson title : Independent Intavenshan album : Forces of Victory
+2024-08-31 22:57:25 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Independant Intavenshan.mp3 vers /home/web/bonnezic.com/album/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:25 INFO     Image /home/web/bonnezic.com/album/Lkj - Independant Intavenshan.jpg trop petite (350x350)
+2024-08-31 22:57:25 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:25 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: Forces of Victory
+2024-08-31 22:57:25 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:Forces of Victory
+2024-08-31 22:57:25 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:25 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:25 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:25 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:57:25 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f /home/web/bonnezic.com/spotify
+2024-08-31 22:57:25 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Independant Intavenshan.jpg does not exist
+2024-08-31 22:57:28 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:28 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:28 INFO     Image dimensions: 640x640
+2024-08-31 22:57:28 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:28 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:29 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:29 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:29 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:57:29 INFO     Image /home/web/bonnezic.com/deezer/Lkj - Independant Intavenshan.jpg does not exist
+2024-08-31 22:57:32 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:32 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:32 INFO     Image dimensions: 1000x1000
+2024-08-31 22:57:32 INFO     Image already squared: /home/web/bonnezic.com/deezer/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:32 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Lkj - Independant Intavenshan.jpg
+2024-08-31 22:57:32 INFO     Cover found for /home/zic/Reggae/Lkj - Independant Intavenshan.mp3, not adding to no_cover.txt
+2024-08-31 22:57:32 INFO     9170/9270 Traitement de /home/zic/Reggae/Lkj - Dubbin Di Revalueshan.mp3 - artist : Linton Kwesi Johnson title : Dubbin di Revalueshan album : LKJ in Dub, Volume Two
+2024-08-31 22:57:32 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Dubbin Di Revalueshan.mp3 vers /home/web/bonnezic.com/album/Lkj - Dubbin Di Revalueshan.jpg
+2024-08-31 22:57:32 INFO     Image /home/web/bonnezic.com/album/Lkj - Dubbin Di Revalueshan.jpg trop petite (300x300)
+2024-08-31 22:57:32 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:32 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: LKJ in Dub, Volume Two
+2024-08-31 22:57:32 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:LKJ in Dub, Volume Two
+2024-08-31 22:57:32 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:32 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:32 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:32 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:57:32 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6 /home/web/bonnezic.com/spotify
+2024-08-31 22:57:32 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Dubbin Di Revalueshan.jpg does not exist
+2024-08-31 22:57:35 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Dubbin Di Revalueshan.jpg
+2024-08-31 22:57:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Dubbin Di Revalueshan.jpg
+2024-08-31 22:57:35 INFO     Image dimensions: 640x640
+2024-08-31 22:57:35 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Dubbin Di Revalueshan.jpg
+2024-08-31 22:57:35 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Dubbin Di Revalueshan.jpg
+2024-08-31 22:57:36 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:36 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:36 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:36 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Lkj - Dubbin Di Revalueshan.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9171/9270 Traitement de /home/zic/Reggae/Mikey Dread - Dread At The Controls.mp3 - artist : Mikey Dread title : Dread at the Mantrols album : Arkology
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Mikey Dread - Dread At The Controls.mp3 vers /home/web/bonnezic.com/album/Mikey Dread - Dread At The Controls.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mikey Dread - Dread At The Controls.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mikey Dread - Dread At The Controls.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mikey Dread - Dread At The Controls.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Mikey Dread - Dread At The Controls.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Mikey Dread - Dread At The Controls.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9172/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry - Why Must I (Version).mp3 - artist : The Heptones & Lee "Scratch" Perry title : Why Must I album : Arkology
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry - Why Must I (Version).mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry - Why Must I (Version).jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry - Why Must I (Version).jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry - Why Must I (Version).jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry - Why Must I (Version).jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry - Why Must I (Version).jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry - Why Must I (Version).mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9173/9270 Traitement de /home/zic/Reggae/King Tubby - Empty Vessel Dub.mp3 - artist : King Tubby and Soul Syndicate title : Empty Vessel Dub album : Freedom Sounds in Dub
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Empty Vessel Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Empty Vessel Dub.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Empty Vessel Dub.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Empty Vessel Dub.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Empty Vessel Dub.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x497
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Empty Vessel Dub.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/King Tubby - Empty Vessel Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9174/9270 Traitement de /home/zic/Reggae/38 Dub Band - One Two Angel Mix.mp3 - artist : 38 Dub Band title : One Two (Angel mix) album : Volume 1
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/38 Dub Band - One Two Angel Mix.mp3 vers /home/web/bonnezic.com/album/38 Dub Band - One Two Angel Mix.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/38 Dub Band - One Two Angel Mix.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/38 Dub Band - One Two Angel Mix.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/38 Dub Band - One Two Angel Mix.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 495x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/38 Dub Band - One Two Angel Mix.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/38 Dub Band - One Two Angel Mix.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9175/9270 Traitement de /home/zic/Reggae/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).mp3 - artist : Dubvisionist/Herbman Band title : Dub Don't Come Easy (Dubvisionist Version) album : Dubvision II
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).mp3 vers /home/web/bonnezic.com/album/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 1400x1400
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Dubvisionist Herbman Band - Dub Don T Come Easy (Dubvisionist Version).mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9176/9270 Traitement de /home/zic/Reggae/King Tubby - Israelite Children Dub.mp3 - artist : King Tubby and Soul Syndicate title : Israelite Children Dub album : Freedom Sounds in Dub
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Israelite Children Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Israelite Children Dub.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Israelite Children Dub.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Israelite Children Dub.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Israelite Children Dub.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x497
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Israelite Children Dub.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/King Tubby - Israelite Children Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9177/9270 Traitement de /home/zic/Reggae/Junior Murvin - Bad Weed.mp3 - artist : Junior Murvin title : Bad Weed album : Arkology
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Junior Murvin - Bad Weed.mp3 vers /home/web/bonnezic.com/album/Junior Murvin - Bad Weed.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Junior Murvin - Bad Weed.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Junior Murvin - Bad Weed.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Junior Murvin - Bad Weed.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Junior Murvin - Bad Weed.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Junior Murvin - Bad Weed.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 INFO     9178/9270 Traitement de /home/zic/Reggae/Dual Tone - Reign Dub.mp3 - artist : Dual Tone title : Reign Dub album : DJ-Kicks: Thievery Corporation
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Dual Tone - Reign Dub.mp3 vers /home/web/bonnezic.com/album/Dual Tone - Reign Dub.jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dual Tone - Reign Dub.jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dual Tone - Reign Dub.jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dual Tone - Reign Dub.jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 499x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Dual Tone - Reign Dub.jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Dual Tone - Reign Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:36 INFO     9179/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).mp3 - artist : Serge Gainsbourg feat. Anthony John title : Shush Shush Charlotte album : Mauvaises nouvelles des étoiles
+2024-08-31 22:57:36 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:36 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).jpg
+2024-08-31 22:57:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).jpg
+2024-08-31 22:57:36 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).jpg
+2024-08-31 22:57:36 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).jpg
+2024-08-31 22:57:36 INFO     Image dimensions: 500x500
+2024-08-31 22:57:36 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).jpg
+2024-08-31 22:57:36 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Shush Shush Charlotte (Featuring Anthony John In Don T Cry).mp3, not adding to no_cover.txt
+2024-08-31 22:57:36 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-31 22:57:36 INFO     /home/zic/Reggae/King Tubby - King At the Controls.mp3 No Tag Album
+2024-08-31 22:57:36 INFO     9180/9270 Traitement de /home/zic/Reggae/King Tubby - King At the Controls.mp3 - artist : King Tubby title : King At the Controls album : None
+2024-08-31 22:57:36 WARNING  Frame 'IPLS' is not yet supported, using raw Frame to parse
+2024-08-31 22:57:36 INFO     Spotify - Début de la recherche pour l'artiste: King Tubby, album: None
+2024-08-31 22:57:36 INFO     Spotify - Requête envoyée : artist:King Tubby album:None
+2024-08-31 22:57:37 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2731799f294205872e683af9b1e
+2024-08-31 22:57:37 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2731799f294205872e683af9b1e
+2024-08-31 22:57:37 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2731799f294205872e683af9b1e
+2024-08-31 22:57:37 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2731799f294205872e683af9b1e
+2024-08-31 22:57:37 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b2731799f294205872e683af9b1e /home/web/bonnezic.com/spotify
+2024-08-31 22:57:37 INFO     Image /home/web/bonnezic.com/spotify/King Tubby - King At the Controls.jpg does not exist
+2024-08-31 22:57:40 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/King Tubby - King At the Controls.jpg
+2024-08-31 22:57:40 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/King Tubby - King At the Controls.jpg
+2024-08-31 22:57:40 INFO     Image dimensions: 640x640
+2024-08-31 22:57:40 INFO     Image already squared: /home/web/bonnezic.com/spotify/King Tubby - King At the Controls.jpg
+2024-08-31 22:57:40 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/King Tubby - King At the Controls.jpg
+2024-08-31 22:57:40 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:40 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:40 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:41 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/King Tubby - King At the Controls.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 INFO     9181/9270 Traitement de /home/zic/Reggae/Flox - Killing U And Me.mp3 - artist : Flox title : Killing U and Me album : Nova 24h
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/Flox - Killing U And Me.mp3 vers /home/web/bonnezic.com/album/Flox - Killing U And Me.jpg
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Flox - Killing U And Me.jpg
+2024-08-31 22:57:41 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Flox - Killing U And Me.jpg
+2024-08-31 22:57:41 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Flox - Killing U And Me.jpg
+2024-08-31 22:57:41 INFO     Image dimensions: 500x500
+2024-08-31 22:57:41 INFO     Image already squared: /home/web/bonnezic.com/album/Flox - Killing U And Me.jpg
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/Flox - Killing U And Me.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 INFO     9182/9270 Traitement de /home/zic/Reggae/The Upsetters - Return Of Django.mp3 - artist : The Upsetters title : Return of Django album : One Original Step Beyond: The Story of Ska
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Return Of Django.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Return Of Django.jpg
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Return Of Django.jpg
+2024-08-31 22:57:41 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Return Of Django.jpg
+2024-08-31 22:57:41 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Return Of Django.jpg
+2024-08-31 22:57:41 INFO     Image dimensions: 500x500
+2024-08-31 22:57:41 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Return Of Django.jpg
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/The Upsetters - Return Of Django.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 INFO     9183/9270 Traitement de /home/zic/Reggae/The Upsetters Prince Jazzbo - Croaking Lizard.mp3 - artist : The Upsetters title : Croaking Lizard album : Super Ape
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters Prince Jazzbo - Croaking Lizard.mp3 vers /home/web/bonnezic.com/album/The Upsetters Prince Jazzbo - Croaking Lizard.jpg
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters Prince Jazzbo - Croaking Lizard.jpg
+2024-08-31 22:57:41 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters Prince Jazzbo - Croaking Lizard.jpg
+2024-08-31 22:57:41 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters Prince Jazzbo - Croaking Lizard.jpg
+2024-08-31 22:57:41 INFO     Image dimensions: 500x500
+2024-08-31 22:57:41 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters Prince Jazzbo - Croaking Lizard.jpg
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/The Upsetters Prince Jazzbo - Croaking Lizard.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 INFO     9184/9270 Traitement de /home/zic/Reggae/Ernest Wilson - I Know Myself.mp3 - artist : Ernest Wilson title : I Know Myself album : Nova 24h
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/Ernest Wilson - I Know Myself.mp3 vers /home/web/bonnezic.com/album/Ernest Wilson - I Know Myself.jpg
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ernest Wilson - I Know Myself.jpg
+2024-08-31 22:57:41 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Ernest Wilson - I Know Myself.jpg
+2024-08-31 22:57:41 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Ernest Wilson - I Know Myself.jpg
+2024-08-31 22:57:41 INFO     Image dimensions: 500x500
+2024-08-31 22:57:41 INFO     Image already squared: /home/web/bonnezic.com/album/Ernest Wilson - I Know Myself.jpg
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/Ernest Wilson - I Know Myself.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 INFO     9185/9270 Traitement de /home/zic/Reggae/Mad Professor - Can You Dub It.mp3 - artist : Mad Professor title : Can You Dub It album : 40 Years of Dub
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor - Can You Dub It.mp3 vers /home/web/bonnezic.com/album/Mad Professor - Can You Dub It.jpg
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor - Can You Dub It.jpg
+2024-08-31 22:57:41 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor - Can You Dub It.jpg
+2024-08-31 22:57:41 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor - Can You Dub It.jpg
+2024-08-31 22:57:41 INFO     Image dimensions: 500x500
+2024-08-31 22:57:41 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor - Can You Dub It.jpg
+2024-08-31 22:57:41 INFO     Cover found for /home/zic/Reggae/Mad Professor - Can You Dub It.mp3, not adding to no_cover.txt
+2024-08-31 22:57:41 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:41 INFO     9186/9270 Traitement de /home/zic/Reggae/Augustus Pablo - Viva Tirado.mp3 - artist : Augustus Pablo title : Viva Tirado album : Authentic Golden Melodies
+2024-08-31 22:57:41 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:41 INFO     Image extraite depuis /home/zic/Reggae/Augustus Pablo - Viva Tirado.mp3 vers /home/web/bonnezic.com/album/Augustus Pablo - Viva Tirado.jpg
+2024-08-31 22:57:41 INFO     Image /home/web/bonnezic.com/album/Augustus Pablo - Viva Tirado.jpg trop petite (350x350)
+2024-08-31 22:57:41 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:41 INFO     Spotify - Début de la recherche pour l'artiste: Augustus Pablo, album: Authentic Golden Melodies
+2024-08-31 22:57:41 INFO     Spotify - Requête envoyée : artist:Augustus Pablo album:Authentic Golden Melodies
+2024-08-31 22:57:41 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273ca31be1d67251126b78eceb0
+2024-08-31 22:57:41 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273ca31be1d67251126b78eceb0
+2024-08-31 22:57:41 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273ca31be1d67251126b78eceb0
+2024-08-31 22:57:41 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273ca31be1d67251126b78eceb0
+2024-08-31 22:57:41 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273ca31be1d67251126b78eceb0 /home/web/bonnezic.com/spotify
+2024-08-31 22:57:41 INFO     Image /home/web/bonnezic.com/spotify/Augustus Pablo - Viva Tirado.jpg does not exist
+2024-08-31 22:57:44 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Augustus Pablo - Viva Tirado.jpg
+2024-08-31 22:57:44 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Augustus Pablo - Viva Tirado.jpg
+2024-08-31 22:57:44 INFO     Image dimensions: 640x640
+2024-08-31 22:57:44 INFO     Image already squared: /home/web/bonnezic.com/spotify/Augustus Pablo - Viva Tirado.jpg
+2024-08-31 22:57:44 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Augustus Pablo - Viva Tirado.jpg
+2024-08-31 22:57:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Augustus Pablo - Viva Tirado.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9187/9270 Traitement de /home/zic/Reggae/Sly Dunbar - Bluesy Baby II.mp3 - artist : Lowell “Sly” Dunbar title : Bluesy Baby II album : Sly, Wicked and Slick
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Sly Dunbar - Bluesy Baby II.mp3 vers /home/web/bonnezic.com/album/Sly Dunbar - Bluesy Baby II.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Sly Dunbar - Bluesy Baby II.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Sly Dunbar - Bluesy Baby II.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Sly Dunbar - Bluesy Baby II.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 500x500
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Sly Dunbar - Bluesy Baby II.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Sly Dunbar - Bluesy Baby II.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     9188/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Bana Basadi Dub.mp3 - artist : Serge Gainsbourg title : Bana Basadi Dub album : Mauvaises nouvelles des étoiles
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Bana Basadi Dub.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Bana Basadi Dub.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Bana Basadi Dub.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Bana Basadi Dub.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Bana Basadi Dub.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 500x500
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Bana Basadi Dub.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Bana Basadi Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9189/9270 Traitement de /home/zic/Reggae/Augustu Pablo - Rockers Rock.mp3 - artist : Augustus Pablo title : Rockers Rock album : 200% Dynamite!
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Augustu Pablo - Rockers Rock.mp3 vers /home/web/bonnezic.com/album/Augustu Pablo - Rockers Rock.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Augustu Pablo - Rockers Rock.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Augustu Pablo - Rockers Rock.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Augustu Pablo - Rockers Rock.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 500x491
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Augustu Pablo - Rockers Rock.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Augustu Pablo - Rockers Rock.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9190/9270 Traitement de /home/zic/Reggae/Mad Professor - Everybody Dub Special.mp3 - artist : Mad Professor title : Everybody Dub Special album : Dub Massive, Volume One
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor - Everybody Dub Special.mp3 vers /home/web/bonnezic.com/album/Mad Professor - Everybody Dub Special.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor - Everybody Dub Special.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor - Everybody Dub Special.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor - Everybody Dub Special.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 1400x1400
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor - Everybody Dub Special.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Mad Professor - Everybody Dub Special.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:57:45 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     9191/9270 Traitement de /home/zic/Reggae/Delroy Wilson - Better Must Come.mp3 - artist : Delroy Wilson title : Better Must Come album : The Outernational Sound
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Delroy Wilson - Better Must Come.mp3 vers /home/web/bonnezic.com/album/Delroy Wilson - Better Must Come.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Delroy Wilson - Better Must Come.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Delroy Wilson - Better Must Come.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Delroy Wilson - Better Must Come.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 400x400
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Delroy Wilson - Better Must Come.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Delroy Wilson - Better Must Come.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9192/9270 Traitement de /home/zic/Reggae/The Congos - Feast Of The Passover.mp3 - artist : The Congos title : Feast of the Passover album : Arkology
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/The Congos - Feast Of The Passover.mp3 vers /home/web/bonnezic.com/album/The Congos - Feast Of The Passover.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Congos - Feast Of The Passover.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Congos - Feast Of The Passover.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Congos - Feast Of The Passover.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 500x500
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/The Congos - Feast Of The Passover.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/The Congos - Feast Of The Passover.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9193/9270 Traitement de /home/zic/Reggae/Rod Anton The Ligerians - Holy Dub.mp3 - artist : Rod Anton/The Ligerians title : Holy Dub album : Reasonin' in Dub
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Rod Anton The Ligerians - Holy Dub.mp3 vers /home/web/bonnezic.com/album/Rod Anton The Ligerians - Holy Dub.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Holy Dub.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Holy Dub.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Holy Dub.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 1200x1200
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Rod Anton The Ligerians - Holy Dub.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Rod Anton The Ligerians - Holy Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     9194/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Is This Love.mp3 - artist : Bob Marley & The Wailers title : Is This Love album : Legend: The Best of Bob Marley & The Wailers
+2024-08-31 22:57:45 WARNING  Lame tag CRC check failed
+2024-08-31 22:57:45 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Is This Love.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Is This Love.jpg
+2024-08-31 22:57:45 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Is This Love.jpg
+2024-08-31 22:57:45 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Is This Love.jpg
+2024-08-31 22:57:45 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Is This Love.jpg
+2024-08-31 22:57:45 INFO     Image dimensions: 500x499
+2024-08-31 22:57:45 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Is This Love.jpg
+2024-08-31 22:57:45 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Is This Love.mp3, not adding to no_cover.txt
+2024-08-31 22:57:45 INFO     9195/9270 Traitement de /home/zic/Reggae/Singers And Players - To Be Free.mp3 - artist : Singers & Players title : To Be Free album : Golden Greats Volume 2
+2024-08-31 22:57:45 INFO     Spotify - Début de la recherche pour l'artiste: Singers & Players, album: Golden Greats Volume 2
+2024-08-31 22:57:45 INFO     Spotify - Requête envoyée : artist:Singers & Players album:Golden Greats Volume 2
+2024-08-31 22:57:46 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:46 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:46 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:46 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:46 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e /home/web/bonnezic.com/spotify
+2024-08-31 22:57:46 INFO     Image /home/web/bonnezic.com/spotify/Singers And Players - To Be Free.jpg does not exist
+2024-08-31 22:57:49 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Singers And Players - To Be Free.jpg
+2024-08-31 22:57:49 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Singers And Players - To Be Free.jpg
+2024-08-31 22:57:49 INFO     Image dimensions: 640x636
+2024-08-31 22:57:49 INFO     Image already squared: /home/web/bonnezic.com/spotify/Singers And Players - To Be Free.jpg
+2024-08-31 22:57:49 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Singers And Players - To Be Free.jpg
+2024-08-31 22:57:49 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:50 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:50 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:50 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:50 INFO     Cover found for /home/zic/Reggae/Singers And Players - To Be Free.mp3, not adding to no_cover.txt
+2024-08-31 22:57:50 INFO     9196/9270 Traitement de /home/zic/Reggae/Dandy - A Message To You Rudie..mp3 - artist : Dandy title : A Message to You Rudie album : One Original Step Beyond: The Story of Ska
+2024-08-31 22:57:50 INFO     Image extraite depuis /home/zic/Reggae/Dandy - A Message To You Rudie..mp3 vers /home/web/bonnezic.com/album/Dandy - A Message To You Rudie..jpg
+2024-08-31 22:57:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dandy - A Message To You Rudie..jpg
+2024-08-31 22:57:50 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dandy - A Message To You Rudie..jpg
+2024-08-31 22:57:50 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dandy - A Message To You Rudie..jpg
+2024-08-31 22:57:50 INFO     Image dimensions: 500x500
+2024-08-31 22:57:50 INFO     Image already squared: /home/web/bonnezic.com/album/Dandy - A Message To You Rudie..jpg
+2024-08-31 22:57:50 INFO     Cover found for /home/zic/Reggae/Dandy - A Message To You Rudie..mp3, not adding to no_cover.txt
+2024-08-31 22:57:50 INFO     9197/9270 Traitement de /home/zic/Reggae/Mad Professor - Dub Reasoning.mp3 - artist : Mad Professor title : Dub Reasoning album : 40 Years of Dub
+2024-08-31 22:57:50 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor - Dub Reasoning.mp3 vers /home/web/bonnezic.com/album/Mad Professor - Dub Reasoning.jpg
+2024-08-31 22:57:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor - Dub Reasoning.jpg
+2024-08-31 22:57:50 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor - Dub Reasoning.jpg
+2024-08-31 22:57:50 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor - Dub Reasoning.jpg
+2024-08-31 22:57:50 INFO     Image dimensions: 500x500
+2024-08-31 22:57:50 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor - Dub Reasoning.jpg
+2024-08-31 22:57:50 INFO     Cover found for /home/zic/Reggae/Mad Professor - Dub Reasoning.mp3, not adding to no_cover.txt
+2024-08-31 22:57:50 INFO     9198/9270 Traitement de /home/zic/Reggae/Oku Onuora - Telling Dub.mp3 - artist : Oku Onuora title : Telling Dub album : Bass Culture: A Zenzile Mix
+2024-08-31 22:57:50 INFO     Image extraite depuis /home/zic/Reggae/Oku Onuora - Telling Dub.mp3 vers /home/web/bonnezic.com/album/Oku Onuora - Telling Dub.jpg
+2024-08-31 22:57:50 INFO     Image /home/web/bonnezic.com/album/Oku Onuora - Telling Dub.jpg trop petite (220x201)
+2024-08-31 22:57:50 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:57:50 INFO     Spotify - Début de la recherche pour l'artiste: Oku Onuora, album: Bass Culture: A Zenzile Mix
+2024-08-31 22:57:50 INFO     Spotify - Requête envoyée : artist:Oku Onuora album:Bass Culture: A Zenzile Mix
+2024-08-31 22:57:51 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2735e991b16ea20e55fbe4a885c
+2024-08-31 22:57:51 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2735e991b16ea20e55fbe4a885c
+2024-08-31 22:57:51 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2735e991b16ea20e55fbe4a885c
+2024-08-31 22:57:51 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2735e991b16ea20e55fbe4a885c
+2024-08-31 22:57:51 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b2735e991b16ea20e55fbe4a885c /home/web/bonnezic.com/spotify
+2024-08-31 22:57:51 INFO     Image /home/web/bonnezic.com/spotify/Oku Onuora - Telling Dub.jpg does not exist
+2024-08-31 22:57:54 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Oku Onuora - Telling Dub.jpg
+2024-08-31 22:57:54 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Oku Onuora - Telling Dub.jpg
+2024-08-31 22:57:54 INFO     Image dimensions: 640x640
+2024-08-31 22:57:54 INFO     Image already squared: /home/web/bonnezic.com/spotify/Oku Onuora - Telling Dub.jpg
+2024-08-31 22:57:54 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Oku Onuora - Telling Dub.jpg
+2024-08-31 22:57:54 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:54 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:54 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:54 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:54 INFO     Cover found for /home/zic/Reggae/Oku Onuora - Telling Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:54 INFO     9199/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.mp3 - artist : Vin Gordon title : Vin's Dub album : Back on the Controls: The Session Reels
+2024-08-31 22:57:55 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.jpg
+2024-08-31 22:57:55 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.jpg
+2024-08-31 22:57:55 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.jpg
+2024-08-31 22:57:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.jpg
+2024-08-31 22:57:55 INFO     Image dimensions: 500x500
+2024-08-31 22:57:55 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.jpg
+2024-08-31 22:57:55 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry Daniel Boyle Vin Gordon - Vins Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:55 INFO     9200/9270 Traitement de /home/zic/Reggae/Mato - Enter The Dragon Dub.mp3 - artist : Mato title : Enter The Dragon Dub album : Hollywoo Dub
+2024-08-31 22:57:55 INFO     Image extraite depuis /home/zic/Reggae/Mato - Enter The Dragon Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Enter The Dragon Dub.jpg
+2024-08-31 22:57:55 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Enter The Dragon Dub.jpg
+2024-08-31 22:57:55 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Enter The Dragon Dub.jpg
+2024-08-31 22:57:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Enter The Dragon Dub.jpg
+2024-08-31 22:57:55 INFO     Image dimensions: 500x500
+2024-08-31 22:57:55 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Enter The Dragon Dub.jpg
+2024-08-31 22:57:55 INFO     Cover found for /home/zic/Reggae/Mato - Enter The Dragon Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:55 INFO     9201/9270 Traitement de /home/zic/Reggae/The Aggrovators - Standing Ovation Dub.mp3 - artist : Scientist title : Blacka Shade of Dub album : Scientific Dub
+2024-08-31 22:57:55 INFO     Image extraite depuis /home/zic/Reggae/The Aggrovators - Standing Ovation Dub.mp3 vers /home/web/bonnezic.com/album/The Aggrovators - Standing Ovation Dub.jpg
+2024-08-31 22:57:55 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Aggrovators - Standing Ovation Dub.jpg
+2024-08-31 22:57:55 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Aggrovators - Standing Ovation Dub.jpg
+2024-08-31 22:57:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Aggrovators - Standing Ovation Dub.jpg
+2024-08-31 22:57:55 INFO     Image dimensions: 500x500
+2024-08-31 22:57:55 INFO     Image already squared: /home/web/bonnezic.com/album/The Aggrovators - Standing Ovation Dub.jpg
+2024-08-31 22:57:55 INFO     Cover found for /home/zic/Reggae/The Aggrovators - Standing Ovation Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:55 INFO     9202/9270 Traitement de /home/zic/Reggae/Buffalo Bill - Marilou Reggae Dub.mp3 - artist : Serge Gainsbourg title : Marilou reggae (dub) album : Aux armes et cætera
+2024-08-31 22:57:55 INFO     Image extraite depuis /home/zic/Reggae/Buffalo Bill - Marilou Reggae Dub.mp3 vers /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg
+2024-08-31 22:57:55 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg
+2024-08-31 22:57:55 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg
+2024-08-31 22:57:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg
+2024-08-31 22:57:55 INFO     Image dimensions: 500x456
+2024-08-31 22:57:55 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg
+2024-08-31 22:57:55 INFO     Cropping image /home/web/bonnezic.com/album/Buffalo Bill - Marilou Reggae Dub.jpg from 500x456 to square
+2024-08-31 22:57:55 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:57:55 INFO     Cover found for /home/zic/Reggae/Buffalo Bill - Marilou Reggae Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:57:55 WARNING  Invalid date: 905
+2024-08-31 22:57:55 INFO     9203/9270 Traitement de /home/zic/Reggae/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).mp3 - artist : Ghetto Priest title : I Don't Want to See You Cry (North Street West Vocal Remix) album : I Don't Want to See You Cry - EP
+2024-08-31 22:57:55 WARNING  Invalid date: 905
+2024-08-31 22:57:55 INFO     Image extraite depuis /home/zic/Reggae/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).mp3 vers /home/web/bonnezic.com/album/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).jpg
+2024-08-31 22:57:55 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).jpg
+2024-08-31 22:57:55 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).jpg
+2024-08-31 22:57:55 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).jpg
+2024-08-31 22:57:55 INFO     Image dimensions: 1400x1400
+2024-08-31 22:57:55 INFO     Image already squared: /home/web/bonnezic.com/album/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).jpg
+2024-08-31 22:57:55 INFO     Cover found for /home/zic/Reggae/Ghetto Priest - I Don T Want To See You Cry (North Street West Vocal Remix).mp3, not adding to no_cover.txt
+2024-08-31 22:57:55 INFO     9204/9270 Traitement de /home/zic/Reggae/Singers And Players - This Assembly.mp3 - artist : Singers & Players title : This Assembly album : Golden Greats Volume 2
+2024-08-31 22:57:55 INFO     Spotify - Début de la recherche pour l'artiste: Singers & Players, album: Golden Greats Volume 2
+2024-08-31 22:57:55 INFO     Spotify - Requête envoyée : artist:Singers & Players album:Golden Greats Volume 2
+2024-08-31 22:57:55 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:55 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:55 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:55 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e
+2024-08-31 22:57:55 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273f50bf8084da59379dd7f968e /home/web/bonnezic.com/spotify
+2024-08-31 22:57:55 INFO     Image /home/web/bonnezic.com/spotify/Singers And Players - This Assembly.jpg does not exist
+2024-08-31 22:57:58 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Singers And Players - This Assembly.jpg
+2024-08-31 22:57:58 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Singers And Players - This Assembly.jpg
+2024-08-31 22:57:58 INFO     Image dimensions: 640x636
+2024-08-31 22:57:58 INFO     Image already squared: /home/web/bonnezic.com/spotify/Singers And Players - This Assembly.jpg
+2024-08-31 22:57:58 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Singers And Players - This Assembly.jpg
+2024-08-31 22:57:59 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:59 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:57:59 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:59 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:57:59 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/d41d8cd98f00b204e9800998ecf8427e/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:57:59 INFO     Image /home/web/bonnezic.com/deezer/Singers And Players - This Assembly.jpg does not exist
+2024-08-31 22:58:02 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Singers And Players - This Assembly.jpg
+2024-08-31 22:58:02 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Singers And Players - This Assembly.jpg
+2024-08-31 22:58:02 INFO     Image dimensions: 1000x1000
+2024-08-31 22:58:02 INFO     Image already squared: /home/web/bonnezic.com/deezer/Singers And Players - This Assembly.jpg
+2024-08-31 22:58:02 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Singers And Players - This Assembly.jpg
+2024-08-31 22:58:02 INFO     Cover found for /home/zic/Reggae/Singers And Players - This Assembly.mp3, not adding to no_cover.txt
+2024-08-31 22:58:02 INFO     9205/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Javanaise Dub (Versions Dub).mp3 - artist : Serge Gainsbourg title : Javanaise dub album : Aux armes et cætera
+2024-08-31 22:58:02 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Javanaise Dub (Versions Dub).mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg
+2024-08-31 22:58:02 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg
+2024-08-31 22:58:02 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg
+2024-08-31 22:58:02 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg
+2024-08-31 22:58:02 INFO     Image dimensions: 500x456
+2024-08-31 22:58:02 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg
+2024-08-31 22:58:02 INFO     Cropping image /home/web/bonnezic.com/album/Serge Gainsbourg - Javanaise Dub (Versions Dub).jpg from 500x456 to square
+2024-08-31 22:58:02 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:02 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Javanaise Dub (Versions Dub).mp3, not adding to no_cover.txt
+2024-08-31 22:58:02 INFO     9206/9270 Traitement de /home/zic/Reggae/Lkj - Want Fi Goh Rave.mp3 - artist : Linton Kwesi Johnson title : Want fi Goh Rave album : Forces of Victory
+2024-08-31 22:58:02 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Want Fi Goh Rave.mp3 vers /home/web/bonnezic.com/album/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:02 INFO     Image /home/web/bonnezic.com/album/Lkj - Want Fi Goh Rave.jpg trop petite (350x350)
+2024-08-31 22:58:02 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:58:02 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: Forces of Victory
+2024-08-31 22:58:02 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:Forces of Victory
+2024-08-31 22:58:02 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:58:02 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:58:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:58:02 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f
+2024-08-31 22:58:02 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273d49c0b732368066ecaacde7f /home/web/bonnezic.com/spotify
+2024-08-31 22:58:02 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Want Fi Goh Rave.jpg does not exist
+2024-08-31 22:58:05 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:05 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:05 INFO     Image dimensions: 640x640
+2024-08-31 22:58:05 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:05 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:06 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:06 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:06 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/654acdda512318d03d2cd117fff64d58/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:58:06 INFO     Image /home/web/bonnezic.com/deezer/Lkj - Want Fi Goh Rave.jpg does not exist
+2024-08-31 22:58:09 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 1000x1000
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/deezer/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:09 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Lkj - Want Fi Goh Rave.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Lkj - Want Fi Goh Rave.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9207/9270 Traitement de /home/zic/Reggae/Various Artists - Righteous People Dub.mp3 - artist : Bunny Lee & The Aggrovators title : Righteous People Dub album : Aggrovate
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Various Artists - Righteous People Dub.mp3 vers /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x437
+2024-08-31 22:58:09 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg
+2024-08-31 22:58:09 INFO     Cropping image /home/web/bonnezic.com/album/Various Artists - Righteous People Dub.jpg from 500x437 to square
+2024-08-31 22:58:09 INFO     Cropping image to: left=31.5, top=0, right=468.5, bottom=437
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Various Artists - Righteous People Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9208/9270 Traitement de /home/zic/Reggae/Mato - Close Encounters Of Third Kind Dub.mp3 - artist : Mato title : Close Encounters Of Third Kind Dub album : Hollywoo Dub
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Mato - Close Encounters Of Third Kind Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Close Encounters Of Third Kind Dub.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Close Encounters Of Third Kind Dub.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Close Encounters Of Third Kind Dub.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Close Encounters Of Third Kind Dub.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x500
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Close Encounters Of Third Kind Dub.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Mato - Close Encounters Of Third Kind Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     9209/9270 Traitement de /home/zic/Reggae/King Tubby And Roots Radics - Symbolic Dub.mp3 - artist : King Tubby Meets Roots Radics title : Symbolic Dub album : Dangerous Dub
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/King Tubby And Roots Radics - Symbolic Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby And Roots Radics - Symbolic Dub.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby And Roots Radics - Symbolic Dub.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby And Roots Radics - Symbolic Dub.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby And Roots Radics - Symbolic Dub.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x493
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby And Roots Radics - Symbolic Dub.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/King Tubby And Roots Radics - Symbolic Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9210/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry And The Upsett - Super Ape.mp3 - artist : The Upsetters title : Super Ape album : Super Ape
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry And The Upsett - Super Ape.mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Super Ape.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Super Ape.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Super Ape.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Super Ape.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x500
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Super Ape.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry And The Upsett - Super Ape.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9211/9270 Traitement de /home/zic/Reggae/King Tubby  - King Tubby Meets Lee Perry.mp3 - artist : King Tubby title : Come by Yah Dub album : Megawatt Dub
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/King Tubby  - King Tubby Meets Lee Perry.mp3 vers /home/web/bonnezic.com/album/King Tubby  - King Tubby Meets Lee Perry.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby  - King Tubby Meets Lee Perry.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby  - King Tubby Meets Lee Perry.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby  - King Tubby Meets Lee Perry.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x495
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby  - King Tubby Meets Lee Perry.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/King Tubby  - King Tubby Meets Lee Perry.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9212/9270 Traitement de /home/zic/Reggae/The Upsetters - Dyon Anasawa.mp3 - artist : The Upsetters feat. Full Experience title : Dyon Anasawa album : Arkology
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Dyon Anasawa.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Dyon Anasawa.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Dyon Anasawa.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Dyon Anasawa.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Dyon Anasawa.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x500
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Dyon Anasawa.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/The Upsetters - Dyon Anasawa.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9213/9270 Traitement de /home/zic/Reggae/Rod Anton The Ligerians - Waitin Fi Dub.mp3 - artist : Rod Anton/The Ligerians title : Waitin'Fi Dub album : Reasonin' in Dub
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Rod Anton The Ligerians - Waitin Fi Dub.mp3 vers /home/web/bonnezic.com/album/Rod Anton The Ligerians - Waitin Fi Dub.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Waitin Fi Dub.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Waitin Fi Dub.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Rod Anton The Ligerians - Waitin Fi Dub.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 1200x1200
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Rod Anton The Ligerians - Waitin Fi Dub.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Rod Anton The Ligerians - Waitin Fi Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     9214/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Dub Et Caetera (Versions Dub).mp3 - artist : Serge Gainsbourg title : Dub et caetera album : Aux armes et cætera
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Dub Et Caetera (Versions Dub).mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x456
+2024-08-31 22:58:09 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg
+2024-08-31 22:58:09 INFO     Cropping image /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Et Caetera (Versions Dub).jpg from 500x456 to square
+2024-08-31 22:58:09 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Dub Et Caetera (Versions Dub).mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Invalid date: 2
+2024-08-31 22:58:09 INFO     9215/9270 Traitement de /home/zic/Reggae/Manu Dibango - Full Up....mp3 - artist : Manu Dibango title : Full Up album : Gone Clear (The Complete Kingston Sessions)
+2024-08-31 22:58:09 WARNING  Invalid date: 2
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Manu Dibango - Full Up....mp3 vers /home/web/bonnezic.com/album/Manu Dibango - Full Up....jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Manu Dibango - Full Up....jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Manu Dibango - Full Up....jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Manu Dibango - Full Up....jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 1400x1400
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Manu Dibango - Full Up....jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Manu Dibango - Full Up....mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     9216/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Jamming.mp3 - artist : Bob Marley & The Wailers title : Jamming album : Legend
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Jamming.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Jamming.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Jamming.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Jamming.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Jamming.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x497
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Jamming.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Jamming.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     9217/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Exodus.mp3 - artist : Bob Marley & The Wailers title : Exodus album : Legend
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Exodus.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Exodus.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Exodus.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Exodus.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Exodus.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x497
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Exodus.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Exodus.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9218/9270 Traitement de /home/zic/Reggae/Mato - Revolution 909 (Dub).mp3 - artist : Mato title : Revolution 909 Dub album : Homework Dub
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Mato - Revolution 909 (Dub).mp3 vers /home/web/bonnezic.com/album/Mato - Revolution 909 (Dub).jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Revolution 909 (Dub).jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Revolution 909 (Dub).jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Revolution 909 (Dub).jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x500
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Revolution 909 (Dub).jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Mato - Revolution 909 (Dub).mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Invalid date: 205
+2024-08-31 22:58:09 INFO     9219/9270 Traitement de /home/zic/Reggae/Mato - Dance Of The Knights Dub.mp3 - artist : Mato title : Dance Of The Knights Dub album : Classical Dub
+2024-08-31 22:58:09 WARNING  Invalid date: 205
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Mato - Dance Of The Knights Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Dance Of The Knights Dub.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Dance Of The Knights Dub.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Dance Of The Knights Dub.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Dance Of The Knights Dub.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 1400x1400
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Dance Of The Knights Dub.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Mato - Dance Of The Knights Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     9220/9270 Traitement de /home/zic/Reggae/Gainsbourg - Brigade Des Stups.mp3 - artist : Serge Gainsbourg title : Brigade des stups album : Aux armes et cætera
+2024-08-31 22:58:09 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/Gainsbourg - Brigade Des Stups.mp3 vers /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x456
+2024-08-31 22:58:09 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg
+2024-08-31 22:58:09 INFO     Cropping image /home/web/bonnezic.com/album/Gainsbourg - Brigade Des Stups.jpg from 500x456 to square
+2024-08-31 22:58:09 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/Gainsbourg - Brigade Des Stups.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     9221/9270 Traitement de /home/zic/Reggae/The Upsetters - Closer Together.mp3 - artist : Junior Murvin title : Closer Together album : Arkology
+2024-08-31 22:58:09 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Closer Together.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Closer Together.jpg
+2024-08-31 22:58:09 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Closer Together.jpg
+2024-08-31 22:58:09 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Closer Together.jpg
+2024-08-31 22:58:09 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Closer Together.jpg
+2024-08-31 22:58:09 INFO     Image dimensions: 500x500
+2024-08-31 22:58:09 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Closer Together.jpg
+2024-08-31 22:58:09 INFO     Cover found for /home/zic/Reggae/The Upsetters - Closer Together.mp3, not adding to no_cover.txt
+2024-08-31 22:58:09 INFO     /home/zic/Reggae/Lkj - Bitch Dub.mp3 No Tag Album
+2024-08-31 22:58:09 INFO     9222/9270 Traitement de /home/zic/Reggae/Lkj - Bitch Dub.mp3 - artist : LKJ title : Bitch Dub album : None
+2024-08-31 22:58:09 INFO     Spotify - Début de la recherche pour l'artiste: LKJ, album: None
+2024-08-31 22:58:09 INFO     Spotify - Requête envoyée : artist:LKJ album:None
+2024-08-31 22:58:09 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273961e50d43e1a6dbfa17041da
+2024-08-31 22:58:09 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273961e50d43e1a6dbfa17041da
+2024-08-31 22:58:09 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273961e50d43e1a6dbfa17041da
+2024-08-31 22:58:09 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273961e50d43e1a6dbfa17041da
+2024-08-31 22:58:09 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273961e50d43e1a6dbfa17041da /home/web/bonnezic.com/spotify
+2024-08-31 22:58:09 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Bitch Dub.jpg does not exist
+2024-08-31 22:58:13 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Bitch Dub.jpg
+2024-08-31 22:58:13 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Bitch Dub.jpg
+2024-08-31 22:58:13 INFO     Image dimensions: 640x640
+2024-08-31 22:58:13 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Bitch Dub.jpg
+2024-08-31 22:58:13 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Bitch Dub.jpg
+2024-08-31 22:58:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:14 INFO     Cover found for /home/zic/Reggae/Lkj - Bitch Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:14 INFO     9223/9270 Traitement de /home/zic/Reggae/Dillinger - Cocaine In My Brain.mp3 - artist : Dillinger title : Cocaine in My Brain album : Dance Classics
+2024-08-31 22:58:14 INFO     Spotify - Début de la recherche pour l'artiste: Dillinger, album: Dance Classics
+2024-08-31 22:58:14 INFO     Spotify - Requête envoyée : artist:Dillinger album:Dance Classics
+2024-08-31 22:58:14 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273b4ec1d1e58faf75dde730ace
+2024-08-31 22:58:14 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273b4ec1d1e58faf75dde730ace
+2024-08-31 22:58:14 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273b4ec1d1e58faf75dde730ace
+2024-08-31 22:58:14 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273b4ec1d1e58faf75dde730ace
+2024-08-31 22:58:14 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273b4ec1d1e58faf75dde730ace /home/web/bonnezic.com/spotify
+2024-08-31 22:58:14 INFO     Image /home/web/bonnezic.com/spotify/Dillinger - Cocaine In My Brain.jpg does not exist
+2024-08-31 22:58:17 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:17 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:17 INFO     Image dimensions: 640x640
+2024-08-31 22:58:17 INFO     Image already squared: /home/web/bonnezic.com/spotify/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:17 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:18 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/f39d0702057caf68fc0a14923b2d0249/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:18 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/f39d0702057caf68fc0a14923b2d0249/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:18 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/f39d0702057caf68fc0a14923b2d0249/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:58:18 INFO     Image /home/web/bonnezic.com/deezer/Dillinger - Cocaine In My Brain.jpg does not exist
+2024-08-31 22:58:21 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:21 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:21 INFO     Image dimensions: 1000x1000
+2024-08-31 22:58:21 INFO     Image already squared: /home/web/bonnezic.com/deezer/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:21 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Dillinger - Cocaine In My Brain.jpg
+2024-08-31 22:58:21 INFO     Cover found for /home/zic/Reggae/Dillinger - Cocaine In My Brain.mp3, not adding to no_cover.txt
+2024-08-31 22:58:21 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:21 INFO     9224/9270 Traitement de /home/zic/Reggae/Gainsbourg - Eau Et Gaz A Tous Les Etages.mp3 - artist : Serge Gainsbourg title : Eau et gaz à tous les étages album : Aux armes et cætera
+2024-08-31 22:58:21 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:21 INFO     Image extraite depuis /home/zic/Reggae/Gainsbourg - Eau Et Gaz A Tous Les Etages.mp3 vers /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg
+2024-08-31 22:58:21 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg
+2024-08-31 22:58:21 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg
+2024-08-31 22:58:21 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg
+2024-08-31 22:58:21 INFO     Image dimensions: 500x456
+2024-08-31 22:58:21 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg
+2024-08-31 22:58:21 INFO     Cropping image /home/web/bonnezic.com/album/Gainsbourg - Eau Et Gaz A Tous Les Etages.jpg from 500x456 to square
+2024-08-31 22:58:21 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:21 INFO     Cover found for /home/zic/Reggae/Gainsbourg - Eau Et Gaz A Tous Les Etages.mp3, not adding to no_cover.txt
+2024-08-31 22:58:21 INFO     9225/9270 Traitement de /home/zic/Reggae/King Tubby - King At The Controls.mp3 - artist : King Tubby title : King At The Controls album : Sounds & Pressure, Volume 3
+2024-08-31 22:58:21 INFO     Spotify - Début de la recherche pour l'artiste: King Tubby, album: Sounds & Pressure, Volume 3
+2024-08-31 22:58:21 INFO     Spotify - Requête envoyée : artist:King Tubby album:Sounds & Pressure, Volume 3
+2024-08-31 22:58:22 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:22 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:22 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:22 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:22 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400 /home/web/bonnezic.com/spotify
+2024-08-31 22:58:22 INFO     Image /home/web/bonnezic.com/spotify/King Tubby - King At The Controls.jpg does not exist
+2024-08-31 22:58:25 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/King Tubby - King At The Controls.jpg
+2024-08-31 22:58:25 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/King Tubby - King At The Controls.jpg
+2024-08-31 22:58:25 INFO     Image dimensions: 640x640
+2024-08-31 22:58:25 INFO     Image already squared: /home/web/bonnezic.com/spotify/King Tubby - King At The Controls.jpg
+2024-08-31 22:58:25 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/King Tubby - King At The Controls.jpg
+2024-08-31 22:58:26 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:26 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:26 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:26 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:26 INFO     Cover found for /home/zic/Reggae/King Tubby - King At The Controls.mp3, not adding to no_cover.txt
+2024-08-31 22:58:26 INFO     9226/9270 Traitement de /home/zic/Reggae/Aston Family Man Barrett Dizzy - Cell Block 11.mp3 - artist : Aston ‘Family Man’ Barrett & Johnny Dizzy Moore title : Cell Block 11 album : Soul Constitution: Instrumentals & Dubs 1971 – 1982
+2024-08-31 22:58:26 INFO     Image extraite depuis /home/zic/Reggae/Aston Family Man Barrett Dizzy - Cell Block 11.mp3 vers /home/web/bonnezic.com/album/Aston Family Man Barrett Dizzy - Cell Block 11.jpg
+2024-08-31 22:58:26 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Aston Family Man Barrett Dizzy - Cell Block 11.jpg
+2024-08-31 22:58:26 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Aston Family Man Barrett Dizzy - Cell Block 11.jpg
+2024-08-31 22:58:26 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Aston Family Man Barrett Dizzy - Cell Block 11.jpg
+2024-08-31 22:58:26 INFO     Image dimensions: 500x500
+2024-08-31 22:58:26 INFO     Image already squared: /home/web/bonnezic.com/album/Aston Family Man Barrett Dizzy - Cell Block 11.jpg
+2024-08-31 22:58:26 INFO     Cover found for /home/zic/Reggae/Aston Family Man Barrett Dizzy - Cell Block 11.mp3, not adding to no_cover.txt
+2024-08-31 22:58:26 INFO     9227/9270 Traitement de /home/zic/Reggae/King Tubby - King Tubby S Special U Roy.mp3 - artist : King Tubby feat. U‐Roy title : King Tubby's Special album : King Tubby's Special: 1973-1976
+2024-08-31 22:58:26 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - King Tubby S Special U Roy.mp3 vers /home/web/bonnezic.com/album/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:26 INFO     Image /home/web/bonnezic.com/album/King Tubby - King Tubby S Special U Roy.jpg trop petite (200x200)
+2024-08-31 22:58:26 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:58:26 INFO     Spotify - Début de la recherche pour l'artiste: King Tubby feat. U‐Roy, album: King Tubby's Special: 1973-1976
+2024-08-31 22:58:26 INFO     Spotify - Requête envoyée : artist:King Tubby feat. U‐Roy album:King Tubby's Special: 1973-1976
+2024-08-31 22:58:27 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:27 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:27 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:27 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400
+2024-08-31 22:58:27 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b27319c9adf4ba9f133ef949d400 /home/web/bonnezic.com/spotify
+2024-08-31 22:58:27 INFO     Image /home/web/bonnezic.com/spotify/King Tubby - King Tubby S Special U Roy.jpg does not exist
+2024-08-31 22:58:30 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:30 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:30 INFO     Image dimensions: 640x640
+2024-08-31 22:58:30 INFO     Image already squared: /home/web/bonnezic.com/spotify/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:30 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:30 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:30 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:30 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:58:31 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:31 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:58:31 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/81cc8238be73327713bed44b4a32e439/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:58:31 INFO     Image /home/web/bonnezic.com/deezer/King Tubby - King Tubby S Special U Roy.jpg does not exist
+2024-08-31 22:58:34 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 1000x1000
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/deezer/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:34 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/King Tubby - King Tubby S Special U Roy.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/King Tubby - King Tubby S Special U Roy.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9228/9270 Traitement de /home/zic/Reggae/John Holt - I M The One To Be Blamed.mp3 - artist : John Holt title : I'm the One to Blame album : 200% Dynamite!
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/John Holt - I M The One To Be Blamed.mp3 vers /home/web/bonnezic.com/album/John Holt - I M The One To Be Blamed.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/John Holt - I M The One To Be Blamed.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/John Holt - I M The One To Be Blamed.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/John Holt - I M The One To Be Blamed.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x491
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/John Holt - I M The One To Be Blamed.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/John Holt - I M The One To Be Blamed.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9229/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry And The Upsett - Three In One.mp3 - artist : The Upsetters title : Three in One album : Super Ape
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry And The Upsett - Three In One.mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Three In One.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Three In One.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Three In One.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Three In One.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Three In One.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry And The Upsett - Three In One.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Invalid date: 704
+2024-08-31 22:58:34 INFO     9230/9270 Traitement de /home/zic/Reggae/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.mp3 - artist : Lee Perry And The Upsetters title : Steel Plated Bullet Proof Vest Dub album : Dub Massive Vol. 1
+2024-08-31 22:58:34 WARNING  Invalid date: 704
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.mp3 vers /home/web/bonnezic.com/album/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 1400x1400
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Lee Perry And The Upsetters - Steel Plated Bullet Proof Vest Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9231/9270 Traitement de /home/zic/Reggae/Prince Far I - Throw Away Your Gun.mp3 - artist : Prince Far I title : Throw Away Your Gun album : Dubwise
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Prince Far I - Throw Away Your Gun.mp3 vers /home/web/bonnezic.com/album/Prince Far I - Throw Away Your Gun.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Prince Far I - Throw Away Your Gun.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Prince Far I - Throw Away Your Gun.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Prince Far I - Throw Away Your Gun.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 453x450
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Prince Far I - Throw Away Your Gun.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Prince Far I - Throw Away Your Gun.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9232/9270 Traitement de /home/zic/Reggae/Mato - Rollin And Scratchin (Dub).mp3 - artist : Mato title : Rollin' & Scratchin' Dub album : Homework Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Mato - Rollin And Scratchin (Dub).mp3 vers /home/web/bonnezic.com/album/Mato - Rollin And Scratchin (Dub).jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Rollin And Scratchin (Dub).jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Rollin And Scratchin (Dub).jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Rollin And Scratchin (Dub).jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Rollin And Scratchin (Dub).jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Mato - Rollin And Scratchin (Dub).mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9233/9270 Traitement de /home/zic/Reggae/Mato - Burnin Dub.mp3 - artist : Mato title : Burnin' Dub album : Homework Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Mato - Burnin Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Burnin Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Burnin Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Burnin Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Burnin Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Burnin Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Mato - Burnin Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9234/9270 Traitement de /home/zic/Reggae/Tiken Jah Fakoly - L Afrique Doit Du Fric.mp3 - artist : Tiken Jah Fakoly title : L'Afrique doit du fric album : Coup de gueule
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Tiken Jah Fakoly - L Afrique Doit Du Fric.mp3 vers /home/web/bonnezic.com/album/Tiken Jah Fakoly - L Afrique Doit Du Fric.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Tiken Jah Fakoly - L Afrique Doit Du Fric.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Tiken Jah Fakoly - L Afrique Doit Du Fric.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Tiken Jah Fakoly - L Afrique Doit Du Fric.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x495
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Tiken Jah Fakoly - L Afrique Doit Du Fric.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Tiken Jah Fakoly - L Afrique Doit Du Fric.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9235/9270 Traitement de /home/zic/Reggae/Half Pint - Mr Landlord.mp3 - artist : Half Pint title : Mr Landlord album : Nova 24h
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Half Pint - Mr Landlord.mp3 vers /home/web/bonnezic.com/album/Half Pint - Mr Landlord.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Half Pint - Mr Landlord.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Half Pint - Mr Landlord.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Half Pint - Mr Landlord.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Half Pint - Mr Landlord.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Half Pint - Mr Landlord.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9236/9270 Traitement de /home/zic/Reggae/King Tubby - Symbolic Dub.mp3 - artist : King Tubby title : Symbolic Dub album : Nova 24h
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Symbolic Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Symbolic Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Symbolic Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Symbolic Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Symbolic Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Symbolic Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/King Tubby - Symbolic Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9237/9270 Traitement de /home/zic/Reggae/Sly Dunbar - Senegal Market Place.mp3 - artist : Lowell “Sly” Dunbar title : Senegal Market Place album : Sly, Wicked and Slick
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Sly Dunbar - Senegal Market Place.mp3 vers /home/web/bonnezic.com/album/Sly Dunbar - Senegal Market Place.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Sly Dunbar - Senegal Market Place.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Sly Dunbar - Senegal Market Place.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Sly Dunbar - Senegal Market Place.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Sly Dunbar - Senegal Market Place.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Sly Dunbar - Senegal Market Place.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9238/9270 Traitement de /home/zic/Reggae/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).mp3 - artist : Tappa Zukie title : Dub MPLA (Subsonic Legacy/MPLA remix) album : Select Cuts From Blood & Fire
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).mp3 vers /home/web/bonnezic.com/album/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x496
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Tappa Zukie - Dub Mpla (Subsonic Legacy Mpla Rmx).mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9239/9270 Traitement de /home/zic/Reggae/Thievery Corporation - The Outernationalist.mp3 - artist : Thievery Corporation title : The Outernationalist album : The Richest Man in Babylon
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Thievery Corporation - The Outernationalist.mp3 vers /home/web/bonnezic.com/album/Thievery Corporation - The Outernationalist.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Thievery Corporation - The Outernationalist.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Thievery Corporation - The Outernationalist.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Thievery Corporation - The Outernationalist.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Thievery Corporation - The Outernationalist.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Thievery Corporation - The Outernationalist.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9240/9270 Traitement de /home/zic/Reggae/Mato - Smiley Dub.mp3 - artist : Mato title : Smiley dub album : Il est cinq heures 02 : Kingston s’éveille…
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Mato - Smiley Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Smiley Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Smiley Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Smiley Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Smiley Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Smiley Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Mato - Smiley Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     9241/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Aux Armes Et Caetera.mp3 - artist : Serge Gainsbourg title : Aux armes et cætera album : Aux armes et cætera
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Aux Armes Et Caetera.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x447
+2024-08-31 22:58:34 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg
+2024-08-31 22:58:34 INFO     Cropping image /home/web/bonnezic.com/album/Serge Gainsbourg - Aux Armes Et Caetera.jpg from 500x447 to square
+2024-08-31 22:58:34 INFO     Cropping image to: left=26.5, top=0, right=473.5, bottom=447
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Aux Armes Et Caetera.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9242/9270 Traitement de /home/zic/Reggae/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).mp3 - artist : めいな Co. feat. Atushi “木原 孝” Okuno title : Just Wanna Touch Her (Stoned Jazz mix) album : Reload: The Remix Collection
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).mp3 vers /home/web/bonnezic.com/album/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 495x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Atushi Okuno - Just Wanna Touch Her (Dj Krush Remix).mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9243/9270 Traitement de /home/zic/Reggae/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.mp3 - artist : Brooklyn Funk Essentials feat. Laço Tayfa title : Ska Ka-Bop album : In the BuzzBag
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.mp3 vers /home/web/bonnezic.com/album/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x487
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Brooklyn Funk Essentials Featuring Laco Tayfa - Ska Ka-Bop.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9244/9270 Traitement de /home/zic/Reggae/Mato - Nocturne In Eb Dub.mp3 - artist : Mato title : Nocturnes in Eb Dub album : Classical Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Mato - Nocturne In Eb Dub.mp3 vers /home/web/bonnezic.com/album/Mato - Nocturne In Eb Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mato - Nocturne In Eb Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mato - Nocturne In Eb Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mato - Nocturne In Eb Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 450x450
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Mato - Nocturne In Eb Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Mato - Nocturne In Eb Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9245/9270 Traitement de /home/zic/Reggae/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.mp3 - artist : Aston “Family Man” Barrett title : Eastern Memphis album : Cobra Style
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.mp3 vers /home/web/bonnezic.com/album/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Aston Family Man Barrett The Rebel Arms - Eastern Memphis.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9246/9270 Traitement de /home/zic/Reggae/Sir Coxsone Sound - So Much Dub To Give.mp3 - artist : Sir Coxsone Sound title : So Much Dub to Give album : Nova 24h
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Sir Coxsone Sound - So Much Dub To Give.mp3 vers /home/web/bonnezic.com/album/Sir Coxsone Sound - So Much Dub To Give.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Sir Coxsone Sound - So Much Dub To Give.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Sir Coxsone Sound - So Much Dub To Give.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Sir Coxsone Sound - So Much Dub To Give.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Sir Coxsone Sound - So Much Dub To Give.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Sir Coxsone Sound - So Much Dub To Give.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9247/9270 Traitement de /home/zic/Reggae/LKJ - Bitch Dub.mp3 - artist : Linton Kwesi Johnson title : Bitch Dub album : LKJ in Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/LKJ - Bitch Dub.mp3 vers /home/web/bonnezic.com/album/LKJ - Bitch Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/LKJ - Bitch Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/LKJ - Bitch Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/LKJ - Bitch Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x496
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/LKJ - Bitch Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/LKJ - Bitch Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     9248/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Get Up Stand Up.mp3 - artist : Bob Marley & The Wailers title : Get Up Stand Up album : Legend: The Best of Bob Marley & The Wailers
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Get Up Stand Up.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Get Up Stand Up.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Get Up Stand Up.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Get Up Stand Up.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Get Up Stand Up.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x499
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Get Up Stand Up.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Get Up Stand Up.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9249/9270 Traitement de /home/zic/Reggae/Analog Players Society - Let The Music Play (Instrumental).mp3 - artist : Analog Players Society title : Let the Music Play (Instrumental) album : Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Analog Players Society - Let The Music Play (Instrumental).mp3 vers /home/web/bonnezic.com/album/Analog Players Society - Let The Music Play (Instrumental).jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Analog Players Society - Let The Music Play (Instrumental).jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Analog Players Society - Let The Music Play (Instrumental).jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Analog Players Society - Let The Music Play (Instrumental).jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 1400x1400
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Analog Players Society - Let The Music Play (Instrumental).jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Analog Players Society - Let The Music Play (Instrumental).mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9250/9270 Traitement de /home/zic/Reggae/King Tubby - Jah Is Coming In Dub.mp3 - artist : King Tubby and Soul Syndicate title : Jah Is Coming in Dub album : Freedom Sounds in Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/King Tubby - Jah Is Coming In Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby - Jah Is Coming In Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby - Jah Is Coming In Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby - Jah Is Coming In Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby - Jah Is Coming In Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x497
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby - Jah Is Coming In Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/King Tubby - Jah Is Coming In Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9251/9270 Traitement de /home/zic/Reggae/Gideon All Stars - Ixes.mp3 - artist : Gideon All Stars title : Ixes album : Soul Constitution: Instrumentals & Dubs 1971 – 1982
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Gideon All Stars - Ixes.mp3 vers /home/web/bonnezic.com/album/Gideon All Stars - Ixes.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gideon All Stars - Ixes.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Gideon All Stars - Ixes.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Gideon All Stars - Ixes.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Gideon All Stars - Ixes.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Gideon All Stars - Ixes.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     9252/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Dub From The Stars.mp3 - artist : Serge Gainsbourg title : Dub from the Stars album : Mauvaises nouvelles des étoiles
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Dub From The Stars.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Dub From The Stars.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub From The Stars.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub From The Stars.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub From The Stars.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Dub From The Stars.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Dub From The Stars.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9253/9270 Traitement de /home/zic/Reggae/Mad Professor Ranking Ann - Immigration Plan.mp3 - artist : Mad Professor feat. Ranking Ann title : Immigration Plan album : 40 Years of Dub
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor Ranking Ann - Immigration Plan.mp3 vers /home/web/bonnezic.com/album/Mad Professor Ranking Ann - Immigration Plan.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor Ranking Ann - Immigration Plan.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor Ranking Ann - Immigration Plan.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor Ranking Ann - Immigration Plan.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor Ranking Ann - Immigration Plan.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Mad Professor Ranking Ann - Immigration Plan.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     9254/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Juif Et Dub.mp3 - artist : Serge Gainsbourg title : Juif et Dub album : Mauvaises nouvelles des étoiles
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Juif Et Dub.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dub.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dub.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dub.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dub.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dub.jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Juif Et Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     9255/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).mp3 - artist : Serge Gainsbourg feat. Mark Holloway & Intaleck title : Juif et Dieu album : Mauvaises nouvelles des étoiles
+2024-08-31 22:58:34 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x500
+2024-08-31 22:58:34 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).jpg
+2024-08-31 22:58:34 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Juif Et Dieu (Featuring Mark Holloway And Intaleck In Jews).mp3, not adding to no_cover.txt
+2024-08-31 22:58:34 INFO     9256/9270 Traitement de /home/zic/Reggae/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.mp3 - artist : Serge Gainsbourg title : Pas long feu album : Aux armes et cætera
+2024-08-31 22:58:34 INFO     Image extraite depuis /home/zic/Reggae/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.mp3 vers /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg
+2024-08-31 22:58:34 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg
+2024-08-31 22:58:34 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg
+2024-08-31 22:58:34 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg
+2024-08-31 22:58:34 INFO     Image dimensions: 500x456
+2024-08-31 22:58:34 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg
+2024-08-31 22:58:34 INFO     Cropping image /home/web/bonnezic.com/album/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.jpg from 500x456 to square
+2024-08-31 22:58:34 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Burning Spectacular Culture-T President B Serge Gainsbourg Spydaman Telegram - Pas Long Feu.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9257/9270 Traitement de /home/zic/Reggae/Dr.Israel Vs. Loop - Saidisyabruklinmon.mp3 - artist : Dr. Israel vs. Loop title : Saidisyabruklinmon album : DJ-Kicks: Rockers Hi-Fi: The Black Album
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Dr.Israel Vs. Loop - Saidisyabruklinmon.mp3 vers /home/web/bonnezic.com/album/Dr.Israel Vs. Loop - Saidisyabruklinmon.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dr.Israel Vs. Loop - Saidisyabruklinmon.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dr.Israel Vs. Loop - Saidisyabruklinmon.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dr.Israel Vs. Loop - Saidisyabruklinmon.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 457x450
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Dr.Israel Vs. Loop - Saidisyabruklinmon.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Dr.Israel Vs. Loop - Saidisyabruklinmon.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9258/9270 Traitement de /home/zic/Reggae/LKJ - Victorious Dub.mp3 - artist : Linton Kwesi Johnson title : Victorious Dub album : LKJ in Dub
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/LKJ - Victorious Dub.mp3 vers /home/web/bonnezic.com/album/LKJ - Victorious Dub.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/LKJ - Victorious Dub.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/LKJ - Victorious Dub.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/LKJ - Victorious Dub.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x496
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/LKJ - Victorious Dub.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/LKJ - Victorious Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9259/9270 Traitement de /home/zic/Reggae/Eek-A-Mouse - Wa-Do-Dem.mp3 - artist : Eek‐A‐Mouse title : Wa‐Do‐Dem album : Nova 24h
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Eek-A-Mouse - Wa-Do-Dem.mp3 vers /home/web/bonnezic.com/album/Eek-A-Mouse - Wa-Do-Dem.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Eek-A-Mouse - Wa-Do-Dem.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Eek-A-Mouse - Wa-Do-Dem.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Eek-A-Mouse - Wa-Do-Dem.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Eek-A-Mouse - Wa-Do-Dem.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Eek-A-Mouse - Wa-Do-Dem.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9260/9270 Traitement de /home/zic/Reggae/Frankie Paul - Worries In The Dance.mp3 - artist : Frankie Paul title : Worries in the Dance album : Nova 24h
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Frankie Paul - Worries In The Dance.mp3 vers /home/web/bonnezic.com/album/Frankie Paul - Worries In The Dance.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Frankie Paul - Worries In The Dance.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Frankie Paul - Worries In The Dance.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Frankie Paul - Worries In The Dance.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Frankie Paul - Worries In The Dance.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Frankie Paul - Worries In The Dance.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:35 INFO     9261/9270 Traitement de /home/zic/Reggae/Serge Gainsbourg - Dub Homo.mp3 - artist : Serge Gainsbourg title : Dub Homo album : Mauvaises nouvelles des étoiles
+2024-08-31 22:58:35 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Serge Gainsbourg - Dub Homo.mp3 vers /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Homo.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Homo.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Homo.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Homo.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Serge Gainsbourg - Dub Homo.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Serge Gainsbourg - Dub Homo.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9262/9270 Traitement de /home/zic/Reggae/Dubvisionist Blunt Command - Steppa.mp3 - artist : Dubvisionist/Blunt Command title : Steppa album : DV IV
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Dubvisionist Blunt Command - Steppa.mp3 vers /home/web/bonnezic.com/album/Dubvisionist Blunt Command - Steppa.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dubvisionist Blunt Command - Steppa.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dubvisionist Blunt Command - Steppa.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dubvisionist Blunt Command - Steppa.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 1400x1400
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Dubvisionist Blunt Command - Steppa.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Dubvisionist Blunt Command - Steppa.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9263/9270 Traitement de /home/zic/Reggae/Mad Professor - Your Rightsmy Rights.mp3 - artist : Mad Professor title : Your Rights/My Rights album : Dub Me Crazy, Part 1
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor - Your Rightsmy Rights.mp3 vers /home/web/bonnezic.com/album/Mad Professor - Your Rightsmy Rights.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor - Your Rightsmy Rights.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor - Your Rightsmy Rights.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor - Your Rightsmy Rights.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x496
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor - Your Rightsmy Rights.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Mad Professor - Your Rightsmy Rights.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9264/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry And The Upsett - Croaking Lizard.mp3 - artist : The Upsetters title : Croaking Lizard album : Super Ape
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry And The Upsett - Croaking Lizard.mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Croaking Lizard.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Croaking Lizard.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Croaking Lizard.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Croaking Lizard.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry And The Upsett - Croaking Lizard.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry And The Upsett - Croaking Lizard.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9265/9270 Traitement de /home/zic/Reggae/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.mp3 - artist : Serge Gainsbourg title : Vieille canaille album : Aux armes et cætera
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.mp3 vers /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x456
+2024-08-31 22:58:35 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg
+2024-08-31 22:58:35 INFO     Cropping image /home/web/bonnezic.com/album/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.jpg from 500x456 to square
+2024-08-31 22:58:35 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Culture-T Serge Gainsbourg The Spectacular - Vieille Canaille.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9266/9270 Traitement de /home/zic/Reggae/Dr. Kex Serge Gainsbourg - Planteur Punch.mp3 - artist : Serge Gainsbourg title : Planteur punch album : Aux armes et cætera
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Dr. Kex Serge Gainsbourg - Planteur Punch.mp3 vers /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x456
+2024-08-31 22:58:35 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg
+2024-08-31 22:58:35 INFO     Cropping image /home/web/bonnezic.com/album/Dr. Kex Serge Gainsbourg - Planteur Punch.jpg from 500x456 to square
+2024-08-31 22:58:35 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Dr. Kex Serge Gainsbourg - Planteur Punch.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9267/9270 Traitement de /home/zic/Reggae/George Faith - To Be A Lover (Have Some Mercy).mp3 - artist : George Faith title : To Be a Lover album : Arkology
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/George Faith - To Be A Lover (Have Some Mercy).mp3 vers /home/web/bonnezic.com/album/George Faith - To Be A Lover (Have Some Mercy).jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/George Faith - To Be A Lover (Have Some Mercy).jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/George Faith - To Be A Lover (Have Some Mercy).jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/George Faith - To Be A Lover (Have Some Mercy).jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/George Faith - To Be A Lover (Have Some Mercy).jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/George Faith - To Be A Lover (Have Some Mercy).mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:35 INFO     9268/9270 Traitement de /home/zic/Reggae/Bob Marley And The Wailers - Buffalo Soldier.mp3 - artist : Bob Marley & The Wailers title : Buffalo Soldier album : Legend
+2024-08-31 22:58:35 WARNING  Lame tag CRC check failed
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Bob Marley And The Wailers - Buffalo Soldier.mp3 vers /home/web/bonnezic.com/album/Bob Marley And The Wailers - Buffalo Soldier.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Buffalo Soldier.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Buffalo Soldier.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Bob Marley And The Wailers - Buffalo Soldier.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x497
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Bob Marley And The Wailers - Buffalo Soldier.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Bob Marley And The Wailers - Buffalo Soldier.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9269/9270 Traitement de /home/zic/Reggae/Keith Rowe - Groovy Situation.mp3 - artist : Keith Rowe title : Groovy Situation album : Arkology
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/Keith Rowe - Groovy Situation.mp3 vers /home/web/bonnezic.com/album/Keith Rowe - Groovy Situation.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Keith Rowe - Groovy Situation.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Keith Rowe - Groovy Situation.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Keith Rowe - Groovy Situation.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/Keith Rowe - Groovy Situation.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/Keith Rowe - Groovy Situation.mp3, not adding to no_cover.txt
+2024-08-31 22:58:35 INFO     9270/9270 Traitement de /home/zic/Reggae/The Meditations - No Peace.mp3 - artist : The Meditations title : No Peace album : Arkology
+2024-08-31 22:58:35 INFO     Image extraite depuis /home/zic/Reggae/The Meditations - No Peace.mp3 vers /home/web/bonnezic.com/album/The Meditations - No Peace.jpg
+2024-08-31 22:58:35 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Meditations - No Peace.jpg
+2024-08-31 22:58:35 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Meditations - No Peace.jpg
+2024-08-31 22:58:35 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Meditations - No Peace.jpg
+2024-08-31 22:58:35 INFO     Image dimensions: 500x500
+2024-08-31 22:58:35 INFO     Image already squared: /home/web/bonnezic.com/album/The Meditations - No Peace.jpg
+2024-08-31 22:58:35 INFO     Cover found for /home/zic/Reggae/The Meditations - No Peace.mp3, not adding to no_cover.txt

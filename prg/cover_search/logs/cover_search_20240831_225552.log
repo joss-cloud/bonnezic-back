@@ -1,0 +1,352 @@
+2024-08-31 22:55:52 INFO     Started
+2024-08-31 22:55:52 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:52 INFO     Spotify access token retrieved: BQDOIF_zPAeV3CPDaVmVorSolbdT2bVHRbSh_nCfEeizfmCarIjPKWfgrwGsoCMnvw6MbH-VNssRif0htIVSKTK3c_ds6irq8_Ss9CsFFDY9llRPcDo
+2024-08-31 22:55:52 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:52 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:52 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:52 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:52 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:52 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:52 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:52 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:52 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:53 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:53 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:54 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:54 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:54 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:54 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:55:54 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:55:54 INFO     1488/9270 Traitement de /home/zic/JazzWorld/Ahmad Jamal - Pots en verre.mp3 - artist : Ahmad Jamal title : Pots en verre album : Marseille
+2024-08-31 22:55:54 INFO     Spotify - Début de la recherche pour l'artiste: Ahmad Jamal, album: Marseille
+2024-08-31 22:55:54 INFO     Spotify - Requête envoyée : artist:Ahmad Jamal album:Marseille
+2024-08-31 22:55:54 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2733b2c05feff1f83212c98a511
+2024-08-31 22:55:54 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2733b2c05feff1f83212c98a511
+2024-08-31 22:55:54 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2733b2c05feff1f83212c98a511
+2024-08-31 22:55:54 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2733b2c05feff1f83212c98a511
+2024-08-31 22:55:54 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b2733b2c05feff1f83212c98a511 /home/web/bonnezic.com/spotify
+2024-08-31 22:55:54 INFO     Image /home/web/bonnezic.com/spotify/Ahmad Jamal - Pots en verre.jpg does not exist
+2024-08-31 22:55:58 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:55:58 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:55:58 INFO     Image dimensions: 640x640
+2024-08-31 22:55:58 INFO     Image already squared: /home/web/bonnezic.com/spotify/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:55:58 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:55:58 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/e15e2874f496887866335cebcb575d6d/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:55:58 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/e15e2874f496887866335cebcb575d6d/1000x1000-000000-80-0-0.jpg
+2024-08-31 22:55:58 INFO     download_image url save_directory: https://e-cdns-images.dzcdn.net/images/cover/e15e2874f496887866335cebcb575d6d/1000x1000-000000-80-0-0.jpg /home/web/bonnezic.com/deezer
+2024-08-31 22:55:58 INFO     Image /home/web/bonnezic.com/deezer/Ahmad Jamal - Pots en verre.jpg does not exist
+2024-08-31 22:56:01 INFO     Image downloaded and saved at: /home/web/bonnezic.com/deezer/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:56:01 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/deezer/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:56:01 INFO     Image dimensions: 1000x1000
+2024-08-31 22:56:01 INFO     Image already squared: /home/web/bonnezic.com/deezer/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:56:01 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Ahmad Jamal - Pots en verre.jpg
+2024-08-31 22:56:01 INFO     Cover found for /home/zic/JazzWorld/Ahmad Jamal - Pots en verre.mp3, not adding to no_cover.txt
+2024-08-31 22:56:01 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:01 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:01 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:01 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:01 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:02 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:02 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:03 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:03 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:04 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:04 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:05 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:05 WARNING  GEOB frame does not contain a mime type
+2024-08-31 22:56:05 WARNING  GEOB frame does not contain a valid mime type
+2024-08-31 22:56:05 ERROR    /home/zic/ElectroJazz/Pachworks - Summertime.mp3 No Tag Title
+2024-08-31 22:56:05 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:06 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:06 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:07 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:07 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:08 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:08 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:09 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:09 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 WARNING  GEOB frame does not contain a mime type
+2024-08-31 22:56:10 WARNING  GEOB frame does not contain a valid mime type
+2024-08-31 22:56:10 ERROR    /home/zic/RapFunk/Liquid Soul - Threadin The Needle.mp3 No Tag Title
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 WARNING  GEOB frame does not contain a mime type
+2024-08-31 22:56:10 WARNING  GEOB frame does not contain a valid mime type
+2024-08-31 22:56:10 ERROR    /home/zic/RapFunk/Liquid Soul - Threadin the Needle.mp3 No Tag Title
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:10 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:10 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:11 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:11 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:11 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:11 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:11 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:11 INFO     Spotify access token needs to be renewed.
+2024-08-31 22:56:11 INFO     Spotify access token retrieved successfully.
+2024-08-31 22:56:11 INFO     9110/9270 Traitement de /home/zic/Reggae/The Upsetters - Groovy Dub.mp3 - artist : The Upsetters title : Groovy Dub album : Arkology
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Groovy Dub.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Groovy Dub.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Groovy Dub.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Groovy Dub.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Groovy Dub.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Groovy Dub.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/The Upsetters - Groovy Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9111/9270 Traitement de /home/zic/Reggae/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.mp3 - artist : King Tubby and Augustus Pablo title : Ruler Fi Dub album : In Roots Vibes
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.mp3 vers /home/web/bonnezic.com/album/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x499
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/King Tubby Augustus Pablo - King Tubby A Ruler Fi Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9112/9270 Traitement de /home/zic/Reggae/Rizzlamigo Serge Gainsbourg - Daisy Temple.mp3 - artist : Serge Gainsbourg title : Daisy Temple album : Aux armes et cætera
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Rizzlamigo Serge Gainsbourg - Daisy Temple.mp3 vers /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x456
+2024-08-31 22:56:11 INFO     crop_image_to_square : /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg
+2024-08-31 22:56:11 INFO     Cropping image /home/web/bonnezic.com/album/Rizzlamigo Serge Gainsbourg - Daisy Temple.jpg from 500x456 to square
+2024-08-31 22:56:11 INFO     Cropping image to: left=22.0, top=0, right=478.0, bottom=456
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Rizzlamigo Serge Gainsbourg - Daisy Temple.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9113/9270 Traitement de /home/zic/Reggae/Lkj - Shocking Dub.mp3 - artist : Linton Kwesi Johnson title : Shocking Dub album : LKJ in Dub
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Shocking Dub.mp3 vers /home/web/bonnezic.com/album/Lkj - Shocking Dub.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lkj - Shocking Dub.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lkj - Shocking Dub.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lkj - Shocking Dub.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x496
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Lkj - Shocking Dub.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Lkj - Shocking Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9114/9270 Traitement de /home/zic/Reggae/Horace Andy - Children Of Israel.mp3 - artist : Horace Andy title : Children of Israel album : Skylarking
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Horace Andy - Children Of Israel.mp3 vers /home/web/bonnezic.com/album/Horace Andy - Children Of Israel.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Horace Andy - Children Of Israel.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Horace Andy - Children Of Israel.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Horace Andy - Children Of Israel.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Horace Andy - Children Of Israel.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Horace Andy - Children Of Israel.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 WARNING  Invalid date: 405
+2024-08-31 22:56:11 INFO     9115/9270 Traitement de /home/zic/Reggae/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.mp3 - artist : Lee "Scratch" Perry/Winston Mcanuff title : Jah is All We Got album : Back On The Controls - The Session Reels
+2024-08-31 22:56:11 WARNING  Invalid date: 405
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.mp3 vers /home/web/bonnezic.com/album/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 1400x1400
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Lee Scratch Perry Winston Mcanuff - Jah Is All We Got.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9116/9270 Traitement de /home/zic/Reggae/The Chantells - Natty Super (The Erb Rmx).mp3 - artist : The Chantells title : Natty Super (The Erb remix) album : Select Cuts From Blood & Fire
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/The Chantells - Natty Super (The Erb Rmx).mp3 vers /home/web/bonnezic.com/album/The Chantells - Natty Super (The Erb Rmx).jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Chantells - Natty Super (The Erb Rmx).jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Chantells - Natty Super (The Erb Rmx).jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Chantells - Natty Super (The Erb Rmx).jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x496
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/The Chantells - Natty Super (The Erb Rmx).jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/The Chantells - Natty Super (The Erb Rmx).mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9117/9270 Traitement de /home/zic/Reggae/Prince Buster And The All Stars - Al Capone.mp3 - artist : Prince Buster's All Stars title : Al Capone album : One Original Step Beyond: The Story of Ska
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Prince Buster And The All Stars - Al Capone.mp3 vers /home/web/bonnezic.com/album/Prince Buster And The All Stars - Al Capone.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Prince Buster And The All Stars - Al Capone.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Prince Buster And The All Stars - Al Capone.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Prince Buster And The All Stars - Al Capone.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Prince Buster And The All Stars - Al Capone.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Prince Buster And The All Stars - Al Capone.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9118/9270 Traitement de /home/zic/Reggae/The Upsetters - Bird In Hand.mp3 - artist : The Upsetters title : Bird in Hand album : Arkology
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Bird In Hand.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Bird In Hand.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Bird In Hand.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Bird In Hand.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Bird In Hand.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Bird In Hand.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/The Upsetters - Bird In Hand.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9119/9270 Traitement de /home/zic/Reggae/Dubvisionist - Two Drop Dub.mp3 - artist : Dubvisionist title : Two Drop Dub album : DV IV
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Dubvisionist - Two Drop Dub.mp3 vers /home/web/bonnezic.com/album/Dubvisionist - Two Drop Dub.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dubvisionist - Two Drop Dub.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dubvisionist - Two Drop Dub.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dubvisionist - Two Drop Dub.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 1400x1400
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Dubvisionist - Two Drop Dub.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Dubvisionist - Two Drop Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9120/9270 Traitement de /home/zic/Reggae/Mad Professor - Lambeth Walk.mp3 - artist : Mad Professor title : Lambeth Walk album : 40 Years of Dub
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Mad Professor - Lambeth Walk.mp3 vers /home/web/bonnezic.com/album/Mad Professor - Lambeth Walk.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mad Professor - Lambeth Walk.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Mad Professor - Lambeth Walk.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Mad Professor - Lambeth Walk.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Mad Professor - Lambeth Walk.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Mad Professor - Lambeth Walk.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9121/9270 Traitement de /home/zic/Reggae/The Upsetters - Grumblin  Dub.mp3 - artist : The Upsetters title : Grumblin' Dub album : Arkology
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/The Upsetters - Grumblin  Dub.mp3 vers /home/web/bonnezic.com/album/The Upsetters - Grumblin  Dub.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Upsetters - Grumblin  Dub.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/The Upsetters - Grumblin  Dub.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/The Upsetters - Grumblin  Dub.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/The Upsetters - Grumblin  Dub.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/The Upsetters - Grumblin  Dub.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9122/9270 Traitement de /home/zic/Reggae/Fat Freddy S Drop - Roady.mp3 - artist : Fat Freddy's Drop title : Roady album : Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Fat Freddy S Drop - Roady.mp3 vers /home/web/bonnezic.com/album/Fat Freddy S Drop - Roady.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Fat Freddy S Drop - Roady.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Fat Freddy S Drop - Roady.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Fat Freddy S Drop - Roady.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 1400x1400
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Fat Freddy S Drop - Roady.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Fat Freddy S Drop - Roady.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9123/9270 Traitement de /home/zic/Reggae/Dub Farm - Jah Witness.mp3 - artist : Dub Farm title : Jah Witness album : Roots of Dub Funk 2: Return to the Pressure
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Dub Farm - Jah Witness.mp3 vers /home/web/bonnezic.com/album/Dub Farm - Jah Witness.jpg
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dub Farm - Jah Witness.jpg
+2024-08-31 22:56:11 INFO     Start ResizeDownloadImg.verify_and_resize_image img_file_full : /home/web/bonnezic.com/album/Dub Farm - Jah Witness.jpg
+2024-08-31 22:56:11 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/album/Dub Farm - Jah Witness.jpg
+2024-08-31 22:56:11 INFO     Image dimensions: 500x500
+2024-08-31 22:56:11 INFO     Image already squared: /home/web/bonnezic.com/album/Dub Farm - Jah Witness.jpg
+2024-08-31 22:56:11 INFO     Cover found for /home/zic/Reggae/Dub Farm - Jah Witness.mp3, not adding to no_cover.txt
+2024-08-31 22:56:11 INFO     9124/9270 Traitement de /home/zic/Reggae/Lkj - Guyanese Dub.mp3 - artist : Linton Kwesi Johnson title : Guyanese Dub album : LKJ in Dub, Volume Two
+2024-08-31 22:56:11 INFO     Image extraite depuis /home/zic/Reggae/Lkj - Guyanese Dub.mp3 vers /home/web/bonnezic.com/album/Lkj - Guyanese Dub.jpg
+2024-08-31 22:56:11 INFO     Image /home/web/bonnezic.com/album/Lkj - Guyanese Dub.jpg trop petite (300x300)
+2024-08-31 22:56:11 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-31 22:56:11 INFO     Spotify - Début de la recherche pour l'artiste: Linton Kwesi Johnson, album: LKJ in Dub, Volume Two
+2024-08-31 22:56:11 INFO     Spotify - Requête envoyée : artist:Linton Kwesi Johnson album:LKJ in Dub, Volume Two
+2024-08-31 22:56:12 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:56:12 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:56:12 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:56:12 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6
+2024-08-31 22:56:12 INFO     download_image url save_directory: https://i.scdn.co/image/ab67616d0000b273b6c3678cb50f03b338bd4ff6 /home/web/bonnezic.com/spotify
+2024-08-31 22:56:12 INFO     Image /home/web/bonnezic.com/spotify/Lkj - Guyanese Dub.jpg does not exist
+2024-08-31 22:56:15 INFO     Image downloaded and saved at: /home/web/bonnezic.com/spotify/Lkj - Guyanese Dub.jpg
+2024-08-31 22:56:15 INFO     verify_and_resize_image image_path : /home/web/bonnezic.com/spotify/Lkj - Guyanese Dub.jpg
+2024-08-31 22:56:15 INFO     Image dimensions: 640x640
+2024-08-31 22:56:15 INFO     Image already squared: /home/web/bonnezic.com/spotify/Lkj - Guyanese Dub.jpg
+2024-08-31 22:56:15 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lkj - Guyanese Dub.jpg
+2024-08-31 22:56:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:56:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-31 22:56:15 WARNING  Deezer - Aucun résultat trouvé.

@@ -1,0 +1,108 @@
+2024-08-30 19:38:24 INFO     Started
+2024-08-30 19:38:24 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:24 INFO     Spotify access token retrieved: BQAtx8XnlBcoeKP0UaM5PydULjqjabaGR0pEe7yrxlyrEUDkZ0_UFDZCm3d0DpuEng0fHXtarVw0Rv_T6aHcS_xpA-BCh1Lrxo3Cm7Ktp9jtafyFpOk
+2024-08-30 19:38:24 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:24 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:24 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:25 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:25 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:25 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:25 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:25 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:25 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:25 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:25 INFO     Spotify access token needs to be renewed.
+2024-08-30 19:38:25 INFO     Spotify access token retrieved successfully.
+2024-08-30 19:38:25 INFO     620/9270 Traitement de /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 - artist : Francesco De Masi title : The Blue Boat album : Piombo rovente
+2024-08-30 19:38:25 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg
+2024-08-30 19:38:25 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg trop petite (348x353)
+2024-08-30 19:38:25 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 19:38:25 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Piombo rovente
+2024-08-30 19:38:25 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Piombo rovente
+2024-08-30 19:38:26 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-30 19:38:26 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-30 19:38:26 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-30 19:38:26 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-30 19:38:26 INFO     L'image /home/web/bonnezic.com/spotify/Francesco De Masi - The Blue Boat.jpg n'existe pas
+2024-08-30 19:38:29 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Francesco De Masi - The Blue Boat.jpg
+2024-08-30 19:38:29 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 19:38:29 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Francesco De Masi - The Blue Boat.jpg
+2024-08-30 19:38:29 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:29 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:29 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/07f5c62d4537aa96e1466f64aefc4702/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:29 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/07f5c62d4537aa96e1466f64aefc4702/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:29 INFO     L'image /home/web/bonnezic.com/deezer/Francesco De Masi - The Blue Boat.jpg n'existe pas
+2024-08-30 19:38:33 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/deezer/Francesco De Masi - The Blue Boat.jpg
+2024-08-30 19:38:33 INFO     Dimensions originales de l'image : 1000x1000
+2024-08-30 19:38:33 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Francesco De Masi - The Blue Boat.jpg
+2024-08-30 19:38:33 INFO     Cover found for /home/zic/BO/Francesco De Masi - The Blue Boat.mp3, not adding to no_cover.txt
+2024-08-30 19:38:33 INFO     639/9270 Traitement de /home/zic/BO/Ennio Morricone - A Lidia.mp3 - artist : Ennio Morricone title : A lidia: Finale album : Scusi, facciamo l'amore?
+2024-08-30 19:38:33 INFO     Image extraite depuis /home/zic/BO/Ennio Morricone - A Lidia.mp3 vers /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg
+2024-08-30 19:38:33 INFO     Image /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg trop petite (355x352)
+2024-08-30 19:38:33 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 19:38:33 INFO     Spotify - Début de la recherche pour l'artiste: Ennio Morricone, album: Scusi, facciamo l'amore?
+2024-08-30 19:38:33 INFO     Spotify - Requête envoyée : artist:Ennio Morricone album:Scusi, facciamo l'amore?
+2024-08-30 19:38:34 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-30 19:38:34 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-30 19:38:34 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-30 19:38:34 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-30 19:38:34 INFO     L'image /home/web/bonnezic.com/spotify/Ennio Morricone - A Lidia.jpg n'existe pas
+2024-08-30 19:38:37 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Ennio Morricone - A Lidia.jpg
+2024-08-30 19:38:37 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 19:38:37 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Ennio Morricone - A Lidia.jpg
+2024-08-30 19:38:37 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-30 19:38:37 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-30 19:38:38 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/b0b8539291c2619a5fdb486f88f01f0b/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:38 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/b0b8539291c2619a5fdb486f88f01f0b/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:38 INFO     L'image /home/web/bonnezic.com/deezer/Ennio Morricone - A Lidia.jpg n'existe pas
+2024-08-30 19:38:41 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/deezer/Ennio Morricone - A Lidia.jpg
+2024-08-30 19:38:41 INFO     Dimensions originales de l'image : 1000x1000
+2024-08-30 19:38:41 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Ennio Morricone - A Lidia.jpg
+2024-08-30 19:38:41 INFO     Cover found for /home/zic/BO/Ennio Morricone - A Lidia.mp3, not adding to no_cover.txt
+2024-08-30 19:38:41 INFO     667/9270 Traitement de /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3 - artist : The Mighty Pop title : AudioTrack 16 album : L'Homme Qui Valait Les 3 Milliards
+2024-08-30 19:38:41 INFO     Spotify - Début de la recherche pour l'artiste: The Mighty Pop, album: L'Homme Qui Valait Les 3 Milliards
+2024-08-30 19:38:41 INFO     Spotify - Requête envoyée : artist:The Mighty Pop album:L'Homme Qui Valait Les 3 Milliards
+2024-08-30 19:38:42 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2738a57bbf83a346099d59b908a
+2024-08-30 19:38:42 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2738a57bbf83a346099d59b908a
+2024-08-30 19:38:42 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2738a57bbf83a346099d59b908a
+2024-08-30 19:38:42 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2738a57bbf83a346099d59b908a
+2024-08-30 19:38:42 INFO     L'image /home/web/bonnezic.com/spotify/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.jpg n'existe pas
+2024-08-30 19:38:45 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.jpg
+2024-08-30 19:38:45 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 19:38:45 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.jpg
+2024-08-30 19:38:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:45 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:46 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:46 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:46 INFO     Cover found for /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3, not adding to no_cover.txt
+2024-08-30 19:38:46 INFO     694/9270 Traitement de /home/zic/BO/Lalo Schifrin - Theme From Medical Center.mp3 - artist : Lalo Schifrin title : Theme From 'Medical Center' - Medical Center (TV) album : Mission: Impossible... And More!
+2024-08-30 19:38:46 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: Mission: Impossible... And More!
+2024-08-30 19:38:46 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:Mission: Impossible... And More!
+2024-08-30 19:38:47 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-30 19:38:47 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-30 19:38:47 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-30 19:38:47 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-30 19:38:47 INFO     L'image /home/web/bonnezic.com/spotify/Lalo Schifrin - Theme From Medical Center.jpg n'existe pas
+2024-08-30 19:38:50 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Lalo Schifrin - Theme From Medical Center.jpg
+2024-08-30 19:38:50 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 19:38:50 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Lalo Schifrin - Theme From Medical Center.jpg
+2024-08-30 19:38:50 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:50 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 19:38:50 INFO     Deezer - album url : https://e-cdns-images.dzcdn.net/images/cover/ca7c79e5fcea4f1c7eea49130a71161f/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:50 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ca7c79e5fcea4f1c7eea49130a71161f/1000x1000-000000-80-0-0.jpg
+2024-08-30 19:38:50 INFO     L'image /home/web/bonnezic.com/deezer/Lalo Schifrin - Theme From Medical Center.jpg n'existe pas
+2024-08-30 19:38:54 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/deezer/Lalo Schifrin - Theme From Medical Center.jpg
+2024-08-30 19:38:54 INFO     Dimensions originales de l'image : 1000x1000
+2024-08-30 19:38:54 INFO     L'image Deezer est valide et a été sauvegardée : /home/web/bonnezic.com/deezer/Lalo Schifrin - Theme From Medical Center.jpg
+2024-08-30 19:38:54 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Theme From Medical Center.mp3, not adding to no_cover.txt
+2024-08-30 19:38:54 INFO     697/9270 Traitement de /home/zic/BO/Guidoand Maurizio De Angelis - The Other Face 9.mp3 - artist : Guido e Maurizio De Angelis title : The Other Face (9) album : Piombo rovente
+2024-08-30 19:38:54 INFO     Image extraite depuis /home/zic/BO/Guidoand Maurizio De Angelis - The Other Face 9.mp3 vers /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - The Other Face 9.jpg
+2024-08-30 19:38:54 INFO     Image /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - The Other Face 9.jpg trop petite (348x353)
+2024-08-30 19:38:54 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 19:38:54 INFO     Spotify - Début de la recherche pour l'artiste: Guido e Maurizio De Angelis, album: Piombo rovente
+2024-08-30 19:38:54 INFO     Spotify - Requête envoyée : artist:Guido e Maurizio De Angelis album:Piombo rovente
+2024-08-30 19:38:54 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-30 19:38:54 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-30 19:38:54 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-30 19:38:54 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-30 19:38:54 INFO     L'image /home/web/bonnezic.com/spotify/Guidoand Maurizio De Angelis - The Other Face 9.jpg n'existe pas

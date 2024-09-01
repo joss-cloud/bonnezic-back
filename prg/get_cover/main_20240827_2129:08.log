@@ -1,0 +1,37 @@
+2024-08-27 21:29:08 INFO     Started
+2024-08-27 21:29:09 INFO     116/9270 Traitement de /home/zic/Mix11/Super Preachers - Smell Of Diesel.mp3
+2024-08-27 21:29:09 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 21:29:09 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 21:29:09 INFO     Statut de la réponse : 200
+2024-08-27 21:29:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:09 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:12 INFO     166/9270 Traitement de /home/zic/Mix11/Super Preachers - Barracuda.mp3
+2024-08-27 21:29:12 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 21:29:12 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 21:29:12 INFO     Statut de la réponse : 200
+2024-08-27 21:29:12 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:12 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:15 INFO     170/9270 Traitement de /home/zic/Mix11/Super Preachers - The Blood Train.mp3
+2024-08-27 21:29:15 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 21:29:16 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 21:29:16 INFO     Statut de la réponse : 200
+2024-08-27 21:29:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:16 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:19 INFO     207/9270 Traitement de /home/zic/Mix11/Super Preachers - New Old School.mp3
+2024-08-27 21:29:19 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 21:29:19 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 21:29:19 INFO     Statut de la réponse : 200
+2024-08-27 21:29:19 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:19 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:22 INFO     214/9270 Traitement de /home/zic/Mix11/Super Preachers - Hands Up.mp3
+2024-08-27 21:29:22 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 21:29:22 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 21:29:22 INFO     Statut de la réponse : 200
+2024-08-27 21:29:22 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:22 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:25 INFO     976/9270 Traitement de /home/zic/JazzWorld/Squarepusher - Theme From Sprite.mp3
+2024-08-27 21:29:25 INFO     Deezer query artist:"Squarepusher" album"Hello Everything"
+2024-08-27 21:29:26 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Squarepusher%2522%2520album%2522Hello%2520Everything%2522
+2024-08-27 21:29:26 INFO     Statut de la réponse : 200
+2024-08-27 21:29:26 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cd2a42b6000f87ce50a69e4c336c9134/500x500-000000-80-0-0.jpg
+2024-08-27 21:29:26 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/cd2a42b6000f87ce50a69e4c336c9134/500x500-000000-80-0-0.jpg

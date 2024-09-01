@@ -1,0 +1,217 @@
+2024-08-29 17:39:01 INFO     Started
+2024-08-29 17:39:01 INFO     Spotify access token retrieved successfully.
+2024-08-29 17:39:01 INFO     Spotify access token retrieved: BQCX96_QWdJf9NFSNJy8KzkBPxwWHL79_if1TNFZTYZ-eCsyYIwG5q0GGR6OPAJu4dmRzIUXTNMTPp89SE3Urf6HrcLn_KpCNxJdR2AH1ksjMsRNFdw
+2024-08-29 17:39:02 INFO     574/9270 Traitement de /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3 - artist : Francesco De Masi title : Smooth Thrill album : Piombo rovente
+2024-08-29 17:39:02 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - Smooth Thrill.jpg
+2024-08-29 17:39:02 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - Smooth Thrill.jpg trop petite (348x353)
+2024-08-29 17:39:02 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:02 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Piombo rovente
+2024-08-29 17:39:02 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Piombo rovente
+2024-08-29 17:39:02 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:02 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:02 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Francesco De Masi - Smooth Thrill.jpg
+2024-08-29 17:39:02 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:03 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:03 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:03 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:03 INFO     Cover found for /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3, not adding to no_cover.txt
+2024-08-29 17:39:03 INFO     618/9270 Traitement de /home/zic/BO/Lalo Schifrin - Mission Impossible Theme.mp3 - artist : Lalo Schifrin title : Mission Impossible album : This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:39:03 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:39:03 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:39:03 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:39:03 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:39:03 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:39:03 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Mission Impossible Theme.jpg
+2024-08-29 17:39:04 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:04 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:04 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:04 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:04 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Mission Impossible Theme.mp3, not adding to no_cover.txt
+2024-08-29 17:39:04 INFO     620/9270 Traitement de /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 - artist : Francesco De Masi title : The Blue Boat album : Piombo rovente
+2024-08-29 17:39:04 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg
+2024-08-29 17:39:04 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg trop petite (348x353)
+2024-08-29 17:39:04 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:04 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Piombo rovente
+2024-08-29 17:39:04 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Piombo rovente
+2024-08-29 17:39:05 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:05 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:05 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:39:05 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Francesco De Masi - The Blue Boat.jpg
+2024-08-29 17:39:05 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:05 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:05 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:06 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:06 INFO     Cover found for /home/zic/BO/Francesco De Masi - The Blue Boat.mp3, not adding to no_cover.txt
+2024-08-29 17:39:06 INFO     639/9270 Traitement de /home/zic/BO/Ennio Morricone - A Lidia.mp3 - artist : Ennio Morricone title : A lidia: Finale album : Scusi, facciamo l'amore?
+2024-08-29 17:39:06 INFO     Image extraite depuis /home/zic/BO/Ennio Morricone - A Lidia.mp3 vers /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg
+2024-08-29 17:39:06 INFO     Image /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg trop petite (355x352)
+2024-08-29 17:39:06 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:06 INFO     Spotify - Début de la recherche pour l'artiste: Ennio Morricone, album: Scusi, facciamo l'amore?
+2024-08-29 17:39:06 INFO     Spotify - Requête envoyée : artist:Ennio Morricone album:Scusi, facciamo l'amore?
+2024-08-29 17:39:07 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:39:07 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:39:07 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:39:07 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Ennio Morricone - A Lidia.jpg
+2024-08-29 17:39:07 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-29 17:39:07 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-29 17:39:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:07 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:07 INFO     Cover found for /home/zic/BO/Ennio Morricone - A Lidia.mp3, not adding to no_cover.txt
+2024-08-29 17:39:07 INFO     667/9270 Traitement de /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3 - artist : The Mighty Pop title : AudioTrack 16 album : L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:39:07 INFO     Spotify - Début de la recherche pour l'artiste: The Mighty Pop, album: L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:39:07 INFO     Spotify - Requête envoyée : artist:The Mighty Pop album:L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:39:08 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:39:08 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:39:08 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:39:08 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.jpg
+2024-08-29 17:39:08 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:08 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:08 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:09 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:09 INFO     Cover found for /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3, not adding to no_cover.txt
+2024-08-29 17:39:09 INFO     694/9270 Traitement de /home/zic/BO/Lalo Schifrin - Theme From Medical Center.mp3 - artist : Lalo Schifrin title : Theme From 'Medical Center' - Medical Center (TV) album : Mission: Impossible... And More!
+2024-08-29 17:39:09 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: Mission: Impossible... And More!
+2024-08-29 17:39:09 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:Mission: Impossible... And More!
+2024-08-29 17:39:09 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:39:09 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:39:09 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:39:09 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Theme From Medical Center.jpg
+2024-08-29 17:39:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:10 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Theme From Medical Center.mp3, not adding to no_cover.txt
+2024-08-29 17:39:10 INFO     697/9270 Traitement de /home/zic/BO/Guidoand Maurizio De Angelis - The Other Face 9.mp3 - artist : Guido e Maurizio De Angelis title : The Other Face (9) album : Piombo rovente
+2024-08-29 17:39:10 INFO     Image extraite depuis /home/zic/BO/Guidoand Maurizio De Angelis - The Other Face 9.mp3 vers /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - The Other Face 9.jpg
+2024-08-29 17:39:10 INFO     Image /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - The Other Face 9.jpg trop petite (348x353)
+2024-08-29 17:39:10 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:10 INFO     Spotify - Début de la recherche pour l'artiste: Guido e Maurizio De Angelis, album: Piombo rovente
+2024-08-29 17:39:10 INFO     Spotify - Requête envoyée : artist:Guido e Maurizio De Angelis album:Piombo rovente
+2024-08-29 17:39:11 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:11 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:11 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:11 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Guidoand Maurizio De Angelis - The Other Face 9.jpg
+2024-08-29 17:39:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:11 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:11 INFO     Cover found for /home/zic/BO/Guidoand Maurizio De Angelis - The Other Face 9.mp3, not adding to no_cover.txt
+2024-08-29 17:39:11 INFO     720/9270 Traitement de /home/zic/BO/Lalo Schifrin - Scorpio S Theme.mp3 - artist : Lalo Schifrin title : Scorpio's Theme album : Dirty Harry Anthology
+2024-08-29 17:39:11 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: Dirty Harry Anthology
+2024-08-29 17:39:11 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:Dirty Harry Anthology
+2024-08-29 17:39:12 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27374168a26387da7a542d68d6a
+2024-08-29 17:39:12 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27374168a26387da7a542d68d6a
+2024-08-29 17:39:12 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27374168a26387da7a542d68d6a
+2024-08-29 17:39:12 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Scorpio S Theme.jpg
+2024-08-29 17:39:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:13 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Scorpio S Theme.mp3, not adding to no_cover.txt
+2024-08-29 17:39:13 INFO     721/9270 Traitement de /home/zic/BO/Lalo Schifrin - Main Title.mp3 - artist : Lalo Schifrin title : Main Title album : Abominable
+2024-08-29 17:39:13 INFO     Image extraite depuis /home/zic/BO/Lalo Schifrin - Main Title.mp3 vers /home/web/bonnezic.com/album/Lalo Schifrin - Main Title.jpg
+2024-08-29 17:39:13 INFO     Image /home/web/bonnezic.com/album/Lalo Schifrin - Main Title.jpg trop petite (200x200)
+2024-08-29 17:39:13 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:13 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: Abominable
+2024-08-29 17:39:13 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:Abominable
+2024-08-29 17:39:13 WARNING  Spotify - Aucun résultat trouvé.
+2024-08-29 17:39:13 INFO     Spotify - Recherche par album échouée, tentative de recherche par titre.
+2024-08-29 17:39:13 INFO     Spotify track album url : https://i.scdn.co/image/ab67616d0000b27398a12d284b677e9a018dc05b
+2024-08-29 17:39:13 INFO     Spotify - Titre trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27398a12d284b677e9a018dc05b
+2024-08-29 17:39:13 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27398a12d284b677e9a018dc05b
+2024-08-29 17:39:13 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Main Title.jpg
+2024-08-29 17:39:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:14 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Main Title.mp3, not adding to no_cover.txt
+2024-08-29 17:39:14 WARNING  Lame tag CRC check failed
+2024-08-29 17:39:14 INFO     723/9270 Traitement de /home/zic/BO/Roy Budd - Discovery.mp3 - artist : Roy Budd title : Discovery album : Black Windmill
+2024-08-29 17:39:14 WARNING  Lame tag CRC check failed
+2024-08-29 17:39:14 INFO     Image extraite depuis /home/zic/BO/Roy Budd - Discovery.mp3 vers /home/web/bonnezic.com/album/Roy Budd - Discovery.jpg
+2024-08-29 17:39:14 INFO     Image /home/web/bonnezic.com/album/Roy Budd - Discovery.jpg trop petite (232x320)
+2024-08-29 17:39:14 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:14 INFO     Spotify - Début de la recherche pour l'artiste: Roy Budd, album: Black Windmill
+2024-08-29 17:39:14 INFO     Spotify - Requête envoyée : artist:Roy Budd album:Black Windmill
+2024-08-29 17:39:15 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273407d854ec15648eda1803e7b
+2024-08-29 17:39:15 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273407d854ec15648eda1803e7b
+2024-08-29 17:39:15 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273407d854ec15648eda1803e7b
+2024-08-29 17:39:15 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Roy Budd - Discovery.jpg
+2024-08-29 17:39:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:16 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:16 INFO     Cover found for /home/zic/BO/Roy Budd - Discovery.mp3, not adding to no_cover.txt
+2024-08-29 17:39:16 INFO     737/9270 Traitement de /home/zic/BO/Quincy Jones - Snow Creatures.mp3 - artist : Quincy Jones title : Snow Creatures album : Dusty Fingers, Volume 2
+2024-08-29 17:39:16 INFO     Image extraite depuis /home/zic/BO/Quincy Jones - Snow Creatures.mp3 vers /home/web/bonnezic.com/album/Quincy Jones - Snow Creatures.jpg
+2024-08-29 17:39:16 INFO     Image /home/web/bonnezic.com/album/Quincy Jones - Snow Creatures.jpg trop petite (350x351)
+2024-08-29 17:39:16 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:16 INFO     Spotify - Début de la recherche pour l'artiste: Quincy Jones, album: Dusty Fingers, Volume 2
+2024-08-29 17:39:16 INFO     Spotify - Requête envoyée : artist:Quincy Jones album:Dusty Fingers, Volume 2
+2024-08-29 17:39:16 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937
+2024-08-29 17:39:16 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937
+2024-08-29 17:39:16 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937
+2024-08-29 17:39:16 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Quincy Jones - Snow Creatures.jpg
+2024-08-29 17:39:16 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:17 INFO     Cover found for /home/zic/BO/Quincy Jones - Snow Creatures.mp3, not adding to no_cover.txt
+2024-08-29 17:39:17 INFO     745/9270 Traitement de /home/zic/BO/Guidoand Maurizio De Angelis - Gangster Story.mp3 - artist : Guido e Maurizio De Angelis title : Gangster Story album : Piombo rovente
+2024-08-29 17:39:17 INFO     Image extraite depuis /home/zic/BO/Guidoand Maurizio De Angelis - Gangster Story.mp3 vers /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - Gangster Story.jpg
+2024-08-29 17:39:17 INFO     Image /home/web/bonnezic.com/album/Guidoand Maurizio De Angelis - Gangster Story.jpg trop petite (348x353)
+2024-08-29 17:39:17 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:17 INFO     Spotify - Début de la recherche pour l'artiste: Guido e Maurizio De Angelis, album: Piombo rovente
+2024-08-29 17:39:17 INFO     Spotify - Requête envoyée : artist:Guido e Maurizio De Angelis album:Piombo rovente
+2024-08-29 17:39:18 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:18 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:18 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273eb655ffc2c4ef872c13af536
+2024-08-29 17:39:18 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Guidoand Maurizio De Angelis - Gangster Story.jpg
+2024-08-29 17:39:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:19 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:19 INFO     Cover found for /home/zic/BO/Guidoand Maurizio De Angelis - Gangster Story.mp3, not adding to no_cover.txt
+2024-08-29 17:39:19 INFO     747/9270 Traitement de /home/zic/BO/Francesco De Masi - The Stranger Lady.mp3 - artist : Francesco De Masi title : Napoli spara!: Innocent album : Roma violenta / Napoli violenta / Napoli spara! / Italia a mano armata
+2024-08-29 17:39:19 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - The Stranger Lady.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - The Stranger Lady.jpg
+2024-08-29 17:39:19 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - The Stranger Lady.jpg trop petite (300x295)
+2024-08-29 17:39:19 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:39:19 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Roma violenta / Napoli violenta / Napoli spara! / Italia a mano armata
+2024-08-29 17:39:19 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Roma violenta / Napoli violenta / Napoli spara! / Italia a mano armata
+2024-08-29 17:39:19 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2737d44d392b5f7a2e7aac7c2fc
+2024-08-29 17:39:19 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2737d44d392b5f7a2e7aac7c2fc
+2024-08-29 17:39:19 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2737d44d392b5f7a2e7aac7c2fc
+2024-08-29 17:39:19 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Francesco De Masi - The Stranger Lady.jpg
+2024-08-29 17:39:19 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:20 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:20 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:20 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:20 INFO     Cover found for /home/zic/BO/Francesco De Masi - The Stranger Lady.mp3, not adding to no_cover.txt
+2024-08-29 17:39:20 INFO     797/9270 Traitement de /home/zic/JazzWorld/Jack De Johnette And Foday Musa - Party.mp3 - artist : Jack DeJohnette & Foday Musa Suso title : Party album : Music From the Hearts of the Masters
+2024-08-29 17:39:20 INFO     Spotify - Début de la recherche pour l'artiste: Jack DeJohnette & Foday Musa Suso, album: Music From the Hearts of the Masters
+2024-08-29 17:39:20 INFO     Spotify - Requête envoyée : artist:Jack DeJohnette & Foday Musa Suso album:Music From the Hearts of the Masters
+2024-08-29 17:39:21 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273657af567806bc81f7b96f139
+2024-08-29 17:39:21 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273657af567806bc81f7b96f139
+2024-08-29 17:39:21 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273657af567806bc81f7b96f139
+2024-08-29 17:39:21 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Jack De Johnette And Foday Musa - Party.jpg
+2024-08-29 17:39:21 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:21 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:21 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:21 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:21 INFO     Cover found for /home/zic/JazzWorld/Jack De Johnette And Foday Musa - Party.mp3, not adding to no_cover.txt
+2024-08-29 17:39:21 INFO     801/9270 Traitement de /home/zic/JazzWorld/Eddie Henderson - Prince Of Darkness.mp3 - artist : Eddie Henderson title : Prince Of Darkness album : So What
+2024-08-29 17:39:21 INFO     Spotify - Début de la recherche pour l'artiste: Eddie Henderson, album: So What
+2024-08-29 17:39:21 INFO     Spotify - Requête envoyée : artist:Eddie Henderson album:So What
+2024-08-29 17:39:22 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273337bc22abc6e9ca49e72881c
+2024-08-29 17:39:22 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273337bc22abc6e9ca49e72881c
+2024-08-29 17:39:22 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273337bc22abc6e9ca49e72881c
+2024-08-29 17:39:22 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Eddie Henderson - Prince Of Darkness.jpg
+2024-08-29 17:39:22 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:22 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:22 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:23 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:39:23 INFO     Cover found for /home/zic/JazzWorld/Eddie Henderson - Prince Of Darkness.mp3, not adding to no_cover.txt
+2024-08-29 17:39:23 INFO     803/9270 Traitement de /home/zic/JazzWorld/Leon Spencer Jr - Louisiana Slim.mp3 - artist : Leon Spencer title : Louisiana slim album : Jazz Dance Classics
+2024-08-29 17:39:23 INFO     Spotify - Début de la recherche pour l'artiste: Leon Spencer, album: Jazz Dance Classics
+2024-08-29 17:39:23 INFO     Spotify - Requête envoyée : artist:Leon Spencer album:Jazz Dance Classics

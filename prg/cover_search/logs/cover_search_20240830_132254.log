@@ -1,0 +1,122 @@
+2024-08-30 13:22:54 INFO     Started
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved: BQAjbGbqxovacATHfAdkZZQmlo-KHmm9oYvljd6xjyB15V_jmt4k0aoiuoOb9G1g1Uan2C90FP6DYYzpqns7j7k_2LcMrYp3rd7KIDQAdFwPkRHjUOQ
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:55 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:55 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     Spotify access token needs to be renewed.
+2024-08-30 13:22:56 INFO     Spotify access token retrieved successfully.
+2024-08-30 13:22:56 INFO     1420/9270 Traitement de /home/zic/JazzWorld/Thelonious Monk - Think of One.mp3 - artist : Thelonious Monk title : Think of One album : Criss-Cross
+2024-08-30 13:22:56 INFO     Image extraite depuis /home/zic/JazzWorld/Thelonious Monk - Think of One.mp3 vers /home/web/bonnezic.com/album/Thelonious Monk - Think of One.jpg
+2024-08-30 13:22:56 INFO     Image /home/web/bonnezic.com/album/Thelonious Monk - Think of One.jpg trop petite (250x249)
+2024-08-30 13:22:56 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 13:22:56 INFO     Spotify - Début de la recherche pour l'artiste: Thelonious Monk, album: Criss-Cross
+2024-08-30 13:22:56 INFO     Spotify - Requête envoyée : artist:Thelonious Monk album:Criss-Cross
+2024-08-30 13:22:57 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27316272e3ef5368f8db98ddfbd
+2024-08-30 13:22:57 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27316272e3ef5368f8db98ddfbd
+2024-08-30 13:22:57 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27316272e3ef5368f8db98ddfbd
+2024-08-30 13:22:57 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27316272e3ef5368f8db98ddfbd
+2024-08-30 13:22:57 INFO     L'image /home/web/bonnezic.com/spotify/Thelonious Monk - Think of One.jpg n'existe pas
+2024-08-30 13:23:00 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Thelonious Monk - Think of One.jpg
+2024-08-30 13:23:00 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 13:23:00 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Thelonious Monk - Think of One.jpg
+2024-08-30 13:23:00 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:01 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:01 INFO     Cover found for /home/zic/JazzWorld/Thelonious Monk - Think of One.mp3, not adding to no_cover.txt
+2024-08-30 13:23:01 INFO     1421/9270 Traitement de /home/zic/JazzWorld/Quincy Jones And Herbie Hancook - One And Awak.mp3 - artist : Quincy Jones & Herbie Hancock title : One & Awake album : Backtracks
+2024-08-30 13:23:01 INFO     Image extraite depuis /home/zic/JazzWorld/Quincy Jones And Herbie Hancook - One And Awak.mp3 vers /home/web/bonnezic.com/album/Quincy Jones And Herbie Hancook - One And Awak.jpg
+2024-08-30 13:23:01 INFO     Image /home/web/bonnezic.com/album/Quincy Jones And Herbie Hancook - One And Awak.jpg trop petite (300x300)
+2024-08-30 13:23:01 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 13:23:01 INFO     Spotify - Début de la recherche pour l'artiste: Quincy Jones & Herbie Hancock, album: Backtracks
+2024-08-30 13:23:01 INFO     Spotify - Requête envoyée : artist:Quincy Jones & Herbie Hancock album:Backtracks
+2024-08-30 13:23:02 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 13:23:02 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 13:23:02 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 13:23:02 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2733d916873fc3831d3f7d5e306
+2024-08-30 13:23:02 INFO     L'image /home/web/bonnezic.com/spotify/Quincy Jones And Herbie Hancook - One And Awak.jpg n'existe pas
+2024-08-30 13:23:05 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Quincy Jones And Herbie Hancook - One And Awak.jpg
+2024-08-30 13:23:05 INFO     Dimensions originales de l'image : 640x635
+2024-08-30 13:23:05 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Quincy Jones And Herbie Hancook - One And Awak.jpg
+2024-08-30 13:23:05 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Quincy Jones And Herbie Hancook - One And Awak.jpg
+2024-08-30 13:23:05 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:06 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:06 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:06 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Quincy Jones And Herbie Hancook - One And Awak.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1422/9270 Traitement de /home/zic/JazzWorld/Miles Davis And Chet Baker - Milestones.mp3 - artist : Chet Baker title : Milestones album : Chet Baker - The Jazz Masters
+2024-08-30 13:23:06 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis And Chet Baker - Milestones.mp3 vers /home/web/bonnezic.com/album/Miles Davis And Chet Baker - Milestones.jpg
+2024-08-30 13:23:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis And Chet Baker - Milestones.jpg
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Miles Davis And Chet Baker - Milestones.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1423/9270 Traitement de /home/zic/JazzWorld/Christian Scott Atunde Adjuah - The Horizon.mp3 - artist : Christian Scott aTunde Adjuah title : The Horizon album : Stretch Music
+2024-08-30 13:23:06 INFO     Image extraite depuis /home/zic/JazzWorld/Christian Scott Atunde Adjuah - The Horizon.mp3 vers /home/web/bonnezic.com/album/Christian Scott Atunde Adjuah - The Horizon.jpg
+2024-08-30 13:23:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Christian Scott Atunde Adjuah - The Horizon.jpg
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Christian Scott Atunde Adjuah - The Horizon.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1424/9270 Traitement de /home/zic/JazzWorld/Natacha Atlas.mp3 - artist : Busi Mhlongo title : Yehlisan’umoya ma-afrika album : The Rough Guide to the Music of South Africa
+2024-08-30 13:23:06 INFO     Image extraite depuis /home/zic/JazzWorld/Natacha Atlas.mp3 vers /home/web/bonnezic.com/album/Natacha Atlas.jpg
+2024-08-30 13:23:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Natacha Atlas.jpg
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Natacha Atlas.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1425/9270 Traitement de /home/zic/JazzWorld/Mama Sissoko - Soleil De Minuit.mp3 - artist : Mama Sissoko title : Soleil de minuit album : Nova 24h
+2024-08-30 13:23:06 INFO     Image extraite depuis /home/zic/JazzWorld/Mama Sissoko - Soleil De Minuit.mp3 vers /home/web/bonnezic.com/album/Mama Sissoko - Soleil De Minuit.jpg
+2024-08-30 13:23:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Mama Sissoko - Soleil De Minuit.jpg
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Mama Sissoko - Soleil De Minuit.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1426/9270 Traitement de /home/zic/JazzWorld/Miles Davis - My Ship.mp3 - artist : Miles Davis Quintet title : My Ship album : Miles Away
+2024-08-30 13:23:06 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - My Ship.mp3 vers /home/web/bonnezic.com/album/Miles Davis - My Ship.jpg
+2024-08-30 13:23:06 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - My Ship.jpg
+2024-08-30 13:23:06 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - My Ship.mp3, not adding to no_cover.txt
+2024-08-30 13:23:06 INFO     1427/9270 Traitement de /home/zic/JazzWorld/Gabrielle Koehlhoeffer - Manga Circus.mp3 - artist : GABRIELLE KOEHLHOEFFER title : GABRIELLE KOEHLHOEFFER / MANGA CIRCUS album : GASY JAZZ PROJECT
+2024-08-30 13:23:06 INFO     Spotify - Début de la recherche pour l'artiste: GABRIELLE KOEHLHOEFFER, album: GASY JAZZ PROJECT
+2024-08-30 13:23:06 INFO     Spotify - Requête envoyée : artist:GABRIELLE KOEHLHOEFFER album:GASY JAZZ PROJECT
+2024-08-30 13:23:06 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2737b89afdc227ab010c510dce8
+2024-08-30 13:23:06 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2737b89afdc227ab010c510dce8
+2024-08-30 13:23:06 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2737b89afdc227ab010c510dce8
+2024-08-30 13:23:06 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2737b89afdc227ab010c510dce8
+2024-08-30 13:23:06 INFO     L'image /home/web/bonnezic.com/spotify/Gabrielle Koehlhoeffer - Manga Circus.jpg n'existe pas
+2024-08-30 13:23:10 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Gabrielle Koehlhoeffer - Manga Circus.jpg
+2024-08-30 13:23:10 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 13:23:10 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Gabrielle Koehlhoeffer - Manga Circus.jpg
+2024-08-30 13:23:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:10 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-30 13:23:10 INFO     Cover found for /home/zic/JazzWorld/Gabrielle Koehlhoeffer - Manga Circus.mp3, not adding to no_cover.txt
+2024-08-30 13:23:10 INFO     1428/9270 Traitement de /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - It S Only A Paper Moon.mp3 - artist : Art Blakey & The Jazz Messengers title : It’s Only a Paper Moon album : The Complete Blue Note Recordings of Art Blakey’s 1960 Jazz Messengers
+2024-08-30 13:23:10 INFO     Image extraite depuis /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - It S Only A Paper Moon.mp3 vers /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - It S Only A Paper Moon.jpg
+2024-08-30 13:23:10 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Art Blakey And The Jazz Messengers - It S Only A Paper Moon.jpg
+2024-08-30 13:23:10 INFO     Cover found for /home/zic/JazzWorld/Art Blakey And The Jazz Messengers - It S Only A Paper Moon.mp3, not adding to no_cover.txt
+2024-08-30 13:23:10 WARNING  Lame tag CRC check failed
+2024-08-30 13:23:10 INFO     1429/9270 Traitement de /home/zic/JazzWorld/Marcus Miller - Human Nature So What (Live).mp3 - artist : Marcus Miller Featuring Christian Scott title : Human Nature / So What album : Tutu Revisited
+2024-08-30 13:23:10 WARNING  Lame tag CRC check failed
+2024-08-30 13:23:10 INFO     Image extraite depuis /home/zic/JazzWorld/Marcus Miller - Human Nature So What (Live).mp3 vers /home/web/bonnezic.com/album/Marcus Miller - Human Nature So What (Live).jpg
+2024-08-30 13:23:10 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Marcus Miller - Human Nature So What (Live).jpg
+2024-08-30 13:23:10 INFO     Cover found for /home/zic/JazzWorld/Marcus Miller - Human Nature So What (Live).mp3, not adding to no_cover.txt
+2024-08-30 13:23:10 INFO     1430/9270 Traitement de /home/zic/JazzWorld/Quincy Jones - No Secrets (They Call Me Mister Tibbs).mp3 - artist : Quincy Jones title : Blues for Mister Tibbs album : In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-30 13:23:10 INFO     Image extraite depuis /home/zic/JazzWorld/Quincy Jones - No Secrets (They Call Me Mister Tibbs).mp3 vers /home/web/bonnezic.com/album/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg
+2024-08-30 13:23:10 INFO     Image /home/web/bonnezic.com/album/Quincy Jones - No Secrets (They Call Me Mister Tibbs).jpg trop petite (400x359)
+2024-08-30 13:23:10 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 13:23:10 INFO     Spotify - Début de la recherche pour l'artiste: Quincy Jones, album: In the Heat of the Night / They Call Me Mister Tibbs
+2024-08-30 13:23:10 INFO     Spotify - Requête envoyée : artist:Quincy Jones album:In the Heat of the Night / They Call Me Mister Tibbs

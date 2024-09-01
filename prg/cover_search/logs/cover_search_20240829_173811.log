@@ -1,0 +1,79 @@
+2024-08-29 17:38:11 INFO     Started
+2024-08-29 17:38:11 INFO     Spotify access token retrieved successfully.
+2024-08-29 17:38:11 INFO     Spotify access token retrieved: BQBTKqmQQtmMG7W-5HIio-_kaYt50IeeqEDUGaWj4BPfSMuttRKOe8wrzIvqcKXN7cNYc7tbbHIviTvPCDBjt1bzuvvfL_uGn24JyTOBpET8nOzJ66c
+2024-08-29 17:38:11 INFO     574/9270 Traitement de /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3 - artist : Francesco De Masi title : Smooth Thrill album : Piombo rovente
+2024-08-29 17:38:11 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - Smooth Thrill.jpg
+2024-08-29 17:38:11 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - Smooth Thrill.jpg trop petite (348x353)
+2024-08-29 17:38:11 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:38:11 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Piombo rovente
+2024-08-29 17:38:11 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Piombo rovente
+2024-08-29 17:38:12 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:12 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:12 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:12 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Francesco De Masi - Smooth Thrill.jpg
+2024-08-29 17:38:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:12 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:12 INFO     Cover found for /home/zic/BO/Francesco De Masi - Smooth Thrill.mp3, not adding to no_cover.txt
+2024-08-29 17:38:12 INFO     618/9270 Traitement de /home/zic/BO/Lalo Schifrin - Mission Impossible Theme.mp3 - artist : Lalo Schifrin title : Mission Impossible album : This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:38:12 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:38:12 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:This Is Cult Fiction: 17 Cult TV & Movie Classics
+2024-08-29 17:38:13 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:38:13 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:38:13 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2739bbaef2fb6c2c4b90a4f5ad5
+2024-08-29 17:38:13 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Mission Impossible Theme.jpg
+2024-08-29 17:38:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:13 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:14 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:14 INFO     Cover found for /home/zic/BO/Lalo Schifrin - Mission Impossible Theme.mp3, not adding to no_cover.txt
+2024-08-29 17:38:14 INFO     620/9270 Traitement de /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 - artist : Francesco De Masi title : The Blue Boat album : Piombo rovente
+2024-08-29 17:38:14 INFO     Image extraite depuis /home/zic/BO/Francesco De Masi - The Blue Boat.mp3 vers /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg
+2024-08-29 17:38:14 INFO     Image /home/web/bonnezic.com/album/Francesco De Masi - The Blue Boat.jpg trop petite (348x353)
+2024-08-29 17:38:14 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:38:14 INFO     Spotify - Début de la recherche pour l'artiste: Francesco De Masi, album: Piombo rovente
+2024-08-29 17:38:14 INFO     Spotify - Requête envoyée : artist:Francesco De Masi album:Piombo rovente
+2024-08-29 17:38:15 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:15 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:15 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27345a7dc48c7d0d18d68e77b51
+2024-08-29 17:38:15 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Francesco De Masi - The Blue Boat.jpg
+2024-08-29 17:38:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:15 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:15 INFO     Cover found for /home/zic/BO/Francesco De Masi - The Blue Boat.mp3, not adding to no_cover.txt
+2024-08-29 17:38:15 INFO     639/9270 Traitement de /home/zic/BO/Ennio Morricone - A Lidia.mp3 - artist : Ennio Morricone title : A lidia: Finale album : Scusi, facciamo l'amore?
+2024-08-29 17:38:15 INFO     Image extraite depuis /home/zic/BO/Ennio Morricone - A Lidia.mp3 vers /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg
+2024-08-29 17:38:15 INFO     Image /home/web/bonnezic.com/album/Ennio Morricone - A Lidia.jpg trop petite (355x352)
+2024-08-29 17:38:15 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-29 17:38:15 INFO     Spotify - Début de la recherche pour l'artiste: Ennio Morricone, album: Scusi, facciamo l'amore?
+2024-08-29 17:38:15 INFO     Spotify - Requête envoyée : artist:Ennio Morricone album:Scusi, facciamo l'amore?
+2024-08-29 17:38:16 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:38:16 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:38:16 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273bb9ea46c08aafd29b95100f3
+2024-08-29 17:38:16 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Ennio Morricone - A Lidia.jpg
+2024-08-29 17:38:16 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-29 17:38:16 ERROR    Deezer - Erreur de requête: Status Code 403
+2024-08-29 17:38:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:17 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:17 INFO     Cover found for /home/zic/BO/Ennio Morricone - A Lidia.mp3, not adding to no_cover.txt
+2024-08-29 17:38:17 INFO     667/9270 Traitement de /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3 - artist : The Mighty Pop title : AudioTrack 16 album : L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:38:17 INFO     Spotify - Début de la recherche pour l'artiste: The Mighty Pop, album: L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:38:17 INFO     Spotify - Requête envoyée : artist:The Mighty Pop album:L'Homme Qui Valait Les 3 Milliards
+2024-08-29 17:38:18 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:38:18 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:38:18 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273ed5901d9efca8a9ffe1c5932
+2024-08-29 17:38:18 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.jpg
+2024-08-29 17:38:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:18 WARNING  Deezer - Aucun résultat trouvé.
+2024-08-29 17:38:18 INFO     Cover found for /home/zic/BO/The Mighty Pop - L Homme Qui Valait Les 3 Milliards.mp3, not adding to no_cover.txt
+2024-08-29 17:38:19 INFO     694/9270 Traitement de /home/zic/BO/Lalo Schifrin - Theme From Medical Center.mp3 - artist : Lalo Schifrin title : Theme From 'Medical Center' - Medical Center (TV) album : Mission: Impossible... And More!
+2024-08-29 17:38:19 INFO     Spotify - Début de la recherche pour l'artiste: Lalo Schifrin, album: Mission: Impossible... And More!
+2024-08-29 17:38:19 INFO     Spotify - Requête envoyée : artist:Lalo Schifrin album:Mission: Impossible... And More!
+2024-08-29 17:38:19 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:38:19 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:38:19 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27339b4c54673ada0808ca87afe
+2024-08-29 17:38:19 INFO     L'image Spotify existe déjà : /home/web/bonnezic.com/spotify/Lalo Schifrin - Theme From Medical Center.jpg

@@ -1,0 +1,210 @@
+2024-08-30 12:30:48 INFO     Started
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved: BQBVH6_uAF0BFzjgB0ldGQBEkAqy3woP7rpaxlO8pBnzBbdgcK2pr9bdsw-AY-iShSPexQoaDKyLEYg6r-uS9H9EN2kj4KTL0gzCLSG5zvpz5lgLlLw
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:49 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:49 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:50 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:50 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:50 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:50 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:50 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:50 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:50 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:50 WARNING  Invalid date: 805
+2024-08-30 12:30:50 INFO     1193/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Piedbwa Pt. Ii.mp3 - artist : Gaël Horellou title : Piedbwa, Pt. II album : Dalonaz
+2024-08-30 12:30:50 WARNING  Invalid date: 805
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Gael Horellou - Piedbwa Pt. Ii.mp3 vers /home/web/bonnezic.com/album/Gael Horellou - Piedbwa Pt. Ii.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gael Horellou - Piedbwa Pt. Ii.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/Gael Horellou - Piedbwa Pt. Ii.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 WARNING  Invalid date: 705
+2024-08-30 12:30:50 INFO     1194/9270 Traitement de /home/zic/JazzWorld/Christophe Zoogones - Ride With Jolly.mp3 - artist : Christophe Zoogones title : Ride with Jolly album : Zoology
+2024-08-30 12:30:50 WARNING  Invalid date: 705
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Christophe Zoogones - Ride With Jolly.mp3 vers /home/web/bonnezic.com/album/Christophe Zoogones - Ride With Jolly.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Christophe Zoogones - Ride With Jolly.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/Christophe Zoogones - Ride With Jolly.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 INFO     1195/9270 Traitement de /home/zic/JazzWorld/Talvin Singh Niladri Kumar - The Bliss.mp3 - artist : Talvin Singh & Niladri Kumar title : The Bliss album : Café del Mar, volumen dieciocho
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Talvin Singh Niladri Kumar - The Bliss.mp3 vers /home/web/bonnezic.com/album/Talvin Singh Niladri Kumar - The Bliss.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Talvin Singh Niladri Kumar - The Bliss.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/Talvin Singh Niladri Kumar - The Bliss.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 INFO     1196/9270 Traitement de /home/zic/JazzWorld/Finley Quaye - Red Rolled And Seen.mp3 - artist : Finley Quaye title : Red Rolled and Seen album : Maverick a Strike
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Finley Quaye - Red Rolled And Seen.mp3 vers /home/web/bonnezic.com/album/Finley Quaye - Red Rolled And Seen.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Finley Quaye - Red Rolled And Seen.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/Finley Quaye - Red Rolled And Seen.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 WARNING  Invalid date: 905
+2024-08-30 12:30:50 INFO     1197/9270 Traitement de /home/zic/JazzWorld/Lionel Belmondo Stephane Belmondo Eric Legnini Laurent Fickelson Thomas Bramerie Dre Pallemaerts - China Cat Sunflower.mp3 - artist : Lionel Belmondo/Stephane Belmondo/Eric Legnini/Laurent Fickelson/Thomas Bramerie/Dré Pallemaerts title : China Cat Sunflower album : Deadjazz (Plays The Music of the Grateful Dead)
+2024-08-30 12:30:50 WARNING  Invalid date: 905
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Lionel Belmondo Stephane Belmondo Eric Legnini Laurent Fickelson Thomas Bramerie Dre Pallemaerts - China Cat Sunflower.mp3 vers /home/web/bonnezic.com/album/Lionel Belmondo Stephane Belmondo Eric Legnini Laurent Fickelson Thomas Bramerie Dre Pallemaerts - China Cat Sunflower.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lionel Belmondo Stephane Belmondo Eric Legnini Laurent Fickelson Thomas Bramerie Dre Pallemaerts - China Cat Sunflower.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/Lionel Belmondo Stephane Belmondo Eric Legnini Laurent Fickelson Thomas Bramerie Dre Pallemaerts - China Cat Sunflower.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:50 INFO     1198/9270 Traitement de /home/zic/JazzWorld/The Cesta All Stars Soneros En Una Cesta.mp3 - artist : The Cesta All Stars title : Soneros en una cesta album : Brown Sugar: Latin Breakbeats, Basslines & Boogaloo
+2024-08-30 12:30:50 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/The Cesta All Stars Soneros En Una Cesta.mp3 vers /home/web/bonnezic.com/album/The Cesta All Stars Soneros En Una Cesta.jpg
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Cesta All Stars Soneros En Una Cesta.jpg
+2024-08-30 12:30:50 INFO     Cover found for /home/zic/JazzWorld/The Cesta All Stars Soneros En Una Cesta.mp3, not adding to no_cover.txt
+2024-08-30 12:30:50 INFO     1199/9270 Traitement de /home/zic/JazzWorld/Avishai Cohen - Angels Of Peace.mp3 - artist : Avishai Cohen title : Angels of Peace album : Devotion
+2024-08-30 12:30:50 INFO     Image extraite depuis /home/zic/JazzWorld/Avishai Cohen - Angels Of Peace.mp3 vers /home/web/bonnezic.com/album/Avishai Cohen - Angels Of Peace.jpg
+2024-08-30 12:30:50 INFO     Image /home/web/bonnezic.com/album/Avishai Cohen - Angels Of Peace.jpg trop petite (300x300)
+2024-08-30 12:30:50 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 12:30:50 INFO     Spotify - Début de la recherche pour l'artiste: Avishai Cohen, album: Devotion
+2024-08-30 12:30:50 INFO     Spotify - Requête envoyée : artist:Avishai Cohen album:Devotion
+2024-08-30 12:30:50 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b2739f3e4dc9c4ea803adb47a6fe
+2024-08-30 12:30:50 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b2739f3e4dc9c4ea803adb47a6fe
+2024-08-30 12:30:50 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b2739f3e4dc9c4ea803adb47a6fe
+2024-08-30 12:30:50 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b2739f3e4dc9c4ea803adb47a6fe
+2024-08-30 12:30:50 INFO     L'image /home/web/bonnezic.com/spotify/Avishai Cohen - Angels Of Peace.jpg n'existe pas
+2024-08-30 12:30:54 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Avishai Cohen - Angels Of Peace.jpg
+2024-08-30 12:30:54 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:30:54 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Avishai Cohen - Angels Of Peace.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Avishai Cohen - Angels Of Peace.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Invalid date: 105
+2024-08-30 12:30:54 INFO     1200/9270 Traitement de /home/zic/JazzWorld/Ray Barretto - Acid (Remastered 2024)....mp3 - artist : Ray Barretto title : Acid (Remastered 2024) album : Acid (Remastered 2024)
+2024-08-30 12:30:54 WARNING  Invalid date: 105
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Ray Barretto - Acid (Remastered 2024)....mp3 vers /home/web/bonnezic.com/album/Ray Barretto - Acid (Remastered 2024)....jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ray Barretto - Acid (Remastered 2024)....jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Ray Barretto - Acid (Remastered 2024)....mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1201/9270 Traitement de /home/zic/JazzWorld/Laurent De Wilde Ira Coleman Jack DeJohnette - Spare Changes.mp3 - artist : Laurent de Wilde/Ira Coleman/Jack DeJohnette title : Spare Changes album : Odd and Blue
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Laurent De Wilde Ira Coleman Jack DeJohnette - Spare Changes.mp3 vers /home/web/bonnezic.com/album/Laurent De Wilde Ira Coleman Jack DeJohnette - Spare Changes.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Laurent De Wilde Ira Coleman Jack DeJohnette - Spare Changes.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Laurent De Wilde Ira Coleman Jack DeJohnette - Spare Changes.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Invalid date: 6
+2024-08-30 12:30:54 INFO     1202/9270 Traitement de /home/zic/JazzWorld/Cymande - Mighty Heavy Load.mp3 - artist : Cymande title : Mighty Heavy Load album : Cymande
+2024-08-30 12:30:54 WARNING  Invalid date: 6
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Cymande - Mighty Heavy Load.mp3 vers /home/web/bonnezic.com/album/Cymande - Mighty Heavy Load.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Cymande - Mighty Heavy Load.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Cymande - Mighty Heavy Load.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1203/9270 Traitement de /home/zic/JazzWorld/Boogaloo Joe Jones - Poppin .mp3 - artist : Ivan ‘Boogaloo Joe’ Jones title : Poppin' album : Legends of Acid Jazz
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Boogaloo Joe Jones - Poppin .mp3 vers /home/web/bonnezic.com/album/Boogaloo Joe Jones - Poppin .jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Boogaloo Joe Jones - Poppin .jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Boogaloo Joe Jones - Poppin .mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Invalid date: 305
+2024-08-30 12:30:54 INFO     1204/9270 Traitement de /home/zic/JazzWorld/Santrofi - Konongo Kaya.mp3 - artist : Santrofi title : Konongo kaya album : Alewa
+2024-08-30 12:30:54 WARNING  Invalid date: 305
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Santrofi - Konongo Kaya.mp3 vers /home/web/bonnezic.com/album/Santrofi - Konongo Kaya.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Santrofi - Konongo Kaya.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Santrofi - Konongo Kaya.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Invalid date: 1
+2024-08-30 12:30:54 INFO     1205/9270 Traitement de /home/zic/JazzWorld/Cymande - Anthracite.mp3 - artist : Cymande title : Anthracite album : Second Time Round
+2024-08-30 12:30:54 WARNING  Invalid date: 1
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Cymande - Anthracite.mp3 vers /home/web/bonnezic.com/album/Cymande - Anthracite.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Cymande - Anthracite.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Cymande - Anthracite.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1206/9270 Traitement de /home/zic/JazzWorld/Herbie Hancock - New York Minute.mp3 - artist : Herbie Hancock title : New York Minute album : The New Standard
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Herbie Hancock - New York Minute.mp3 vers /home/web/bonnezic.com/album/Herbie Hancock - New York Minute.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Herbie Hancock - New York Minute.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Herbie Hancock - New York Minute.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Invalid date: 805
+2024-08-30 12:30:54 INFO     1207/9270 Traitement de /home/zic/JazzWorld/Dj Click Masha Natanson - Rusalkas (Acappella).mp3 - artist : Dj Click/Masha Natanson title : Rusalkas (Acappella) album : Violins Against Bombs
+2024-08-30 12:30:54 WARNING  Invalid date: 805
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Dj Click Masha Natanson - Rusalkas (Acappella).mp3 vers /home/web/bonnezic.com/album/Dj Click Masha Natanson - Rusalkas (Acappella).jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Dj Click Masha Natanson - Rusalkas (Acappella).jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Dj Click Masha Natanson - Rusalkas (Acappella).mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1208/9270 Traitement de /home/zic/JazzWorld/Django Reinhardt - Nuages.mp3 - artist : Quintette du Hot Club de France title : Nuages album : The Complete Django Reinhardt and Quintet of the Hot Club of France Swing/HMV Sessions 1936-1948
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Django Reinhardt - Nuages.mp3 vers /home/web/bonnezic.com/album/Django Reinhardt - Nuages.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Django Reinhardt - Nuages.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Django Reinhardt - Nuages.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     1209/9270 Traitement de /home/zic/JazzWorld/Archie Shepp - Geechee.mp3 - artist : Archie Shepp title : Geechee album : Soul Song
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Archie Shepp - Geechee.mp3 vers /home/web/bonnezic.com/album/Archie Shepp - Geechee.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Archie Shepp - Geechee.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Archie Shepp - Geechee.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     1210/9270 Traitement de /home/zic/JazzWorld/Guem - Balance.mp3 - artist : Guem title : Balance album : Percussions - Le Serpent
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Guem - Balance.mp3 vers /home/web/bonnezic.com/album/Guem - Balance.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Guem - Balance.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Guem - Balance.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1211/9270 Traitement de /home/zic/JazzWorld/Jeff Lorber Fusion - Chinese Medicinal Herbs.mp3 - artist : Jeff Lorber Fusion title : Chinese Medicinal Herbs album : Now Is the Time
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Jeff Lorber Fusion - Chinese Medicinal Herbs.mp3 vers /home/web/bonnezic.com/album/Jeff Lorber Fusion - Chinese Medicinal Herbs.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Jeff Lorber Fusion - Chinese Medicinal Herbs.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Jeff Lorber Fusion - Chinese Medicinal Herbs.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:30:54 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:30:54 INFO     1212/9270 Traitement de /home/zic/JazzWorld/Pharoah Sanders - Black Unity (edit).mp3 - artist : Pharoah Sanders title : Black Unity (edit) album : Anthology: You’ve Got to Have Freedom
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Pharoah Sanders - Black Unity (edit).mp3 vers /home/web/bonnezic.com/album/Pharoah Sanders - Black Unity (edit).jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Pharoah Sanders - Black Unity (edit).jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Pharoah Sanders - Black Unity (edit).mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1213/9270 Traitement de /home/zic/JazzWorld/Charles Kynard - Sweetheart.mp3 - artist : Charles Kynard title : Sweetheart album : Afro-Disiac
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Charles Kynard - Sweetheart.mp3 vers /home/web/bonnezic.com/album/Charles Kynard - Sweetheart.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Charles Kynard - Sweetheart.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Charles Kynard - Sweetheart.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     1214/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - An Oscar For Treadwell.mp3 - artist : Charlie Parker & Dizzy Gillespie title : An Oscar for Treadwell album : Bird and Diz
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - An Oscar For Treadwell.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - An Oscar For Treadwell.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Charlie Parker - An Oscar For Treadwell.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - An Oscar For Treadwell.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1215/9270 Traitement de /home/zic/JazzWorld/Roberto Fonseca - Siete Potencias (Bu Kantu).mp3 - artist : Roberto Fonseca title : Siete potencias (Bu kantu) album : Live in Marciac
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Roberto Fonseca - Siete Potencias (Bu Kantu).mp3 vers /home/web/bonnezic.com/album/Roberto Fonseca - Siete Potencias (Bu Kantu).jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Roberto Fonseca - Siete Potencias (Bu Kantu).jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Roberto Fonseca - Siete Potencias (Bu Kantu).mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1216/9270 Traitement de /home/zic/JazzWorld/Headhunters - Rima.mp3 - artist : The Headhunters title : Rima album : Survival of the Fittest
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Headhunters - Rima.mp3 vers /home/web/bonnezic.com/album/Headhunters - Rima.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Headhunters - Rima.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Headhunters - Rima.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1217/9270 Traitement de /home/zic/JazzWorld/Idrid Muhammad - Super Bad.mp3 - artist : Idris Muhammad title : Super Bad album : Black Rhythm Revolution!
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Idrid Muhammad - Super Bad.mp3 vers /home/web/bonnezic.com/album/Idrid Muhammad - Super Bad.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Idrid Muhammad - Super Bad.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Idrid Muhammad - Super Bad.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     1218/9270 Traitement de /home/zic/JazzWorld/Weather Report - Teen Town.mp3 - artist : Weather Report title : Teen Town album : The Perfect Jazz Collection
+2024-08-30 12:30:54 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:54 INFO     Image extraite depuis /home/zic/JazzWorld/Weather Report - Teen Town.mp3 vers /home/web/bonnezic.com/album/Weather Report - Teen Town.jpg
+2024-08-30 12:30:54 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Weather Report - Teen Town.jpg
+2024-08-30 12:30:54 INFO     Cover found for /home/zic/JazzWorld/Weather Report - Teen Town.mp3, not adding to no_cover.txt
+2024-08-30 12:30:54 INFO     1219/9270 Traitement de /home/zic/JazzWorld/Morogoro Jazz Band - Utaniangamiza.mp3 - artist : Various Artists title : 14 - Utaniangamiza _ Morogoro Jazz Band album : Zanzibara 3
+2024-08-30 12:30:54 INFO     Spotify - Début de la recherche pour l'artiste: Various Artists, album: Zanzibara 3
+2024-08-30 12:30:54 INFO     Spotify - Requête envoyée : artist:Various Artists album:Zanzibara 3
+2024-08-30 12:30:54 WARNING  Spotify - Aucun résultat trouvé.
+2024-08-30 12:30:54 INFO     Spotify - Recherche par album échouée, tentative de recherche par titre.
+2024-08-30 12:30:54 INFO     Spotify track album url : https://i.scdn.co/image/ab67616d0000b27364872933d1a49e6844cd88b3
+2024-08-30 12:30:54 INFO     Spotify - Titre trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b27364872933d1a49e6844cd88b3
+2024-08-30 12:30:54 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b27364872933d1a49e6844cd88b3
+2024-08-30 12:30:54 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b27364872933d1a49e6844cd88b3
+2024-08-30 12:30:54 INFO     L'image /home/web/bonnezic.com/spotify/Morogoro Jazz Band - Utaniangamiza.jpg n'existe pas
+2024-08-30 12:30:58 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Morogoro Jazz Band - Utaniangamiza.jpg
+2024-08-30 12:30:58 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:30:58 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Morogoro Jazz Band - Utaniangamiza.jpg
+2024-08-30 12:30:58 INFO     Cover found for /home/zic/JazzWorld/Morogoro Jazz Band - Utaniangamiza.mp3, not adding to no_cover.txt
+2024-08-30 12:30:58 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:58 INFO     1220/9270 Traitement de /home/zic/JazzWorld/Super Rail Band - Fourou Kolon.mp3 - artist : Super Rail Band title : Fourou Kolon album : Mansa
+2024-08-30 12:30:58 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:58 INFO     Image extraite depuis /home/zic/JazzWorld/Super Rail Band - Fourou Kolon.mp3 vers /home/web/bonnezic.com/album/Super Rail Band - Fourou Kolon.jpg
+2024-08-30 12:30:58 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Super Rail Band - Fourou Kolon.jpg
+2024-08-30 12:30:58 INFO     Cover found for /home/zic/JazzWorld/Super Rail Band - Fourou Kolon.mp3, not adding to no_cover.txt
+2024-08-30 12:30:58 INFO     1221/9270 Traitement de /home/zic/JazzWorld/Ahmad Jamal - Petry.mp3 - artist : Ahmad Jamal title : Petry album : A Quiet Time
+2024-08-30 12:30:58 INFO     Image extraite depuis /home/zic/JazzWorld/Ahmad Jamal - Petry.mp3 vers /home/web/bonnezic.com/album/Ahmad Jamal - Petry.jpg
+2024-08-30 12:30:58 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ahmad Jamal - Petry.jpg
+2024-08-30 12:30:58 INFO     Cover found for /home/zic/JazzWorld/Ahmad Jamal - Petry.mp3, not adding to no_cover.txt
+2024-08-30 12:30:58 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:58 INFO     1222/9270 Traitement de /home/zic/JazzWorld/The Cesta All Stars  Soneros En Una Cesta.mp3 - artist : The Cesta All Stars title : Soneros en una cesta album : Brown Sugar: Latin Breakbeats, Basslines & Boogaloo
+2024-08-30 12:30:58 WARNING  Lame tag CRC check failed
+2024-08-30 12:30:58 INFO     Image extraite depuis /home/zic/JazzWorld/The Cesta All Stars  Soneros En Una Cesta.mp3 vers /home/web/bonnezic.com/album/The Cesta All Stars  Soneros En Una Cesta.jpg
+2024-08-30 12:30:58 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Cesta All Stars  Soneros En Una Cesta.jpg
+2024-08-30 12:30:58 INFO     Cover found for /home/zic/JazzWorld/The Cesta All Stars  Soneros En Una Cesta.mp3, not adding to no_cover.txt
+2024-08-30 12:30:58 INFO     1223/9270 Traitement de /home/zic/JazzWorld/John Coltrane And Red Garland - I Want To Talk About You.mp3 - artist : John Coltrane title : I Want to Talk About You album : Soultrane
+2024-08-30 12:30:58 INFO     Image extraite depuis /home/zic/JazzWorld/John Coltrane And Red Garland - I Want To Talk About You.mp3 vers /home/web/bonnezic.com/album/John Coltrane And Red Garland - I Want To Talk About You.jpg
+2024-08-30 12:30:58 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/John Coltrane And Red Garland - I Want To Talk About You.jpg
+2024-08-30 12:30:58 INFO     Cover found for /home/zic/JazzWorld/John Coltrane And Red Garland - I Want To Talk About You.mp3, not adding to no_cover.txt
+2024-08-30 12:30:58 INFO     1224/9270 Traitement de /home/zic/JazzWorld/Mingus Charles - Zoo-Baba-Da-Oo-Ea.mp3 - artist : Charles Mingus title : Zoo-Baba-Da-Oo-Ea album : Charles Mingus's Finest Hour
+2024-08-30 12:30:58 INFO     Spotify - Début de la recherche pour l'artiste: Charles Mingus, album: Charles Mingus's Finest Hour
+2024-08-30 12:30:58 INFO     Spotify - Requête envoyée : artist:Charles Mingus album:Charles Mingus's Finest Hour
+2024-08-30 12:30:58 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:30:58 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:30:58 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:30:58 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273aa397a43547cd41e228a3063
+2024-08-30 12:30:58 INFO     L'image /home/web/bonnezic.com/spotify/Mingus Charles - Zoo-Baba-Da-Oo-Ea.jpg n'existe pas

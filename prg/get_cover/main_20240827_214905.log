@@ -1,0 +1,218 @@
+2024-08-27 21:49:05 INFO     Started
+2024-08-27 21:49:06 INFO     978/9270 Traitement de /home/zic/JazzWorld/Orchestra Lissanga - Okuzua.mp3
+2024-08-27 21:49:06 INFO     Deezer query artist:"Orchestra Lissanga" album"Nova 24h"
+2024-08-27 21:49:06 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Orchestra%2520Lissanga%2522%2520album%2522Nova%252024h%2522
+2024-08-27 21:49:06 INFO     Statut de la réponse : 200
+2024-08-27 21:49:06 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/7168c2736b0f64f9b4b03813566900a6/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:06 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/7168c2736b0f64f9b4b03813566900a6/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:09 INFO     979/9270 Traitement de /home/zic/JazzWorld/Monty Alexander - Carnival In Jamaica.mp3
+2024-08-27 21:49:09 INFO     Deezer query artist:"Monty Alexander Trio" album"Perception!"
+2024-08-27 21:49:09 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Monty%2520Alexander%2520Trio%2522%2520album%2522Perception%21%2522
+2024-08-27 21:49:09 INFO     Statut de la réponse : 200
+2024-08-27 21:49:09 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0e83a705fcc24fa8af5c2408b2210472/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:09 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/0e83a705fcc24fa8af5c2408b2210472/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:13 WARNING  Lame tag CRC check failed
+2024-08-27 21:49:13 INFO     980/9270 Traitement de /home/zic/JazzWorld/Christian Scott - Died In Love.mp3
+2024-08-27 21:49:13 INFO     Deezer query artist:"Christian Scott" album"Live at Newport"
+2024-08-27 21:49:13 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Christian%2520Scott%2522%2520album%2522Live%2520at%2520Newport%2522
+2024-08-27 21:49:13 INFO     Statut de la réponse : 200
+2024-08-27 21:49:13 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b8d93cb59640423a2ec36ce045551755/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:13 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/b8d93cb59640423a2ec36ce045551755/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:16 INFO     981/9270 Traitement de /home/zic/JazzWorld/Jean-Pierre Llabador - Castelpers.mp3
+2024-08-27 21:49:16 INFO     Deezer query artist:"Jean-Pierre Llabador" album"Give Me Five"
+2024-08-27 21:49:16 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Jean-Pierre%2520Llabador%2522%2520album%2522Give%2520Me%2520Five%2522
+2024-08-27 21:49:16 INFO     Statut de la réponse : 200
+2024-08-27 21:49:16 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/85fcaf8bfd635b7d5640c2bb816b9dff/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:16 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/85fcaf8bfd635b7d5640c2bb816b9dff/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:20 INFO     982/9270 Traitement de /home/zic/JazzWorld/Duke Ellington And John Coltrane - The Feeling Of Jazz.mp3
+2024-08-27 21:49:20 INFO     Deezer query artist:"Duke Ellington & John Coltrane" album"The Impulse! Albums: Volume One"
+2024-08-27 21:49:20 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Duke%2520Ellington%2520%26%2520John%2520Coltrane%2522%2520album%2522The%2520Impulse%21%2520Albums%253A%2520Volume%2520One%2522
+2024-08-27 21:49:20 INFO     Statut de la réponse : 200
+2024-08-27 21:49:20 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2aee03dbf66bbf837b54764841e899be/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:20 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/2aee03dbf66bbf837b54764841e899be/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:23 WARNING  Lame tag CRC check failed
+2024-08-27 21:49:23 INFO     983/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Straight No Chaser.mp3
+2024-08-27 21:49:23 INFO     Deezer query artist:"Miles Davis" album"Milestones"
+2024-08-27 21:49:23 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522Milestones%2522
+2024-08-27 21:49:23 INFO     Statut de la réponse : 200
+2024-08-27 21:49:23 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:23 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:26 INFO     984/9270 Traitement de /home/zic/JazzWorld/Toumani Diabate - El Nabiyouna.mp3
+2024-08-27 21:49:26 INFO     Deezer query artist:"Toumani Diabaté" album"The Mandé Variations"
+2024-08-27 21:49:27 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Toumani%2520Diabat%C3%A9%2522%2520album%2522The%2520Mand%C3%A9%2520Variations%2522
+2024-08-27 21:49:27 INFO     Statut de la réponse : 200
+2024-08-27 21:49:27 INFO     Deezer album url : None
+2024-08-27 21:49:27 INFO     Deezer query artist:"Toumani Diabaté" album:"The Mandé Variations"
+2024-08-27 21:49:27 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Toumani%2520Diabat%C3%A9%2522%2520album%253A%2522The%2520Mand%C3%A9%2520Variations%2522
+2024-08-27 21:49:27 INFO     Statut de la réponse : 200
+2024-08-27 21:49:27 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ddb71008b64dae827038b19b9a7f079e/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:27 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ddb71008b64dae827038b19b9a7f079e/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:30 WARNING  Invalid date: 305
+2024-08-27 21:49:30 INFO     985/9270 Traitement de /home/zic/JazzWorld/Gabriel Pierre - Jacques....mp3
+2024-08-27 21:49:30 INFO     Deezer query artist:"Gabriel Pierre" album"Until Now"
+2024-08-27 21:49:30 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Gabriel%2520Pierre%2522%2520album%2522Until%2520Now%2522
+2024-08-27 21:49:30 INFO     Statut de la réponse : 200
+2024-08-27 21:49:30 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/736ff72449f1d853794e849edc449b17/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:30 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/736ff72449f1d853794e849edc449b17/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:33 INFO     986/9270 Traitement de /home/zic/JazzWorld/Miles Davis - In A Silent Way.mp3
+2024-08-27 21:49:33 INFO     Deezer query artist:"Miles Davis" album"The Complete In a Silent Way Sessions"
+2024-08-27 21:49:34 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522The%2520Complete%2520In%2520a%2520Silent%2520Way%2520Sessions%2522
+2024-08-27 21:49:34 INFO     Statut de la réponse : 200
+2024-08-27 21:49:34 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:34 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:37 INFO     987/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - 4 GK.mp3
+2024-08-27 21:49:37 INFO     Deezer query artist:"Gaël Horellou" album"Coup De Vent"
+2024-08-27 21:49:37 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Ga%C3%ABl%2520Horellou%2522%2520album%2522Coup%2520De%2520Vent%2522
+2024-08-27 21:49:37 INFO     Statut de la réponse : 200
+2024-08-27 21:49:37 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/00b244cc198c08a998cedcea009331b5/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:37 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/00b244cc198c08a998cedcea009331b5/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:40 INFO     988/9270 Traitement de /home/zic/JazzWorld/The Hi Fly Orchestra - Roda De Samba.mp3
+2024-08-27 21:49:40 INFO     Deezer query artist:"The Hi Fly Orchestra" album"Soulshaker, Vol. 6"
+2024-08-27 21:49:40 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522The%2520Hi%2520Fly%2520Orchestra%2522%2520album%2522Soulshaker%2C%2520Vol.%25206%2522
+2024-08-27 21:49:40 INFO     Statut de la réponse : 200
+2024-08-27 21:49:40 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9dd504c58622073f5d3ffe2fac3ac9dc/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:40 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/9dd504c58622073f5d3ffe2fac3ac9dc/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:43 INFO     989/9270 Traitement de /home/zic/JazzWorld/Miles Davis - So What.mp3
+2024-08-27 21:49:43 INFO     Deezer query artist:"Miles Davis" album"Kind of Blue"
+2024-08-27 21:49:44 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522Kind%2520of%2520Blue%2522
+2024-08-27 21:49:44 INFO     Statut de la réponse : 200
+2024-08-27 21:49:44 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:44 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:47 INFO     990/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Central Park Soul.mp3
+2024-08-27 21:49:47 INFO     Deezer query artist:"Gaël Horellou/Ari Hoenig/Etienne Déconfin/Viktor Nyberg" album"Brooklyn"
+2024-08-27 21:49:47 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Ga%C3%ABl%2520Horellou/Ari%2520Hoenig/Etienne%2520D%C3%A9confin/Viktor%2520Nyberg%2522%2520album%2522Brooklyn%2522
+2024-08-27 21:49:47 INFO     Statut de la réponse : 200
+2024-08-27 21:49:47 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b0af1994213e6f3fa9ee13dc64b83394/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:47 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/b0af1994213e6f3fa9ee13dc64b83394/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:50 INFO     991/9270 Traitement de /home/zic/JazzWorld/Rosario Giuliani - Pisteaudio 15.mp3
+2024-08-27 21:49:50 INFO     Deezer query artist:"Rosario Giuliani Quartet" album"Luggage"
+2024-08-27 21:49:50 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Rosario%2520Giuliani%2520Quartet%2522%2520album%2522Luggage%2522
+2024-08-27 21:49:50 INFO     Statut de la réponse : 200
+2024-08-27 21:49:50 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/7724db3a39059e33dbed5d9ded4c3fea/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:50 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/7724db3a39059e33dbed5d9ded4c3fea/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:53 INFO     992/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Bakai.mp3
+2024-08-27 21:49:53 INFO     Deezer query artist:"John Coltrane" album"Coltrane"
+2024-08-27 21:49:54 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522John%2520Coltrane%2522%2520album%2522Coltrane%2522
+2024-08-27 21:49:54 INFO     Statut de la réponse : 200
+2024-08-27 21:49:54 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:54 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:57 WARNING  Lame tag CRC check failed
+2024-08-27 21:49:57 INFO     993/9270 Traitement de /home/zic/JazzWorld/George Benson Dance.mp3
+2024-08-27 21:49:57 INFO     Deezer query artist:"George Benson" album"Pulp Fusion: The Harder They Come"
+2024-08-27 21:49:57 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522George%2520Benson%2522%2520album%2522Pulp%2520Fusion%253A%2520The%2520Harder%2520They%2520Come%2522
+2024-08-27 21:49:57 INFO     Statut de la réponse : 200
+2024-08-27 21:49:57 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 21:49:57 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:00 INFO     994/9270 Traitement de /home/zic/JazzWorld/Nusrat Fateh Ali Khan - Taa Deem.mp3
+2024-08-27 21:50:00 INFO     Deezer query artist:"Nusrat Fateh Ali Khan" album"Mustt Mustt"
+2024-08-27 21:50:01 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Nusrat%2520Fateh%2520Ali%2520Khan%2522%2520album%2522Mustt%2520Mustt%2522
+2024-08-27 21:50:01 INFO     Statut de la réponse : 200
+2024-08-27 21:50:01 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/e2c2e63b9d661b0b8a956000f430fdd6/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:01 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/e2c2e63b9d661b0b8a956000f430fdd6/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:04 INFO     995/9270 Traitement de /home/zic/JazzWorld/Thelonious Monk - Eronel.mp3
+2024-08-27 21:50:04 INFO     Deezer query artist:"Thelonious Monk" album"Criss-Cross"
+2024-08-27 21:50:04 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Thelonious%2520Monk%2522%2520album%2522Criss-Cross%2522
+2024-08-27 21:50:04 INFO     Statut de la réponse : 200
+2024-08-27 21:50:04 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cd980a29c0024b9676a134847dc19142/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:04 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/cd980a29c0024b9676a134847dc19142/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:07 INFO     996/9270 Traitement de /home/zic/JazzWorld/John Coltrane - Bessie S Blues.mp3
+2024-08-27 21:50:07 INFO     Deezer query artist:"John Coltrane" album"The Very Best of John Coltrane"
+2024-08-27 21:50:07 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522John%2520Coltrane%2522%2520album%2522The%2520Very%2520Best%2520of%2520John%2520Coltrane%2522
+2024-08-27 21:50:07 INFO     Statut de la réponse : 200
+2024-08-27 21:50:07 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:07 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:10 INFO     997/9270 Traitement de /home/zic/JazzWorld/Sonny Rollins - Moritat (Mack The Knife).mp3
+2024-08-27 21:50:10 INFO     Deezer query artist:"Sonny Rollins Quintet" album"Tokyo 1963"
+2024-08-27 21:50:11 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Sonny%2520Rollins%2520Quintet%2522%2520album%2522Tokyo%25201963%2522
+2024-08-27 21:50:11 INFO     Statut de la réponse : 200
+2024-08-27 21:50:11 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/81b2b584cfaa922ee0f3103aabf06d03/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:11 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/81b2b584cfaa922ee0f3103aabf06d03/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:14 WARNING  Invalid date: 501
+2024-08-27 21:50:14 INFO     998/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Trippy (Live)....mp3
+2024-08-27 21:50:14 INFO     Deezer query artist:"Gaël Horellou" album"You Must Believe in Spring (Live)"
+2024-08-27 21:50:14 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Ga%C3%ABl%2520Horellou%2522%2520album%2522You%2520Must%2520Believe%2520in%2520Spring%2520%28Live%29%2522
+2024-08-27 21:50:14 INFO     Statut de la réponse : 200
+2024-08-27 21:50:14 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/00b244cc198c08a998cedcea009331b5/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:14 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/00b244cc198c08a998cedcea009331b5/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:17 WARNING  Invalid date: 805
+2024-08-27 21:50:17 INFO     999/9270 Traitement de /home/zic/JazzWorld/Renegades Of Jazz - Majirani Yako Kelele.mp3
+2024-08-27 21:50:17 INFO     Deezer query artist:"Renegades Of Jazz" album"Moyo Wangu"
+2024-08-27 21:50:18 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Renegades%2520Of%2520Jazz%2522%2520album%2522Moyo%2520Wangu%2522
+2024-08-27 21:50:18 INFO     Statut de la réponse : 200
+2024-08-27 21:50:18 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/17402d393c86bc490d8fb3a70dda3648/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:18 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/17402d393c86bc490d8fb3a70dda3648/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:21 INFO     1000/9270 Traitement de /home/zic/JazzWorld/Goran Bregovic - Borino Oro.mp3
+2024-08-27 21:50:21 INFO     Deezer query artist:"Goran Bregović" album"Le Temps des Gitans / Kuduz"
+2024-08-27 21:50:21 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Goran%2520Bregovi%C4%87%2522%2520album%2522Le%2520Temps%2520des%2520Gitans%2520/%2520Kuduz%2522
+2024-08-27 21:50:21 INFO     Statut de la réponse : 200
+2024-08-27 21:50:21 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/15cac1741afc350ea6323e4faaf7fa74/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:21 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/15cac1741afc350ea6323e4faaf7fa74/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:24 INFO     1001/9270 Traitement de /home/zic/JazzWorld/Nubiyan Twist Feat. Mulatu Astatke - Addis To London.mp3
+2024-08-27 21:50:24 INFO     Deezer query artist:"Nubiyan Twist feat. Mulatu Astatke" album"Jungle Run"
+2024-08-27 21:50:24 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Nubiyan%2520Twist%2520feat.%2520Mulatu%2520Astatke%2522%2520album%2522Jungle%2520Run%2522
+2024-08-27 21:50:24 INFO     Statut de la réponse : 200
+2024-08-27 21:50:24 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/0affaff1f05133e7e5e58a5fc5311ab2/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:24 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/0affaff1f05133e7e5e58a5fc5311ab2/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:27 INFO     1002/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Ah-Leu-Cha.mp3
+2024-08-27 21:50:27 INFO     Deezer query artist:"Miles Davis" album"Live at Newport 1958 & 1963"
+2024-08-27 21:50:28 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522Live%2520at%2520Newport%25201958%2520%26%25201963%2522
+2024-08-27 21:50:28 INFO     Statut de la réponse : 200
+2024-08-27 21:50:28 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:28 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:31 INFO     1003/9270 Traitement de /home/zic/JazzWorld/Romano Vignolo Trotignon - Don T Let Me Be Lonely.mp3
+2024-08-27 21:50:31 INFO     Deezer query artist:"Aldo Romano - Rémi Vignolo - Baptiste Trotignon" album"Flower Power"
+2024-08-27 21:50:31 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Aldo%2520Romano%2520-%2520R%C3%A9mi%2520Vignolo%2520-%2520Baptiste%2520Trotignon%2522%2520album%2522Flower%2520Power%2522
+2024-08-27 21:50:31 INFO     Statut de la réponse : 200
+2024-08-27 21:50:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/b92e7f8aab7e58d01e902b9f0026224b/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:31 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/b92e7f8aab7e58d01e902b9f0026224b/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:34 INFO     1004/9270 Traitement de /home/zic/JazzWorld/Benny Carter Oscar Peterson - Baubles Bangles And Beads.mp3
+2024-08-27 21:50:34 INFO     Deezer query artist:"Benny Carter & Oscar Peterson" album"Benny Carter Meets Oscar Peterson"
+2024-08-27 21:50:35 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Benny%2520Carter%2520%26%2520Oscar%2520Peterson%2522%2520album%2522Benny%2520Carter%2520Meets%2520Oscar%2520Peterson%2522
+2024-08-27 21:50:35 INFO     Statut de la réponse : 200
+2024-08-27 21:50:35 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/9d765ad77cad24e25b76cda620f7445b/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:35 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/9d765ad77cad24e25b76cda620f7445b/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:38 INFO     1005/9270 Traitement de /home/zic/JazzWorld/Erik Truffaz - Mr Wyatt.mp3
+2024-08-27 21:50:38 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" album"Rendez-Vous"
+2024-08-27 21:50:38 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520album%2522Rendez-Vous%2522
+2024-08-27 21:50:38 INFO     Statut de la réponse : 200
+2024-08-27 21:50:38 INFO     Aucun résultat trouvé.
+2024-08-27 21:50:38 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" album:"Rendez-Vous"
+2024-08-27 21:50:38 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520album%253A%2522Rendez-Vous%2522
+2024-08-27 21:50:38 INFO     Statut de la réponse : 200
+2024-08-27 21:50:38 INFO     Aucun résultat trouvé.
+2024-08-27 21:50:38 INFO     Deezer query artist:"Erik Truffaz & Sly Johnson" track:"Mr Wyatt"
+2024-08-27 21:50:38 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Erik%2520Truffaz%2520%26%2520Sly%2520Johnson%2522%2520track%253A%2522Mr%2520Wyatt%2522
+2024-08-27 21:50:38 INFO     Statut de la réponse : 200
+2024-08-27 21:50:38 ERROR    Erreur lors de la récupération du nom de l'album avec Deezer. 'cover_big'
+2024-08-27 21:50:38 INFO     Deezer - query artist:"Erik Truffaz" track:"Mr Wyatt"
+2024-08-27 21:50:38 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Erik%2520Truffaz%2522%2520track%253A%2522Mr%2520Wyatt%2522
+2024-08-27 21:50:38 INFO     Statut de la réponse : 200
+2024-08-27 21:50:38 ERROR    Erreur lors de la récupération du nom de l'album avec Deezer. 'cover_big'
+2024-08-27 21:50:38 INFO     Spotify query artist:Erik Truffaz & Sly Johnson album:Rendez-Vous
+2024-08-27 21:50:39 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AErik+Truffaz+%26+Sly+Johnson+album%3ARendez-Vous&type=album
+2024-08-27 21:50:39 INFO     Statut de la réponse : 401
+2024-08-27 21:50:39 ERROR    Erreur de requête: Status Code 401
+2024-08-27 21:50:39 INFO     Spotify query artist:Erik Truffaz & Sly Johnson track:Mr Wyatt
+2024-08-27 21:50:39 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AErik+Truffaz+%26+Sly+Johnson+track%3AMr+Wyatt&type=track
+2024-08-27 21:50:39 INFO     Statut de la réponse : 401
+2024-08-27 21:50:39 ERROR    Erreur de requête: Status Code 401
+2024-08-27 21:50:39 INFO     Image non trouvée pour /home/zic/JazzWorld/Erik Truffaz - Mr Wyatt.mp3
+2024-08-27 21:50:39 ERROR    /home/zic/JazzWorld/Erik Truffaz - Mr Wyatt.mp3 No Cover
+2024-08-27 21:50:39 INFO     1006/9270 Traitement de /home/zic/JazzWorld/Thelonious Monk - Rhythm-A-Ning.mp3
+2024-08-27 21:50:39 INFO     Deezer query artist:"Thelonious Monk" album"Criss-Cross"
+2024-08-27 21:50:39 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Thelonious%2520Monk%2522%2520album%2522Criss-Cross%2522
+2024-08-27 21:50:39 INFO     Statut de la réponse : 200
+2024-08-27 21:50:39 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/cd980a29c0024b9676a134847dc19142/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:39 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/cd980a29c0024b9676a134847dc19142/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:42 INFO     1007/9270 Traitement de /home/zic/JazzWorld/Pucho And His Latin Soul Brother - Homeland.mp3
+2024-08-27 21:50:42 INFO     Deezer query artist:"Pucho & The Latin Soul Brothers" album"Yaina"
+2024-08-27 21:50:42 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Pucho%2520%26%2520The%2520Latin%2520Soul%2520Brothers%2522%2520album%2522Yaina%2522
+2024-08-27 21:50:42 INFO     Statut de la réponse : 200
+2024-08-27 21:50:42 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/2b46375fe28ba0c8cad575935e0f00b1/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:42 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/2b46375fe28ba0c8cad575935e0f00b1/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:45 INFO     1008/9270 Traitement de /home/zic/JazzWorld/Laurent De Wilde - Back On The Beat.mp3
+2024-08-27 21:50:45 INFO     Deezer query artist:"Laurent de Wilde" album"Life Is a Movie"
+2024-08-27 21:50:46 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Laurent%2520de%2520Wilde%2522%2520album%2522Life%2520Is%2520a%2520Movie%2522
+2024-08-27 21:50:46 INFO     Statut de la réponse : 200
+2024-08-27 21:50:46 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ab1d2b96793aa7858f7bfb7ed7f31ce2/500x500-000000-80-0-0.jpg
+2024-08-27 21:50:46 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ab1d2b96793aa7858f7bfb7ed7f31ce2/500x500-000000-80-0-0.jpg

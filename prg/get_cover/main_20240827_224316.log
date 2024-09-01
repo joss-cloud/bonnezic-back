@@ -1,0 +1,9 @@
+2024-08-27 22:43:16 INFO     Started
+2024-08-27 22:43:16 INFO     Spotify access token retrieved successfully.
+2024-08-27 22:43:17 WARNING  Lame tag CRC check failed
+2024-08-27 22:43:17 INFO     1015/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Donna (Alternate Take).mp3
+2024-08-27 22:43:17 INFO     Deezer query artist:"Miles Davis" album"Blue Note Vol. 1"
+2024-08-27 22:43:17 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Miles%2520Davis%2522%2520album%2522Blue%2520Note%2520Vol.%25201%2522
+2024-08-27 22:43:17 INFO     Statut de la réponse : 200
+2024-08-27 22:43:17 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg
+2024-08-27 22:43:17 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/fb9fbd93db667e24d4f5dee781e83f7d/500x500-000000-80-0-0.jpg

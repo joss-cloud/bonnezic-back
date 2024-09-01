@@ -1,0 +1,141 @@
+2024-08-30 12:34:30 INFO     Started
+2024-08-30 12:34:30 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:30 INFO     Spotify access token retrieved: BQDwXfcrcCahch6afT_64KWZ6LhOqdcTqSlhBtZ8OsHzA3C-jzMxl4I8U7RrLGs3mwj0x5dRvQboUsfZ4N1QgWUIg_CogLD5JAmTIW9Z2Q8XJPmrIto
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:31 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:31 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:32 INFO     Spotify access token needs to be renewed.
+2024-08-30 12:34:32 INFO     Spotify access token retrieved successfully.
+2024-08-30 12:34:32 INFO     1249/9270 Traitement de /home/zic/JazzWorld/Monty Alexander - Alypso.mp3 - artist : Monty Alexander title : Alypso album : Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:32 INFO     Spotify - Début de la recherche pour l'artiste: Monty Alexander, album: Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:32 INFO     Spotify - Requête envoyée : artist:Monty Alexander album:Alexander The Great - Monty Swings On MPS CD3
+2024-08-30 12:34:32 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:32 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:32 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:32 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273fd2e8627bae2959612045e6f
+2024-08-30 12:34:32 INFO     L'image /home/web/bonnezic.com/spotify/Monty Alexander - Alypso.jpg n'existe pas
+2024-08-30 12:34:36 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Monty Alexander - Alypso.jpg
+2024-08-30 12:34:36 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:36 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Monty Alexander - Alypso.jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Monty Alexander - Alypso.mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 INFO     1250/9270 Traitement de /home/zic/JazzWorld/Marcus Miller - Trip Trap.mp3 - artist : Marcus Miller title : Trip Trap album : Laid Black
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Marcus Miller - Trip Trap.mp3 vers /home/web/bonnezic.com/album/Marcus Miller - Trip Trap.jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Marcus Miller - Trip Trap.jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Marcus Miller - Trip Trap.mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 INFO     1251/9270 Traitement de /home/zic/JazzWorld/Salif Keita - Coucou.mp3 - artist : Salif Keita title : Koukou album : Moffou
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Salif Keita - Coucou.mp3 vers /home/web/bonnezic.com/album/Salif Keita - Coucou.jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Salif Keita - Coucou.jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Salif Keita - Coucou.mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 WARNING  Invalid date: 806
+2024-08-30 12:34:36 INFO     1252/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Children Of The Night....mp3 - artist : Gaël Horellou title : Children of the Night album : Moral De Fer
+2024-08-30 12:34:36 WARNING  Invalid date: 806
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Gael Horellou - Children Of The Night....mp3 vers /home/web/bonnezic.com/album/Gael Horellou - Children Of The Night....jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Gael Horellou - Children Of The Night....jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Gael Horellou - Children Of The Night....mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 INFO     1253/9270 Traitement de /home/zic/JazzWorld/Branford Marsalis - Sleepy Hollow - (hidden track).mp3 - artist : Branford Marsalis title : Sleepy Hollow album : Contemporary Jazz
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Branford Marsalis - Sleepy Hollow - (hidden track).mp3 vers /home/web/bonnezic.com/album/Branford Marsalis - Sleepy Hollow - (hidden track).jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Branford Marsalis - Sleepy Hollow - (hidden track).jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Branford Marsalis - Sleepy Hollow - (hidden track).mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:36 INFO     1254/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - La Cucuracha.mp3 - artist : Charlie Parker title : La cucuracha album : South of the Border
+2024-08-30 12:34:36 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - La Cucuracha.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - La Cucuracha.jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Charlie Parker - La Cucuracha.jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - La Cucuracha.mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 INFO     1255/9270 Traitement de /home/zic/JazzWorld/Ray Barretto - Con El Cimarron.mp3 - artist : Ray Barretto title : Con el cimarrón album : The Message
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Ray Barretto - Con El Cimarron.mp3 vers /home/web/bonnezic.com/album/Ray Barretto - Con El Cimarron.jpg
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Ray Barretto - Con El Cimarron.jpg
+2024-08-30 12:34:36 INFO     Cover found for /home/zic/JazzWorld/Ray Barretto - Con El Cimarron.mp3, not adding to no_cover.txt
+2024-08-30 12:34:36 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:36 INFO     1256/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - Almost Like Being In Love.mp3 - artist : Charlie Parker title : Almost Like Being in Love album : The Genius of Charlie Parker
+2024-08-30 12:34:36 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:36 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - Almost Like Being In Love.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - Almost Like Being In Love.jpg
+2024-08-30 12:34:36 INFO     Image /home/web/bonnezic.com/album/Charlie Parker - Almost Like Being In Love.jpg trop petite (300x300)
+2024-08-30 12:34:36 INFO     Image extraite du fichier MP3 mais trop petite, tentative de téléchargement via Spotify et Deezer.
+2024-08-30 12:34:36 INFO     Spotify - Début de la recherche pour l'artiste: Charlie Parker, album: The Genius of Charlie Parker
+2024-08-30 12:34:36 INFO     Spotify - Requête envoyée : artist:Charlie Parker album:The Genius of Charlie Parker
+2024-08-30 12:34:37 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 12:34:37 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 12:34:37 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 12:34:37 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f
+2024-08-30 12:34:37 INFO     L'image /home/web/bonnezic.com/spotify/Charlie Parker - Almost Like Being In Love.jpg n'existe pas
+2024-08-30 12:34:40 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Charlie Parker - Almost Like Being In Love.jpg
+2024-08-30 12:34:40 INFO     Dimensions originales de l'image : 640x636
+2024-08-30 12:34:40 INFO     Image redimensionnée et sauvegardée : /home/web/bonnezic.com/spotify/Charlie Parker - Almost Like Being In Love.jpg
+2024-08-30 12:34:40 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Charlie Parker - Almost Like Being In Love.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - Almost Like Being In Love.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 WARNING  Invalid date: 6
+2024-08-30 12:34:40 INFO     1257/9270 Traitement de /home/zic/JazzWorld/Jiro Inagaki And His Soul Media - Painted Paradise....mp3 - artist : Jiro Inagaki and His Soul Media title : Painted Paradise album : Funky Stuff
+2024-08-30 12:34:40 WARNING  Invalid date: 6
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Jiro Inagaki And His Soul Media - Painted Paradise....mp3 vers /home/web/bonnezic.com/album/Jiro Inagaki And His Soul Media - Painted Paradise....jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Jiro Inagaki And His Soul Media - Painted Paradise....jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Jiro Inagaki And His Soul Media - Painted Paradise....mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 INFO     1258/9270 Traitement de /home/zic/JazzWorld/Lee Konitz - Indian Summer.mp3 - artist : Lee Konitz title : Indian Summer album : Conception
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Lee Konitz - Indian Summer.mp3 vers /home/web/bonnezic.com/album/Lee Konitz - Indian Summer.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Lee Konitz - Indian Summer.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Lee Konitz - Indian Summer.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     1259/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Enigm.mp3 - artist : Miles Davis title : Enigma album : Miles Davis, Volume 2
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Miles Davis - Enigm.mp3 vers /home/web/bonnezic.com/album/Miles Davis - Enigm.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Miles Davis - Enigm.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Miles Davis - Enigm.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     1260/9270 Traitement de /home/zic/JazzWorld/Charlie Parker - Dexterity.mp3 - artist : Charlie Parker Quintet title : Dexterity album : Complete Savoy & Dial Sessions
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Charlie Parker - Dexterity.mp3 vers /home/web/bonnezic.com/album/Charlie Parker - Dexterity.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Charlie Parker - Dexterity.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Charlie Parker - Dexterity.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     1261/9270 Traitement de /home/zic/JazzWorld/Rusty Briant - Friday Night Funk.mp3 - artist : Rusty Bryant title : Friday Night Funk for Saturday Night Brothers album : Afrodisia, Volume 3
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Rusty Briant - Friday Night Funk.mp3 vers /home/web/bonnezic.com/album/Rusty Briant - Friday Night Funk.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Rusty Briant - Friday Night Funk.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Rusty Briant - Friday Night Funk.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 INFO     1262/9270 Traitement de /home/zic/JazzWorld/The Vince Guaraldi Trio - Generique.mp3 - artist : Vince Guaraldi Trio title : Générique / A felicidade album : Jazz Impressions of Black Orpheus
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/The Vince Guaraldi Trio - Generique.mp3 vers /home/web/bonnezic.com/album/The Vince Guaraldi Trio - Generique.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/The Vince Guaraldi Trio - Generique.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/The Vince Guaraldi Trio - Generique.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     1263/9270 Traitement de /home/zic/JazzWorld/Grover Washington Jr. - Happenstance.mp3 - artist : Grover Washington, Jr. title : Happenstance album : All My Tomorrows
+2024-08-30 12:34:40 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Grover Washington Jr. - Happenstance.mp3 vers /home/web/bonnezic.com/album/Grover Washington Jr. - Happenstance.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Grover Washington Jr. - Happenstance.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Grover Washington Jr. - Happenstance.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 INFO     1264/9270 Traitement de /home/zic/JazzWorld/Daivid Sanchez - Urban Frequency.mp3 - artist : David Sánchez title : Urban Frequency album : Street Scenes
+2024-08-30 12:34:40 INFO     Image extraite depuis /home/zic/JazzWorld/Daivid Sanchez - Urban Frequency.mp3 vers /home/web/bonnezic.com/album/Daivid Sanchez - Urban Frequency.jpg
+2024-08-30 12:34:40 INFO     Image extraite du fichier MP3 : /home/web/bonnezic.com/album/Daivid Sanchez - Urban Frequency.jpg
+2024-08-30 12:34:40 INFO     Cover found for /home/zic/JazzWorld/Daivid Sanchez - Urban Frequency.mp3, not adding to no_cover.txt
+2024-08-30 12:34:40 INFO     1265/9270 Traitement de /home/zic/JazzWorld/Gael Horellou - Children Of The Night.mp3 - artist : Gael Horellou title : Children Of The Night album : no title
+2024-08-30 12:34:40 INFO     Spotify - Début de la recherche pour l'artiste: Gael Horellou, album: no title
+2024-08-30 12:34:40 INFO     Spotify - Requête envoyée : artist:Gael Horellou album:no title
+2024-08-30 12:34:41 INFO     Spotify album url : https://i.scdn.co/image/ab67616d0000b273bc718a0fb884536fd56613b4
+2024-08-30 12:34:41 INFO     Spotify - Album trouvé, URL de l'image : https://i.scdn.co/image/ab67616d0000b273bc718a0fb884536fd56613b4
+2024-08-30 12:34:41 INFO     Spotify - Téléchargement de l'image depuis : https://i.scdn.co/image/ab67616d0000b273bc718a0fb884536fd56613b4
+2024-08-30 12:34:41 INFO     Image trouvée sur Spotify : https://i.scdn.co/image/ab67616d0000b273bc718a0fb884536fd56613b4
+2024-08-30 12:34:41 INFO     L'image /home/web/bonnezic.com/spotify/Gael Horellou - Children Of The Night.jpg n'existe pas
+2024-08-30 12:34:44 INFO     L'image a été téléchargée et sauvegardée sous : /home/web/bonnezic.com/spotify/Gael Horellou - Children Of The Night.jpg
+2024-08-30 12:34:44 INFO     Dimensions originales de l'image : 640x640
+2024-08-30 12:34:44 INFO     L'image Spotify est valide et a été sauvegardée : /home/web/bonnezic.com/spotify/Gael Horellou - Children Of The Night.jpg
+2024-08-30 12:34:44 INFO     Cover found for /home/zic/JazzWorld/Gael Horellou - Children Of The Night.mp3, not adding to no_cover.txt
+2024-08-30 12:34:44 WARNING  Lame tag CRC check failed
+2024-08-30 12:34:44 INFO     1266/9270 Traitement de /home/zic/JazzWorld/Miles Davis - Tempus Fugit (alternate Take).mp3 - artist : Miles Davis title : Tempus Fugit (alternate take) album : Miles Davis, Volume 2

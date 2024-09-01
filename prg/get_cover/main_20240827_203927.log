@@ -1,0 +1,13 @@
+2024-08-27 20:39:27 INFO     Started
+2024-08-27 20:39:28 INFO     60/9270 Traitement de /home/zic/Mix11/Super Preachers - Uzi Listening.mp3
+2024-08-27 20:39:28 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 20:39:28 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 20:39:28 INFO     Statut de la réponse : 200
+2024-08-27 20:39:28 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 20:39:28 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 20:39:31 INFO     100/9270 Traitement de /home/zic/Mix11/Super Preachers - Fruit Gum Game.mp3
+2024-08-27 20:39:31 INFO     Deezer query artist:"Super Preachers" album"Stereophonic Sometimes"
+2024-08-27 20:39:31 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Super%2520Preachers%2522%2520album%2522Stereophonic%2520Sometimes%2522
+2024-08-27 20:39:31 INFO     Statut de la réponse : 200
+2024-08-27 20:39:31 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg
+2024-08-27 20:39:31 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/aa469b31d05304990268dac074a85d5d/500x500-000000-80-0-0.jpg

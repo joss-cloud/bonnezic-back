@@ -1,0 +1,60 @@
+2024-08-27 22:25:39 INFO     Started
+2024-08-27 22:25:39 INFO     923/9270 Traitement de /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 22:25:39 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album"A Tribute to Miles"
+2024-08-27 22:25:39 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:25:39 INFO     Statut de la réponse : 200
+2024-08-27 22:25:39 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:39 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" album:"A Tribute to Miles"
+2024-08-27 22:25:39 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520album%253A%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:25:39 INFO     Statut de la réponse : 200
+2024-08-27 22:25:39 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:39 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams" track:"Elegy"
+2024-08-27 22:25:39 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2520%26%2520Tony%2520Williams%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:25:39 INFO     Statut de la réponse : 200
+2024-08-27 22:25:39 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:39 INFO     Deezer - query artist:"A Tribute To Miles" track:"Elegy"
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520Tribute%2520To%2520Miles%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:25:40 INFO     Statut de la réponse : 200
+2024-08-27 22:25:40 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:40 INFO     Tentative avec le premier artiste seulement: Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney
+2024-08-27 22:25:40 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney" album"A Tribute to Miles"
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2522%2520album%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:25:40 INFO     Statut de la réponse : 200
+2024-08-27 22:25:40 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:40 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney" album:"A Tribute to Miles"
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2522%2520album%253A%2522A%2520Tribute%2520to%2520Miles%2522
+2024-08-27 22:25:40 INFO     Statut de la réponse : 200
+2024-08-27 22:25:40 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:40 INFO     Deezer query artist:"Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney" track:"Elegy"
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522Herbie%2520Hancock%2C%2520Wayne%2520Shorter%2C%2520Ron%2520Carter%2C%2520Wallace%2520Roney%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:25:40 INFO     Statut de la réponse : 200
+2024-08-27 22:25:40 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:40 INFO     Deezer - query artist:"A Tribute To Miles" track:"Elegy"
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.deezer.com/search?q=artist%253A%2522A%2520Tribute%2520To%2520Miles%2522%2520track%253A%2522Elegy%2522
+2024-08-27 22:25:40 INFO     Statut de la réponse : 200
+2024-08-27 22:25:40 INFO     Aucun résultat trouvé.
+2024-08-27 22:25:40 INFO     Spotify query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams album:A Tribute to Miles
+2024-08-27 22:25:40 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AHerbie+Hancock%2C+Wayne+Shorter%2C+Ron+Carter%2C+Wallace+Roney+%26+Tony+Williams+album%3AA+Tribute+to+Miles&type=album
+2024-08-27 22:25:40 INFO     Statut de la réponse : 401
+2024-08-27 22:25:40 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:25:40 INFO     Spotify query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney & Tony Williams track:Elegy
+2024-08-27 22:25:41 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AHerbie+Hancock%2C+Wayne+Shorter%2C+Ron+Carter%2C+Wallace+Roney+%26+Tony+Williams+track%3AElegy&type=track
+2024-08-27 22:25:41 INFO     Statut de la réponse : 401
+2024-08-27 22:25:41 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:25:41 INFO     Tentative avec le premier artiste seulement sur Spotify: Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney
+2024-08-27 22:25:41 INFO     Spotify query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney album:A Tribute to Miles
+2024-08-27 22:25:41 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AHerbie+Hancock%2C+Wayne+Shorter%2C+Ron+Carter%2C+Wallace+Roney+album%3AA+Tribute+to+Miles&type=album
+2024-08-27 22:25:41 INFO     Statut de la réponse : 401
+2024-08-27 22:25:41 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:25:41 INFO     Spotify query artist:Herbie Hancock, Wayne Shorter, Ron Carter, Wallace Roney track:Elegy
+2024-08-27 22:25:41 INFO     Requête envoyée : https://api.spotify.com/v1/search?q=artist%3AHerbie+Hancock%2C+Wayne+Shorter%2C+Ron+Carter%2C+Wallace+Roney+track%3AElegy&type=track
+2024-08-27 22:25:41 INFO     Statut de la réponse : 401
+2024-08-27 22:25:41 ERROR    Erreur de requête: Status Code 401
+2024-08-27 22:25:41 INFO     Image non trouvée pour /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3
+2024-08-27 22:25:41 ERROR    /home/zic/JazzWorld/A Tribute To Miles - Elegy.mp3 No Cover
+2024-08-27 22:25:41 INFO     927/9270 Traitement de /home/zic/JazzWorld/Atomic Jazz Band - Salamu Zako Nimezipata.mp3
+2024-08-27 22:25:41 INFO     Deezer query artist:"Various Artists" album"Zanzibara 3"
+2024-08-27 22:25:41 INFO     Requête envoyée : https://api.deezer.com/search/album?q=artist%253A%2522Various%2520Artists%2522%2520album%2522Zanzibara%25203%2522
+2024-08-27 22:25:41 INFO     Statut de la réponse : 200
+2024-08-27 22:25:41 INFO     Deezer album url : https://e-cdns-images.dzcdn.net/images/cover/ce05a1588e6aef47e6c8440ce94d12c7/500x500-000000-80-0-0.jpg
+2024-08-27 22:25:41 INFO     Image trouvée sur Deezer : https://e-cdns-images.dzcdn.net/images/cover/ce05a1588e6aef47e6c8440ce94d12c7/500x500-000000-80-0-0.jpg
