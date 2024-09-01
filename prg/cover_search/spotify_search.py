@@ -55,7 +55,7 @@ class SpotifySearch:
         return self.handle_response(response)
 
     def handle_response(self, response):
-        """Gérer la réponse de l'API Spotify."""
+        """Analyse la réponse de l'API Spotify."""
         try:
             if response.status_code == 200:
                 data = response.json()
